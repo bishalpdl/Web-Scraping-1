@@ -1,0 +1,819 @@
+X:2867
+T:The rambler from Clare
+O:ireland
+C:anon.
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 223
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+K:Am
+(A/B/)|cAB GAE|DEG GAB|cBA GED|EAA A2B|cAB GAE|DEG GAB|cde fed|cAA A2:|
+|:B|(c>de/^f/) gef|gea ged|e^f^g aba|ge^f ged|(c>de/^f/) ge^g|aba ged|cde =fed|cAA A2:|
+
+
+
+X:165
+T: The Merry Maiden
+R: double jig
+N: "collected by O'Reilly"
+B: O'Neill's 1063
+Z: Transcribed by henrik.norbeck@mailbox.swipnet.se
+M: 6/8
+L: 1/8
+K: D
+(d/B/)|ADD BAF|ABd edB|ADD BAF|AFE E2B|
+ADD BAF|ABd edB|AdB AGE|FDD D2:|
+B|AFA d2e|fdf ecA|BAB d2e|faf gfe|
+AFA d2e|fdf ecA|BdB AGE|FDD D2:|
+
+
+
+X:784
+T:Bridge No 4
+O:england
+R:double jig
+M:6/8
+L:1/8
+Q:120
+K:G
+AGF G3|AEF G3|dBG GFG|AEF FGA|
+AGF GFG|AGF GFG|fdd edd|fdd cAF:|
+GBd gfg|f/2g/2ag fga|g3 fgg|a2g fga|
+bag agf|gfe ^e2=e|d2d d2e|fed cAF:|
+
+
+
+X:2479
+T:The dairy maid
+O:ireland
+C:anon.
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 292
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+K:G
+(A/G/)|FDD FEF|DGG G2A|BAB GBd|cAG F2A|BAB Bcd|cBc ABc|(d/e/f)d cAF|AGG G2:|
+||d|gfe fdc|BGG G2g|fef (d/e/f)d|cAG F2c|BAB Bcd|cBc ABc|(d/e/f)d cAF|AGG G2:|
+
+
+
+X: 3384
+T:Gan Ainm (Apples in Winter)
+R:Double Jig
+C:Traditional
+S:Dervish's "Harmony Hill"
+A:Eire
+M:6/8
+L:1/8
+K:A
+fBB ~a3|faf ecB|~A3 cAc|efg aga|!
+fBB ~a3|faf ecB|Ace aga|fec Bce:|!
+|:f2b baf|~b3 baf|~a3 aec|Ace aga|!
+fbb fbb|eaa eaa|fec a2a|fec B3:|!
+
+
+
+X:166
+T:Jack-of-all-trades
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 166
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0166/oneill-1001-0166-1.abc
+M:6/8
+L:1/8
+K:A
+E|ABA Ace|a2A A2B|cde dcB|ABA GFE|ABA Ace|a2A A2B|cde dcB|cAA A2:|
+|:E|A3 cBA|cee e2e|a3 f2b|gee e2e|fga ecA|gbe' c'ae|fga c2B|cAA A2:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X: 46
+T:Haunted House, The
+M:6/8
+L:1/8
+C:Vincent Broderick
+R:Double Jig
+K:G
+D[|:G3 AGA|BGE EDE|GBd egd|ege edB|!
+G3 AGA|BGE EDE|GBd ege|dBG G2D:|]!
+GBd egd|ege edB|GBd ded|ded dBA|!
+GBd egd|ege edB|GBd ege|dBA G3||!
+GBd egd|ege edB|GBd ded|ded dBA|!
+G3 AGA|BGE EDE|GBd ege|dBA G3|]!
+
+
+
+X:211
+T:My brother Tom
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 211
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0211/oneill-1001-0211-1.abc
+M:6/8
+L:1/8
+K:Ddor
+D|:DED AGE|GAB cBc|DED AGE|GcA GEC|DED AGE|GAB cBc|edc dcA|GcA GED::ABc dcd|
+edc d2c|ABc d2e|=fed cAG|[1 ABc dcd|edc d2c|GAB cBc|GcA GEC:|[2 =fed edc|dcA c2A|GAB c2A|GcA GED|]
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X: 37
+T:Connaughtsman's Rambles, The
+M:6/8
+L:1/8
+R:Double Jig
+N:
+K:D
+A[|:FAA dAA|BAA dAG|FAA dfe|dBB B2A|!
+FAA dAA|BAB def|gfe dfe|1dBB B2A:|2dBB B2e|!
+|:fbb faa|fef ede|fbb faa|fed e2g|!
+fbb faa|fef def|gfe dfe|1dBB B2e:|2dBB B2A|]!
+
+
+
+X:43
+T:Paddy whack
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 43
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0043/oneill-1001-0043-1.abc
+M:6/8
+L:1/8
+Q:3/8=128
+K:G
+c|BGB cde|dBG A2G|GBd efg|fdd d2 e/f/|gbg gfd|c>de dBG|GAB cAd|BGG G2:| B|GBd g>fg|
+edc BAG|GBd e>fg|fdd d2 z|[1{e/f/}GBd g>fg|edc BAG|GAB cAd|BGG G2 :|[2 gbg afd|c>de dBG|GAB cAd|BGG G2|]
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:245
+T: The hare in the corn
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 49
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-0049.abc
+M: 6/8
+L: 1/8
+Q: 3/8=128
+K: Dmix
+B|BAB c2A|BAB c2A|BdB AFD|EFE E2c|BAB c2A|BAB c2A|BdB AFA|DED D2:|
+G|F2A AFA|BGB AFA|BdB AFD|EFE E2G|F2A AFA|BGB AFA|BdB AFA|DED D2:|
+g|fdd edd|fdd d2A|BdB AFD|EFE E2g|fdd edd|fdB AFA|DFA deg|fdd d2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:1
+T:Shandon bells
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 1
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0001/oneill-1001-0001-1.abc
+M:6/8
+L:1/8
+Q:3/8=128
+K:D
+B|:AFD DFA|ded cBA|BGE EFA|B2A Bcd|\
+AFD DFA|ded cBA|Bcd ecA|[1d3 dcB:|[2 d3d2||
+g|f2 d- ded|faa afd|cAA eAA|cBc efg|f2 d- ded|faa afd|Bcd ecA|d3 d2:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:110
+T: Oh! Hag you have killed me
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 321
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-0321.abc
+M: 6/8
+L: 1/8
+K: D
+D2d cAG|F3 GEA|DGE EFD|AGE EFD|D2d cAc|dcA GEA|(D{F}ED) (D{F}ED)|(D{F}ED)
+(D{F}ED):|
+|:ABA GAG|FDF GEA|DGE EFD|AGE EFD|(A/B/c).A dAG|FDF GEA|(D{F}ED) (D{F}ED)
+|(D{F}ED) (D{F}ED):|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X: 5713
+T:Bessy Murphy
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 177
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+K:G
+(A/G/)|F2G ABc|ded cAG|FGA cAG|FGA A2G|F2G ABc|ded cAG|FDF GAG|FDF G2:|
+|:g|fed cde|fed cAG|FGA cAG|FGA A2g|fed cde|fed cAG|FDF GAG|FDF G2:|
+
+
+
+X:24
+T:The Maid At The Well
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 24
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:6/8
+L:1/8
+K:G
+A|GED DED|GEG c2e|dcB AGA|BAG E2A|GED DED|GDG c2e|dcB AGA|BGG G2:|
+d|gdd edd|gdB c2e|dcB AGA|BAG E2d|gdd edd|gdB c2e|dcB AGA|BGG G2:|
+
+
+
+X: 1
+T:I do not incline
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 179
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+K:G
+(G/E/)|DB,D G2A|B>cB A>GA|BGE EGA|BGE E2 (G/E/)|DB,D G2A|B>cB AGA|BGE DEF|GAG G2:|
+|:(G/A/)|BGG AFF|GEE FDD|E<FE E2(G/A/)|BGE E2 (G/E/)|DB,D G2A|B>cB A>GA|BGE DEF|GAG G2:|
+
+
+
+X: 11
+T: Malowney's wife
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 11
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-001
+1.abc
+M: 6/8
+L: 1/8
+Q: 3/8=128
+K: D
+(A/G/)|F2A AFA|AFA AFD|GBG FGA|\
+BGE E2 (A/G/)|F2A AFA|AFA d2A|Bcd AFd|AFD D2:|
+d|ecA Bcd|ecA AGF|GBG FGA|BGE E2d|\
+ecA Bcd|ecA d2A|Bcd AFd|AFD D2:|
+(f/g/)|afa gfe|fed cBA|BdB AFA|BGE E2 (f/g/)|\
+afa gfe|fed cBA|BdB AFd|AFD D2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:5904
+T:Seamus Cooley's Jig
+O:england
+R:double jig
+M:6/8
+L:1/8
+K:G
+A|BAB G2E|DB,D D2E|GAB AGE|A3 AGA|
+BAB G2E|DB,D D2E|GAB AGE|G3 G2:|
+A|BAB d2B|BAB d2B|A2A AGE|A2A AGA|
+BAB d2B|BAB d2B|G2B AGE|G3 G2A|
+BAB d2B|BAB d2B|ABA AGE|ABA AGA|
+BAB G2E|DB,D D2E|GAB AGE|G3 G2||
+
+
+
+X:204
+T:The Little House Under The Hill
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 204
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:6/8
+L:1/8
+K:D
+B|AGF AGF|AGF A2B|AGF AGF|GEF G2B|AGF AGF|AGF ABc|dcB AGF|GEF G2:|
+||d|AFF DFF|AFF A2B|AFF DFF|GEF G2B|AFF DFF|AFG ABc|d (B/c/d) AGF|GEF G2:
+|
+||A|dFF AFF|dFF A2c|dFF AFF|GEF G2A|dFF AFF|dFF ABc|d(B/c/d/B/) AGF|GEF G
+2: |
+
+
+
+X: 3
+T: Hartigan's fancy
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 3
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-000
+3.abc
+M: 6/8
+L: 1/8
+Q: 3/8=128
+K: G
+D|B2B GBd|cBc ABc|B2B GBd|\
+cAG FGA|B2B GBd|cBc ABc|(d/e/f)(d c).A.F|AGGG2:|
+d|f2f fed|cAG FGA|g2g gfg|afd d2 (f/g/)|fag fed|\
+cAG FGA|(B/c/d)(B {d}c).A.F|AGG G2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:225
+T: Out with the boys
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 45
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-0045.abc
+M: 6/8
+L: 1/8
+Q: 3/8=128
+K: Em
+(3D/E/F/|G3 g2e|dBG AGE|DEG BAG|BAA (A2B/A/)|G3 g2e|dBG AGE|DEG BAG|AGF G
+2: |
+d|e^de gfg|e^de gfg|e^de gfg|fdB B2d|e^de gfg|agf gfe|BcB AGA|BGE E2:|
+(3D/E/F/|G2g gdB|G2g gdB|DFA cBA|BFA GFE|D2g gdB|G2g gdB|BcB AGA|BGE E2:|
+
+
+
+X:177
+T:Bessy Murphy
+O:ireland
+C:anon.
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 177
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+K:G
+(A/G/)|F2G ABc|ded cAG|FGA cAG|FGA A2G|F2G ABc|ded cAG|FDF GAG|FDF G2:|
+|:g|fed cde|fed cAG|FGA cAG|FGA A2g|fed cde|fed cAG|FDF GAG|FDF G2:|
+
+
+
+X:277
+T:The Onehorned Cow
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 277
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:6/8
+L:1/8
+K:G
+Bdd gdd|edd gdc|Bdd gdd|edc BcA|Bdd gdd|edc gdc|Bdd gfg|edB TA2G:|
+||Bdd ecc|dBB ecc|Bdd ece|dBG TA2G|Bdd ecc|dBB ecc|Bdd gfg|edB TA2G:|
+
+
+
+X:1087
+T:Wallop the Spot
+R:double jig
+N:"collected by McFadden"
+B:O'Neill's 1087
+Z:Transcribed by henrik.norbeck@mailbox.swipnet.se
+M:6/8
+L:1/8
+K:D
+d2B cAF|FEF dAF|d2B cAF|B2d AFE|
+d2B cAF|FEF dAF|dfd cec|B2d AFE:|
+c2d ecA|eaf ecA|c2d ecA|B2F AFE|
+c2d ecA|eaf ef^g|agf ecA|TB2F AFE:|
+DFA dfd|dfd dAF|DFA dAF|B2d AFE|
+DFA dfd|dfd d2g|(f/g/a)g d2A|B2d AFE:|
+(TF2E) D2D|DED D2E|{G}FEF DFA|B2d AFE|
+(TF2E) D2D|DED D2c|dcB {d}cBA|B2d AFE:|
+
+
+
+X: 247
+T: The bashful maid
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 247
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-024
+7.abc
+M: 6/8
+L: 1/8
+K: D
+A|FAA AFA|AFA d2B|GBB FAA|EFE E2A|FAA AFA|AFA d2B|ABc dcB|AFD D2:|
+||d|ecA ABA|ecA d2A|GBB FAA|EFE E2d|ecA ABA|edc d2B|ABc ecB|AFD D2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:440
+T: Willy Walsh's jig
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 88
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-0088.abc
+M: 6/8
+L: 1/8
+K: D
+B|ADD BAF|ABd edB|ADD BAF|AFE E2F|ADD BAF|ABd efB|AdB AFA|Bdd d2:|
+|:B|AFA d2e|fdf ecA|BAB d2e|faf gfg|AFA d2e|fdf ecA|AdB AFA|Bdd d2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:6
+T:Doctor O'Neill
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 6
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:6/8
+L:1/8
+K:D
+A|"   ~"Nd3 AFD|E2F G2 A|BGB Bcd|AGF EFA|"   ~"Nd3 AFD|\
+E2 F G2 A|BGB Bcd|AFD D2:|A|"   ~"Nd3 ceA|dfe dcB|
+AFA Bcd|AGF EFA|"   ~"Nd3 ceA|dfe dcB|AFA Bcd|AFD D2:|g|\
+{g}fef afd|ded fed|gbg faf|gee e2 g|
+{g}fef afd|ded fed|gbg fag|fdd d2:|g|\
+{g}fdf ece|{e}dcB AFA|AFd AFd|AGF E2 g|{g}fdf ece|dcB AFA|
+AFA Bcd|AFD D2::G|FAF GBG|FAG FED|FAF GBG|AGF E2G|\
+FAF GBG|FAG FED|BGB Bcd|AFD D2:|
+
+
+
+X:460
+T: The humors of Ballingarry
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 92
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-0092.abc
+M: 6/8
+L: 1/8
+K: G
+A|BGG dGG|cAG FGA|BGG BdB|cAF G2A|BGG dGG|cAG FGA|def gdB|cAF G2:|
+|:B|def ~g3|edc BAG|eaa aga|bge edB|def gfg|edc BAB|GBd gdB|cAF G2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X: 1
+T:The dairy maid
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 292
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+K:G
+(A/G/)|FDD FEF|DGG G2A|BAB GBd|cAG F2A|BAB Bcd|cBc ABc|(d/e/f)d cAF|AGG G2:|
+||d|gfe fdc|BGG G2g|fef (d/e/f)d|cAG F2c|BAB Bcd|cBc ABc|(d/e/f)d cAF|AGG G2:|
+
+
+
+X: 1
+T:The eavesdropper
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 17
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+Q:3/8=128
+K:G
+D|GBB BAG|Bdd dBG|cee dBG|BAA A2B|GBB BAG|Bdd dBG|cee dBA|BGG G2:|
+d|gfg afd|efg d2B|cee dBG|BAA Adf|gab afd|efg dBG|cee dBA|BGG G2:|
+
+
+
+X: 1
+T:Katie Farrell's
+S:irtrad-l, 8/94
+C:Larry Mallette
+Z:A: Irish
+R: Double Jig
+E:8
+M:6/8
+Z:Written November 1993. Dedicated to the memory of an
+Z:elegant lady who loved music.
+I:speed 350
+K:D
+BGE EGB|AFD DFA|BGE EGB|e2f gfe|\
+dBG DGB|AFD DFA|B2A Bcd|[1 efg ~e3:|[2 efg e2d||
+e2f edB|GAB AFD|E2F GAB|c=BA B2d|\
+e2f edB|GAB AFD|[1 E2F G2B|AFD E2d:|[2 GFE AGF|BFD E3||
+
+
+
+X: 1111
+T: Apples in Winter
+R:double jig
+N:"collected by Ennis"
+B:O'Neill's 1111
+Z:Transcribed by henrik.norbeck@mailbox.swipnet.se
+M:6/8
+L:1/8
+K:Em
+(d/c/)|BEE dEE|BAG FEF|DED FDF|ABc ded|
+BEE BAB|^def gfe|fdB AdF|FEE E2:|
+B|efe edB|(e/f/g)e fdB|ded dAF|DFA ^def|
+e=dB ^def|gba gfe|fdB AdF|FEE E2:|
+
+
+
+X:334
+T:When You Go Home
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 334
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:6/8
+L:1/8
+K:Dmix
+G|FDE F2d|cAA (BA)(G|F)DE F2d|cAF (G/B/AG)|FDE F2d|cAB (cd)e|fef (d/f/)e(
+d|c)AF G2:|
+||B|=cAA fe(d|c)AG A2B|=cAA fe(d|c)AF G2B|=cAA fe(d|c)AB (cd)e|fef
+(d/f/ed)|c(AF) G2:|
+
+
+
+X:7405
+T:The Three Grey Walls
+O:england
+M:6/8
+L:1/8
+C:Rob Greenway
+R:Double Jig
+K:EDor
+BGE FGA|BdB fBe|gfe dBf|fed cde|BGE FGA|BdB fBe|d2B cde|dcB ~A3:||
+|dBG ~A3|BGE F3|EFG FGA|Bcd f2e|dBG ~A3|BGE F3|EGF GFE|DB,F E3|
+|dBG ~A3|BGE F3|EFG FGA|Bcd fef|gfe dBf|fed cde|dcB AB=c|BGF E3||
+
+
+
+X: 1101
+T: The Dairy Maid
+R:double jig
+N:"" "2nd Setting" "collected by F.O'Neill"
+B:O'Neill's 1101
+Z:Transcribed by henrik.norbeck@mailbox.swipnet.se
+M:6/8
+L:1/8
+K:G
+(A/G/)|FDD FEF|DGG G2A|BAB GBd|cAG F2A|
+BAB Bcd|cBc ABc|(d/e/f)d cAF|AGG G2:|
+d|gfe fdc|BGG G2g|fef (d/e/f)d|cAG F2c|
+BAB Bcd|cBc ABc|(d/e/f)d cAF|AGG G2:|
+
+
+
+X: 193
+T: The woodcock
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 193
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-019
+3.abc
+M: 6/8
+L: 1/8
+K: G
+DGG BGG|dGG BGG|DGG BAG|FAA BGE|DGG BGG|dGG BGG|DGG ABc|[1 BGA GED:|[2 BG
+G G2||
+(3A/B/c/|d2g B2d|(A/B/c).A BGE|DGG {c}BAG|FAA ABc|d2g B2d|(A/B/c).A BGE|D
+GG ABc|BGG GA(B/c/)|
+dgf edc|(A/B/c).A BGE|DGG {c}BAG|FAA ABc|dgf edc|(A/B/c).A BGE|DGG ABc|BG
+G G2|]
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X: 3751
+T:Sixpenny Money
+R:double jig
+C:Jig
+M:6/8
+L:1/8
+K:D
+fAA fAA|BAG FEF|DED AFA|def e2d:|!
+fdf gfg|afd ecA|fdf gfg|afd e2d|!
+fdf ~g3|faf edB|AFA AFA|def e2d:|!
+
+
+
+X:146
+T:Jackson's morning brush
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 146
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0146/oneill-1001-0146-1.abc
+M:6/8
+L:1/8
+K:D
+D|DFE EFD|DFA AFA|BAB def|gfg e2D|DFE EFD|DFA AFA|BAB d2e|fdd d2::g|fed faf|ede fdB|
+AFA def|gfg e2g|fed faf|ede fdB|AFA d2e|fdd d2::g|fdf ece|dBd AFA|DFA def|gfg e2g|
+fdf ece|dBd AFA|DFA d2e|fdd d2g|fdf ece|dBd AFA|DFA def|gfg e2g|afd gec|dcB AFA|
+DFA d2e|fdd d2||g|fed faf|gbg faf|fed faf|gfg e2g|fed faf|gbg faf|fed eag|fdd d2:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:330
+T: The Man Who Died and Rose Again
+R: double jig
+N: "collected by P.Tuohy"
+B: O'Neill's 1096
+Z: Transcribed by henrik.norbeck@mailbox.swipnet.se
+M: 6/8
+L: 1/8
+K: G
+GBA G2A|BGe e2d|GBA G2B|AFD AFD|
+GBA G2A|BAB dcd|edB edB|AFD DFD:|
+gef g2a|bge e2f|gef g2b|afd dcd|
+GFG AGA|BAB dcd|edB edB|AFD DFD:|
+
+
+
+X:13
+T:david's lesson
+R:double jig
+Z:ceri
+M:6/8
+L:1/8
+Q:3/8=100
+K:G
+d3 B3|dcB Bcd|e3 c3|edc cde|g3 d3|gde dce|gGA BdB|G3-G2 z:||
+d2B d2B|c2A c2A|B2G B2G|e2c e2c|d2B d2B|c2A c2A|A3 GAB|
+d3 B3|dcB Bcd|e3 c3|edc cde|g3 d3|gde dce|gGA BdB|G3-g z||
+
+
+
+X: 74
+T: A trip to the cottage
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 74
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-007
+4.abc
+M: 6/8
+L: 1/8
+K: Dmix
+B/c/|dcd BGB|cBc AFA|DGG FAA|GBB ABc|dcd BGB|cBc AFA|DGG FGA|BGG G2H:|
+|:d|gfe d2d|edc Bcd|ecA dBG|FAG FED|gfe d2d|edc Bcd|efg eag|fdd d2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:40
+T: Little House Under the Hill, The
+T: An Teac Beag Faoi An Cnoc
+R: double jig
+C: "collected by F.O'Neill"
+S: 988 O'Neill's Music of Ireland
+B: O'Neill's 988
+Z: Transcribed by Robert Thorpe (thorpe@skep.com)
+Z: ABCMUS 1.0
+M: 6/8
+K: D
+B|AGF AGF|AGF A2B|AGF AGF|GEF G2 B|!
+|AGF AGF|AGF ABc|dcB AGF|GEF G2:|!
+B|AFF DFF|AFF A2 B|AFF DFF|GEF G2 B|!
+|AFF DFF|AFG ABc|dB/-c/-d AGF|GEF G2:|!
+A|dFF AFF|dFF A2 c|dFF AFF|GEF G2 A|!
+|dFF AFF|dFF ABc|dB/-c/-d/-B/ AGF|GEF G2:|
+
+
+
+X:635
+T:Don't be teasing
+O:ireland
+C:anon.
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 350
+R:Double jig
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:6/8
+L:1/8
+K:D
+B|AFD DFD|AFA dcB|AFD DF(D|E)FG (Bc)d|AFD DFD|AFA (d2A)|(B/c/d)(B c)e(d|d3) d2:|
+||g|afd dc(d|B)cd (AF)D|afd dc(d|B)cd e2f|afd dcd|(Be)(d c)BA|Bgf ec(A|d3) d2:|
+
+
+
+X:25
+T: The blooming meadows
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 304
+R: Double jig
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-0304.abc
+M: 6/8
+L: 1/8
+K: G
+G/F/|D2G G2A|BdB ({d}c)AG|F2D DED|F2G AFD|D2G G2A|BAG ABd|fed ({d}c)AF|GA
+G G2:|(3d/e/f/|g2d def|
+g2a bag|f2d ded|f2g afd|[1 g2d def|g2a bag|fed cAF|GAG G2:|[2 g2e f2d|edc
+Bcd|fed cAF|GAG G2|]
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:75
+T: Miners of Wicklow, The
+T: Na Tocalaide Ua Cill-Mantain
+R: double jig
+C: "collected by McFadden"
+S: 995 O'Neill's Music of Ireland
+B: O'Neill's 995
+Z: Transcribed by Robert Thorpe (thorpe@skep.com)
+Z: ABCMUS 1.0
+M: 6/8
+K: D
+D3/2-E/-F/-G/ ABc|dcB AGF|GBF EFE|FAF DED|!
+|D3/2-E/-F/-G/ ABc|dcB AFA[1 Bcd edc|dAG FED:|[2 Bcd efg|fdd d2||!
+g|fdd fdf|ecA efg|fdd def|{a}gfg e.fg|!
+|f/-g/-af gab|afd cBA|[1 Bcd efg|fdd d2:|
+[2 Bcd edc|dAG FED||
+
+
+

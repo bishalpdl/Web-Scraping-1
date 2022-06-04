@@ -1,0 +1,813 @@
+X: 29
+T:Calgarth Hornpipe. WI.029
+M:C
+Q:180
+S:Wm Irwin, 1838 MS, AGG's Transcription
+R:Hornpipe
+O:England
+A:Lake District
+Z:vmp.Chris Partington.2005
+K:F
+"Key sig. Bb in MS"cB|A2F2 F2GA|\
+B2G2 G2cB|Acfe dcBA|G2C2 C2cB|!
+A2F2 F2GA|BABc defg|abga ecde|f2a2 f2:|!
+|:fg|afdf Afcf|afdf bagf|gece Aece|gece gfef|!
+dfcf BfAf|GABc defg|abga ecde|f2a2 f2:|]
+
+
+
+X:898
+T:The boys of Bluehill
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 898
+R:Hornpipe
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0898/oneill-1001-0898-1.abc
+M:2/4
+L:1/16
+K:D
+(FG)|BAFA D2(FA)|BABd e2(de)|faaf egfe|dfed B2(dB)|BAFA D2(FA)|BABd e2(de)|faaf egfe|d2dd d2:|
+|:(fg)|afdf a2(gf)|gfga b2(ag)|faaf egfe|dfed B2(dB)|BAFA D2(FA)|BABd e2(de)|faaf egfe|d2ddd2:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:1609
+T:New Moon, The
+R:hornpipe
+N:"Collected by F. O'Neill"
+B:O'Neill's 1609
+Z:Transcribed by Michael Hogan
+M:2/4
+L:1/16
+K:G
+(3DEF | GFGA BGdB | AGAB cAFA | GFGA BGdB | AGAB A2(3DEF |
+GFGA BGdB | AGAB Agfa | gdec dBcA | B2G2 G2 :|
+(3def) | gfga gfed | cBAB cdef | gfga gfed | e2a2 a2(3def |
+gfga gfed | cBAB cdef | gdec dBcA | B2G2 G2 :||
+
+
+
+X: 18
+T:Robert Hurr's Liverpool Hornpipe
+R:Hornpipe
+O:Robert Hurr
+M:4/4
+A:Southwold, Suffolk
+L:1/8
+Q:140
+S:Ralph Vaughan Wiliams Notebook
+Z:John Adams VMP
+K:F
+(3GAG | F2 DG F2DE | DF B2 B2 (3GAG | F2DG F2 DF | G2 C2 C2 C2 |! 
+F2 DG F2 DG | DF B2 B2 c2 | d2 B2 ABcA |B6 :|!
+|: Bc | d2 d4 d2 | c2 B2 cdce | d2 B2 d2 B2 | cBAG F4 |!
+d2 d4 d2 | cBAB cdce | d2 B2 ABcA | B6:||
+
+
+
+X: 1
+T:Home Ruler, The
+T:Daniel O'Connell, The Home Ruler
+C:Frank McCollum of Ballycastle
+R:hornpipe
+H:Frank McCollum was a great fiddler and composer from
+H:Ballycastle, Co. Antrimm, who died a couple of years ago
+H:[this was written in 1981 - PdG].  He wrote the superb tune
+H:'The Home Ruler' in honour of Charles Stewart Parnell and
+H:this is currently proving popular with recording artists.
+D:Noel Hill & Tony Linnane
+Z:id:hn-hornpipe-10
+M:C|
+K:D
+FE|D2FA D2FA|dfed B2dB|~A3B AFDF|(3GFE FD B,DA,B,|
+D2FA D2FA|dfed B2dB|~A3B AF (3EFG|F2D2 D2:|
+|:dB|Addc d2df|afbf afed|efed BAde|fded BdAB|
+Addc d2df|afbf afed|efed BAdB|AFEF D2:|
+
+
+
+X: 7
+T:Showman
+R:Hornpipe
+C:Trad
+M:4/4
+L:1/8
+K:D
+FG | A^GAB Adfd | ~B2 gf edcB | A^GAB AFDF |~E2 ED E2  FG | A^GAB Adf
+d | ~B2 gf edcB | Adfa gecd | eddc d2 :|
+|:cd | e^def gece | dcde fdAd | ~g2 ~f2 ~e2  ~d2 | ~c2 ~B2  A2 FG | A^GA
+B Adfd | ~B2
+ gf edcB | Aafd Bgec | d2f2d2 :|
+
+
+
+X:7033
+T:High Level Hornpipe, The
+C:James Hill, Northumberland
+R:hornpipe
+H:Original tune in Bb, and only 2 parts
+H:James Hill Hill was born in Scotland between 1813 and 1818,
+H:moved to Tyneside (he lived in Gateshead for sure, possibly
+H:Newcastle and other places for a while) and was active in the
+H:mid-1800s.  No date of death.
+D:Paddy Keenan
+D:Johnny Doran (only 2 parts)
+Z:id:hn-hornpipe-16
+M:C|
+K:G
+BA|GBDG BDGB|dgBd GBAG|FADF ADFA|fed^c ed=cA|
+GBDG BDGB|dgBd GBAG|FGAB cBcd|(3fed (3cBA G2:|
+|:AG|(3FAF dA (3FAF dA|(3FAF dA (3FAF dA|BdGd BdGd|BGBd gfed|
+^ceAe ceAe|^cAce gecA|d^cdf afge|(3ded ^ce d2:|
+|:(3def|gdBG ecAF|GdBG DGGF|EcEc DBDB|cBAG GFED|
+DBGF EcAF|GdBG DGGF|(3EGc (3EGc (3DGB (3DGB|ADFA G2:|
+
+
+
+X: 1289
+T:The Lone Bush
+R:Hornpipe
+C:Ed Reavy
+N:As played
+S:Dermy Diamond, Belfast (fiddle)
+D:Session tape, Kitchen Bar, Belfast late 80's
+M:4/4
+Z:Bernie Stocks
+K:G
+(3DEF | GABd (3cBc dB | GABd c2 (3ABc| defa gfdc | (3Bcd BG =FDCD |
+GABd (3cBc dB | GABd c2 (3ABc | dgfd cAFA |1 (3GFG  (3AGF G2 (3DEF
+:|2 (3GFG  (3AGF G2 (3def || gdBd =fcAc | gd (3Bcd f2ef | gbfa gfde |
+(3fga eg fdcA | GABd (3cBc dB | GABd c2 (3ABc | dgfd cAFA
+|1 (3GFG  (3AGF G2 (3def :|2 (3GFG  (3AGF G2 (3DEF ||
+
+
+
+X: 1
+T: Lamplighter's Hornpipe (R-90)
+M: C|
+Z: Transcribed to abc by Mary Lou Knack
+R: hornpipe
+K: A
+cd| "A"ecec eagf| ecec eagf| ecec fedc| "E7"d2B2 B2cd|
+    "A"ecec eagf| ecec eagf| efde "E7"cdBc| "A"A2A2 A2 :|
+|:\
+cd| "A"edcd e2fe| "E7"dcBc d2ed| "A"cAcA dcBA| "E"GABc B2cd|
+    "A"edcd e2fe| "E"dcBc d2ed| "A"cagf "E"edcB| "A"A2c2 A2 :|
+%%text 12/19/04
+
+
+
+X: 806
+T: Chief O'Neill's favorite
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 806
+R: hornpipe
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-080
+6.abc
+M: C|
+L: 1/8
+K: D
+(de) | fefg- afge | fde(c d)cAG| (FE)(FD) FGAB- | cAdc A2(de) |\
+fefg- afge | fde(c d)cAG| (FE)(FD) GBAG | F2 D2 D2 :|
+|: (DE) | (FEF)D- FGAB | cAdB (cA)GB | Adde- fded | c(Adc) A2 (de) |\
+fefg- afge | fde(c d)cAG| (FE)(FD) GBAG | F2 D2 D2 :|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X: 101
+T:Killala Bay
+R:Hornpipe
+C:Ed Reavy
+M:4/4
+L:1/8
+Z:Joe Reavy
+N:For the great bay in the west, where so many
+N:of Ed's friends came from.
+K:G
+DG \
+| BGBG AGFD | GABG B^cdf | eBcA FGAF | GBAG (3FED (3CB,A, |
+| G,B,DG BGFG | EA^GA cABc | dfeg fdcA |1 GBAF G2 :|2 GBAF GFGg ||
+|: bgdB GFGf | afcA FEFA | B^cdf egfa | gbag (3fed (3cBA |
+| GFGA BGBG | ABcA B^cdf | (3efg fd cAFA |1 GBAF GFGg :|2 GBAF G2 |]
+
+
+
+X: 871
+T: Old man Quinn
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 871
+R: Hornpipe
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-087
+1.abc
+M: C|
+L: 1/8
+K: D
+A>G|F>DF>A d>fe>d|c>de>c A>BA>G|F>DF>A d>fe>d|c2A2A2A>G|F>DF>A d>fe>d|
+c>de>c A>BA>G|(3Bcd A>B G>F (3EFG|F2D2D2::g2|f>df>g a>fd>f|e>de>f g>ec>e|
+d>cB>A d>fe>d|c2A2A2d>c|
+(3BcB (3ABA G>AG>A|(3Bcd (3ABA F>GF>A|(3Bcd A>B G>F (3EFG|F2D2D2::AG|(3FG
+F (3EFE D>FA>d|(3cBA B>c A>ce>g|
+(3fff d>f g>fe>d|c2A2A2 d>c|(3BcB (3ABA G>AG>A|(3Bcd (3ABA F>GF>A|(3Bcd A
+>B G>F (3EFG|F2D2D2:|
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X:937
+T:The Bantry hornpipe
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 937
+R:Hornpipe
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0937/oneill-1001-0937-1.abc
+M:C|
+L:1/8
+K:G
+(dc)|BAG(B cB)cA|dbg(e de)dB|cecA (3(Bcd) (BG)|FGA(G FD)EG|BAB(G cB)cA|dbg(e de)dB|cedc (3(BAG) (3(AGF)|
+G2B2G2::(cB)|AGA(B cB)ce|dfg(e dc)dB|cecA (3(Bcd) BG|FGA(G FD)EF|(GF)(GA B)GFD|GABG ABcA|dgfe (3(ded) (3(cBA)|G2B2G2:|
+|:Bc|dgBg dgBg|(3(gfg) bg fdef|gage dedc|(3(BAG) (3(AGF) GDB,D|Gg(ge) dBGB|cBc(d ef)ge|dgfe (3(ded) (3(cBA)|G2B2G2:|
+|:(dc)|B(GGF) G(DB,D)|(3(GFG) (BG) ABcA|(dc)(de) f(dCA)|(3(ded) (cA) d2(cA)|B(GGF) G(DB,D)|(3(GFG) (3(BAG) ABcA|d(gfe) (3(ded) (3(cBA)|G2B2G2:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:330
+T: Liverpool Breakdown
+S: "Ceol Rince na hEireann" 1/204
+Z: B.Black
+L: 1/8
+M: C|
+R: hornpipe
+K: G
+BA|Gggf gbaf|gedc Bd (3cBA|GDGg ecAG|FGAB c2 BA|
+Gggf gbaf|gedc BcBA|GBdg ecAF|G2 GF G2 :|
+ga|bage dega|bgag a2 ga|(3bag (3agf gedc|BAAA c2 BA|
+Gggf gbaf|gedc BcBA|GBdg ecAF|G2 GF G2 :|
+
+
+
+X:914
+T:Higgin's Hornpipe
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 914
+R:Hornpipe
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:C|
+L:1/8
+K:D
+F>E|D>FA>F D>GB>G|F>Ad>e f>dA>F|F>A (3def g>fe>d|(3efd (3cdB (3ABG (3FGE|
+
+
+
+X: 2003
+T:Stoney Steps Hornpipe. WM060
+M:C
+L:1/8
+Q:180
+S:Wm.Mittell,1799
+R:Hornpipe
+O:England
+A:Kent
+N:Sometimes attributed to James Hill of Gateshead,who was active
+N:in1840-60 approx.This is the same A Music, but apparently much
+N:earlier.Needs looking into.
+N:Also see Brewer's Horse in Chappell cfGraham Dixon,The Music of James
+N:Hill.
+Z:C.G.P
+K:D
+dAfd afd'b|gece dcBA|BGFG EGBe|gabd d2-c2|!
+dAfd afd'b|gece dcBA|BGFG EFD2|gedcd4:|!
+|:FDAF dAfd|gbge dcBA|BdgB cadd'|c'ba^ga4|!
+bgfg afdA|(3Bcd) (3efg) dcBA|BGFG EFD2|gedcd4:|]
+
+
+
+X: 1
+T:Bonny Charlie
+R:Hornpipe
+M:4/4
+N:King of the Fairies
+L:1/8
+K:Em
+E2EF G2GA | BcBA G2GA | B2E2 E2G2 | FGAF D2D2 |\
+E2EF G2GA | BcBA G2GA | B2E2 GFED | E4 e4 :|
+efed B2B2 | efed B4 | fgaf d2g2 | fgaf d2ga |\
+b2gb a2fa | g2eg f2df | e2ef gfed | e2ef g4 | \
+efed B2B2 | fgaf d4 | dcBA cBAG | FGAF D4 |\
+GFGA BABd | edef g3e | dcBA BAGF | E4 e4 |]
+
+
+
+X: 1
+T: Paddy In The Punjab
+M: 4/4
+L: 1/8
+R: hornpipe
+K: Gmin
+f=eee deee |f=eeA d=eee|f=eee d=eee|f=eef aAAA|
+f=eef d=eee|f=eeA dAAA|d=eeB dAAB|af=eA dAAA:|
+DAAA GAAA |BAAA GAAA|DAdB AAGA|BAAA GAAA|
+DAAA GAAA |BAAD GDDD|GABA GDDD|EDGD EDDD:|
+G,DDD CDDD|EDDD CDDD|G,DGE DDCD|EDDD CDDD|
+G,DDD CDDD|EDDG, CG,G,G,|CDED CG,G,G,|^G,=G,CG, ^G,=G,G,G,:|
+
+
+
+X:840
+T:Fair And Forty
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 840
+R:Hornpipe
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:C|
+L:1/8
+K:G
+D2|(3.G.G.G BG d2BG|efgf edBd|ceAc BdGB|ABcA GFED|(3.G.G.G BG d2Bd|efgf e
+dBd|ceAc BdGB|
+cAFA G2::d2|gfga bgdg|edef gdBd|gfga bgdg|edcB A2(Bd)|gfga bgdg|edef gdBG
+|DGBd gdBd|cAFA G2:|
+
+
+
+X:1275
+T: Fermanagh's Loveliest HP
+C: BB
+L: 1/8
+Q: 1/8=320
+M: 4/4
+R: hornpipe
+K: D
+E2|"D"DFAd "G"BGBd | "A"Acea "Bm"fdBd | "G"gfeg "Bm"fedf | "Em"efed "A7"cAGE |
+"D"DFAd "G"BGBd | "A"Acea "Bm"fdBd  | "G"gfed "A"cdeg | "D"df "A"ec "D"d2 :|
+Bc| "Bm"dBAB fBAB | "A7"agfe cdec | "Bm"dBAB fBAB | "D"FAdc "G"B2 Bc |
+"Bm"dBAB fBAB | "A7"agfe "D"dcBA | "G"BGBd "A"cAce |"D"df "A"ec "D"d2 :|
+
+
+
+X:52
+T:Murphy's Hornpipe
+R:hornpipe
+Z:id:hn-hornpipe-52
+M:C|
+K:G
+(3DEF|GABG EFGE|ABcA FGAF|GBdg ecAG|FGAF DEFD|
+GABG EFGE|ABcA FGAF|GBdg ecAF|G2GF G2:|
+|:Bc|dedc Bcd2|efed ^cdef|~g3d ecAG|FGAF DEFD|
+GABG EFGE|ABcA FGAF|GBdg ecAF|G2GF G2:|
+
+
+
+X: 62
+T:Wests Hornpipe. JMP.062
+M:C|
+L:1/8
+Q:180
+C:"67"
+S:John Miller MS. Perth, 1799.(for the fife)
+R:Hornpipe
+O:Scotland
+A:Perth
+H:1799
+Z:vmp.C. Graebe
+K:D major
+d2 FG AFAF | d2 FG AFAF | BAGF E2 ef | gfed cecA |!
+ d2 FG AFAF | d2 FG AFAF | BAGF E2 ef | fdec d4 :|!
+|:f2 df dfdf | e2 ce cece | f2 df dfaf |edcB A2 Bc |!
+dcdB cBcA | dcdB cBcA | Bfed cBA^G | A2 AA A2 :|]
+
+
+
+X:8
+T:Harvest Home
+R:hornpipe
+O:Ireland, Scotland, England
+M:4/4
+L:1/8
+K:D
+AF | "D" DAFA DAFA | defe "(G)" dcBA | "A" eAfA "(G)" gAfA | "A" (3(efe) (3(dcB) (3(ABA) (3(GFE) |
+     "D" DAFA DAFA | defe "(G)" dcBA | "A" eAfA       gece | "D/G" d2 f2 "D" d2 :|
+cd | "A" eA ~A2 fA ~A2 | "(G)" gAfA "A" eA ~A2 | eAfA "(G)" gAfA | "A" (3(efe) (3(dcB) (3(ABA) (3(GFE) |
+     "D" DAFA DAFA | defe "(G)" dcBA | "A" eAfA       gece | "D/G" d2 f2 "D" d2 :|
+
+
+
+X: 1
+T: Knocknoggin
+M: 4/4
+L: 1/8
+R: hornpipe
+K: Gmaj
+|:(3DEF | Gd BG D2 D2 | E2 A2 A2 (3DEF | Gd BG D2 c2 | A2 F2 F2 (3DEF |
+Gd BG D2 D2 | E2 A2 A2 F2 | Gd BG (3ABc AF | GD BD G2 :|
+|:D2 | dc BA G2 B2 | A2 D2 D2 G2 | dc BA G2 B2 | A2 d2 d2 d2 | 
+e2 (3edc d2 (3dcB | c2 (3cBA B2 D2 | GA Bc d2 D2 | GD BD G2 :|
+
+
+
+X:10874
+T:Miss Galvin
+R:hornpipe
+D:Mary Bergin: Feadoga Stain
+D:Paul McGrattan & Paul O'Shaughnessy: Within a Mile from Dublin (B flute)
+Z:id:hn-hornpipe-31
+M:C|
+K:D
+fe|d2cA GEFE|D2FA DAFA|d2cA GE~E2|(3Bcd eg fdec|
+d2cA GEFE|D2FA DAFA|d2cA GE~E2|cdec d2||
+de|fgaf d2de|fgaf gbag|fgaf dcA2|(3Bcd ef ~g3e|
+fgaf d2de|fgaf gbag|fAeA dcA2|(3Bcd ef g2||
+
+
+
+X:1
+T:O?Connor?s Fancy
+M:C|
+L:1/8
+R:Hornpipe
+S:O?Neill ? Dance Music of Ireland: 1001 Gems (1907), No. 876
+Z:AK/Fiddler?s Companion
+K:D
+A>G|F>AD>D
+D>FE>D|C>EF>G G2 G>E|F>AB>c d>AB>G|F2E2E2 A>G|
+F>AD>D
+D>FE>D|C>DE>F G2 F>E|F>AB>c e>AB>G|F2D2D2:|
+|:c2|d>AF>A
+d>fe>d|e>dc>d e>fg>e|f>de>c d>fe>d|c2A2A2 d>c|
+B>AG>A
+d>fe>d|e>dc>A B>AG>F|G>AB>c d>AB>G|F2D2D2:|
+
+
+
+X:955
+T:We'll drink to good health
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 955
+R:Hornpipe
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/0955/oneill-1001-0955-1.abc
+M:C
+L:1/8
+K:D
+(3(ABc)|dce(c dB)AF|DCE(C DEF)G|A(dcd) BGED|CDEF E2(3(ABc)|(3(dcd) (ec) dBAF|DCE(C DEF)G|A(dcd) BGE(C|D2)DDD2:|
+|:(FG)|A(Bcd) edeg|fde(c dc)de|fde(c dB)A(F|E2)EEE2 (3(ABc)|(3(dcd) (ec) dBAF|D(CEC) DEFG|A(dcd) BGE(C|D2)DDD2:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:6675
+T:The Cuckoo
+O:england
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+GA|"G"BGDB "D7/a"cADc|"G"d^cde dBGF|"C"E2cB "Am"AGFG|"A7"(3ABA(3GFE "D7"D2dc|
+"G"BGDB "D7/a"cADc|"G"d^cde dBGF|"C"E2cB "Am"AGFG|"D7"(3ABAGF "G"G2:|
+P:B
+fg|"G"bg(3gfg dgBg|"G"bg(3gfg dgBg|
+"Am"c'a(3a^ga eaca|"Am"c'a(3a^ga eaca|"G"bg(3gfg dgBg|
+"G"bg(3gfg dgBg|"G"b2a2 (3gagfd|"C"eg"D"fa "G"g2g2:|
+
+
+
+X:70
+T:Kohler's Hornpipe
+M:C
+L:1/8
+Q:230
+C:Traditional
+S:Kohler's Repository
+R:Hornpipe
+Z:posted by John Erdman 4/98
+K:C
+G2|"C"c2cB cdef|"C"g^fga "C7"gedc|"F"A^GAB cdcA|"C"GEcA "C7"GECE|
+"F"FEFG AGAB|"C"cBcd "A7"egag|"Dm"fedc "F"Ac"G7"Bd|"C"eccB c2:|
+|:g2|"C"egcg egcg|"G"dgBg dgBg|"Am"ceAe ceAe|"Em"GcEc "C7"GcEc|
+"F"FEFG AGAB|"C"cBcd "A7"egag|"Dm"fedc "F"Ac"G7"Bd|"C"eccB c2:|
+
+
+
+X: 10
+T:The Cuckoo
+% Nottingham Music Database
+S:McCusker Brothers
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+GA|"G"BGDB "D7/a"cADc|"G"d^cde dBGF|"C"E2cB "Am"AGFG|"A7"(3ABA(3GFE "D7"D2dc|
+"G"BGDB "D7/a"cADc|"G"d^cde dBGF|"C"E2cB "Am"AGFG|"D7"(3ABAGF "G"G2:|
+P:B
+fg|"G"bg(3gfg dgBg|"G"bg(3gfg dgBg|
+"Am"c'a(3a^ga eaca|"Am"c'a(3a^ga eaca|"G"bg(3gfg dgBg|
+"G"bg(3gfg dgBg|"G"b2a2 (3gagfd|[1"C"eg"D"fa "G"g2:|[2 "C" eg"D"fa "G"g2g2|
+
+
+
+X: 1
+T: Few Bob, The
+M: 4/4
+L: 1/8
+R: hornpipe
+K: Gmaj
+GA|:BABG EFGA|~B2 G2 G2 gf|e3d cBAG|E2 A2 A2 GA|
+~BABG EF G2|~BABd efge|dcBA GABA|1 ~G2 E2 E2 GA :|2 ~G2 E2 E2 ef ||
+|:g3e defg|a2 d2 d2 ef|g3f efga|bdad a2 ga|
+bgab abgf|edef g2 fe|dcBA GABA|1 ~G2 E2 E2 ef:|2 ~G2 E2 E2 GA||
+
+
+
+X: 1
+T:Off to California
+M:4/4
+L:1/8
+C:Trad
+R:Hornpipe
+B:DG E2 3DEF | GFGD EDbg | abaf
+K:G
+|:3DEF | GFGB AGED | GBdg e2 3def | gfgd edBG | ABAG E2 3DEF | GFGB AGED
+ | GBdg e2 3def | gfgd edBG | AcBA G2:|
+|: def | gfeg fedf | edef edBd | gfgd edBG | ABAG E2 3DEF | GFGB AGED |
+GBdg e2 3def | gfgd edBG | AcBA G2 :|
+
+
+
+X: 2
+T: Shuter's Hornpipe
+M: 4/4
+L: 1/8
+R: hornpipe
+K: G Major
+|: G2 G2 G>AB>c | d>cB>A G>AB>G | A2 A2 A2 e>d | c>BA>G F>AF>D |
+G2 G2 G>AB>c | d>cB>A G2 g2 | f>af>d e>ge>^c | d2 d2 d4 :|
+|: A2 A2 A2 B>c | d>BA>G F>AF>D | d2 d2 d2 e>f | g>ed>c B>dB>G |
+e2 c2 c2 g>e | d2 B2 B2 g2 | e>ce>c B>AG>F | G2 G2 G4 :|
+
+
+
+X:18
+T:Kafoozalum
+R:hornpipe
+O:England, Wales
+Z: John Chambers <jc@trillian.mit.edu>
+M:4/4
+L:1/8
+K:D
+|: &quot;D&quot;a2 a>g f>g a2 | &quot;A7&quot;e>f g>f e>f g2 \
+| &quot;D&quot;a2 a>g f>g a2 | d>e f>d &quot;A7&quot;e2 &quot;D&quot;d2 :|
+|: &quot;D&quot;f>d A>d f>d f2 | &quot;A7&quot;g>e c>e g>e g2 \
+| &quot;D&quot;f>d A>d f>d f2 | d>e f>d &quot;A7&quot;e2 &quot;D&quot;d2 :|
+
+
+
+X: 64
+T:Harvest Home
+M:C|
+L:1/8
+R:hornpipe
+H:One of the most common session tunes. Often played w "The Boys of
+H:Bluehill"
+Z:id:hn-hornpipe-44
+K:D
+|:AF|DAFA DAFA|dfec dcBA|(3efg (3fga (3gfe (3fed|edcB AGFE|
+DAFA DAFA|dfec dcBA|(3efg (3fga gece|d2f2 d2:|
+|:cd|eA~A2 fA~A2|gAfA eA~A2|(3efg (3fga (3gfe (3fed|edcB AGFE|
+DAFA DAFA|dfec dcBA|(3efg (3fga gece|d2f2 d2:|
+
+
+
+X: 1
+T:The Hangmans Noose
+M:4/4
+L:1/8
+S:Ciaran Kelly, Moneymore, Derry (Accordian)
+R:Hornpipe
+H:Same composer as the Home Ruler (Frank McCollum of Ballycastle)
+D:Session tape - Cross Keys, Antrim 1993
+Z:Bernie Stocks
+K:G
+G2BG DGBd | g2fg d3e | =f2fe fdcA | c2cB cAFA | G2BG DGBd | g2fg d3e |\
+=f2fe fdcA | GBAF G2Bc :: dg~g2 dgBg | dg~g2 a2ga | bggf gdBd |\
+cBAG A2Bc | dg~g2 dgBg | dg~g2 a2ga | bggf gdBc | B2G2 G4 :|
+
+
+
+X: 1782
+T: Ace and Deuce of Pipering, The
+T: Aon 's Do Na Pipbaireacda
+R:hornpipe
+C:"collected by Hartnett"
+S:1782 O'Neill's Music of Ireland
+N::2nd Setting
+B:O'Neill's 1782
+Z:Transcribed by Robert Thorpe (thorpe@skep.com)
+Z:ABCMUS 1.0
+M:C|
+L:1/8
+K:A
+c>B|B>AA>G A2 A>A|B>AA>G A2 A>B|(3cBA d>B (3cBA d>B|(3cBA d>B c2 (3Bcd|
+e>ef>d e>ef>d|e>gf>d edBf|~g2-ge ~f2-f>d|e2 f>d e>dB>d|
+c>Ad>B c2 B>A|G>AB>c d2 c>B|A2 a2 g>ed>B|[1 G>AB>c d2:|[2 A2 AA A2||
+|:c>B|B>AA>G A2 A>A|B>AA>G A2 A>c|B2 g2 f2 g2|B2 g>a g>fe>d|
+e2 a2 a/-b/-a/-g/ a>g|e2 a>b a>ge>d|B2 g2 f2 g>f|e>ag>b a2 a>b|
+c'>ab>g b2 e>d|c>Ad>B c2 B>A|G>AB>c d>cd>B|A2 b>f g>ed>B|
+[1 G>AB>c d2:|[2 A2 A>A A2|
+|:c>B|B>AA>G A2 A>A|B>AA>G A2 A>c|B2 g2 f>ed>B|(3cBA d>B c2 (3Bcd|
+e2 f2 e>dB>d|(3cBA d>B c2 B>A|g2 g>e f>ed>f|e>gf>d e>dB>d|
+(3cBA d>B c2 B>A|G>AB>c d>cd>B|A2 a>f g>ed>B|[1 G>AB>c d2:|[2 A2 A>A A2||
+
+
+
+X:71
+T:Fairies' Hornpipe, The
+R:hornpipe
+S:Seamus Ennis
+I:speed 300
+E:7
+M:C|
+K:G
+DE|GFGA BdcB|AGAB G2Bc|dgfg edcB|cedB A2Bc|\
+dggf g2fe|dedc B2AG|AB(3cBA dcAF|G2GF G2:|*
+Bc|dggf g2fe|dedc B2AG|AB (3cBA edcB|Add^c d2B=c|\
+dggf g2fe|dedc B2AG|AB (3cBA dcAF|G2GF G2:|**
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%  POLKAS, MARCHES AND  OTHERS %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+X: 16
+T:Souldies Joy. JaW.016
+T:Soldiers Joy,aka. JaW.016
+M:C|
+L:1/8
+Q:180
+S:James Winder Ms, Lancashire, 1835-41
+R:Hornpipe
+O:England
+A:Wyresdale,Lancashire
+H:1/8
+Z:vmp.Chris Partington, Aug 2004
+K:D
+(FG)|(AF)(DF) (AF)(DF)|D2d2 d2(cB)|(AF)(DF) (AF)(DF)|\
+G2E2 E2 (FG)|!
+AFDF AFDF|D2d2 defg|afdf gece|d2d2 d2:|!
+|:e2|(fe)(fg) (fa)(gf)|(ed)(ef) (ef)(ge)|(fe))fg) (fa)(gf)|edcB A2A2|!
+(fe)(fg) fagf|(ed)(ef) efge|afdf gece|d2d2 d2:|]
+
+
+
+X: 1
+T:New Century, The
+S:Matt Molloy and Sean Keane
+D:from Contentment is Wealth (Green Linnet 1058). Compare: A Tribute to Michael Coleman (Green Linnet 3097)
+N:A lightly diplomatic transcription by Alan Ng, with priority given to Sean Keane's playing.
+R:Hornpipe
+Z:Transcribed by Alan Ng agng@students.wisc.edu Aug. 30, 1996 id:ng-other-1
+M:C|
+K:GMix
+Bc|dG{A}G^F GB(3dcB|cF{G}FE FA{d}cA|{c}BGG^F GB(3de^f|gb(3ag^f ga(3gfe|\
+dedB G2 AB|cecA ~F2 GA|(3BAG gd ec d^F|1AGG^F GA:|2AGG^F G2 GA|:\
+Bcde fdcA|dDE^F ~G3A|Bcde (3fed ge|a^fd^c d2 (3def|gdBG ecA^F|\
+~G3B AG^FG|(3^FED FA cedF|AG{A}G^F ~G3 A:|
+
+
+
+X: 1
+T:Twa Bonnie Maidens
+M:4/4
+L:1/8
+Q:140
+C:Traditional
+S:RWW 40
+R:Hornpipe
+Z:First in set with Rights of Man
+K:G
+ge|:"G"d2 G2 "Em"B2 AG|"G"d2 G2 "Em"cBAG|
+"Am"e2 A2 A2 "Em"gf|"Am"e2 A>BA2 "D"Bc|!
+"G"d2 Bd "C"g2 fe|"D"dedc "Em"BAGA|
+"C"BAGE "D"DEGA|1"G"B2 G2 G2 ge:|
+|2"G"B2G2 G2 ga|:!
+"G"b2 gb "D"a2 fa|"Em"geeg "G"d2 cB||
+"Am"e2 A2 ABcd|"Am"e2 AG "D"A2 ga|!
+"G"bagb "D"agfa|"Em"gfge "C"edcB|
+"D"cBAG "G"DEGA|1"C"B2 GF "G"G2 ga:|
+|2"C"B2 GF "G"G2 ge||
+% Output from ABC2Win  Version 2.1  on 2/18/98
+
+
+
+X:1208
+T:Coltishall Slow Hornpipe. GHW.080
+O:england
+M:4/4
+L:1/8
+Q:140
+S:George H.Watson,MS,Swanton Abbott,Norfolk,1850-1880
+R:Hornpipe
+A:Norfolk
+N:Named by me after presumed home village of GHW..CGP.
+K:G
+(3DEF)|G>BD>G (3B,DG) B>d|d>gb>a g>fe>d|(3gag) f>e d>cc>B|(3aba)(3g
+fe) (3ded) (3cBA)|
+G>BD>G (3B,DG) B>d|d>gb>a g>fe>d|(3aba)(3gfe) (3ded) (3cBA)|G2g2G2:
+|
+|:F>G|(3AcB) (3AGF) G>Bd>B|g>dB>G F>AF>D|(3dcd) e>c d>ef>g|(3fed) (3e
+dc) d2 e>f|
+g>a f>g e>f d>e|c>d B>c A>B G>A| Ffee d>cc>F|G2B2G2:|
+W:Untitled in MS |
+
+
+
+X: 1
+T: Murphy's
+M: 4/4
+L: 1/8
+R: hornpipe
+K: Dmaj
+(3ABc|d2AF d2AF|dcdf ecA2|(3faf df gfed|(3cdc A^G A2 (3ABc|
+d2AF d2AF|dcdf ecA2|(3faf df gfec|df (3edc d2 (3ABc|
+d2AF d2AF|dcdf ecA2|(3faf df gfed|(3cdc A^G A2 (3ABc|
+d2AF d2AF|dcdf ecA2|(3faf df gfec|df (3edc d2 fg||
+afdg faga|bged cdeg|fa (3aaa bged|(3cdc A^G A2 fg|
+afdg faga|bged cdeg|fa (3aaa bgec|df (3edc d2 fg|
+afdg faga|bged cdeg|fa (3aaa bgec|(3cdc A^G A2 (3ABc|
+d2AF d2AF|dcdf ecA2|(3faf df gfec|df (3edc d2AG||
+(3FGF D2 (3faf ec|dcdf ecAG|(3FGF D2 (3faf ec|df (3edc d2 AG|
+(3FGF D2 (3faf ec|dcdf ecA2|(3faf df gfec|df (3edc d2 AG|
+(3FGF D2 (3faf ec|dcdf ecAG|(3FGF D2 (3faf ec|df (3edc d2 AG|
+(3FGF D2 (3faf ec|dcdf ecA2|(3faf df gfec|df (3edc d2 ag||
+fefd gf (3gfe|fefd ec A2|(3faf df gfed|(3cdc A^G A2 (3ABc|
+d2AF d2AF|dcdf ecA2|(3faf df gfec|df (3edc d2ag|
+fefd gf (3gfe|fefd ec A2|(3faf df gfed|(3cdc A^G A2 (3ABc|
+dcdf eceg|fdfa gfge|fgaf gfec|dfec d2||
+
+
+
+X:17948
+T:Tyson's Hornpipe. BF13.076
+M:4/4
+Q:160
+S:J.Lishman()MS,c1825,Lakes,Browne Coll.
+R:Hornpipe
+O:England
+A:Lakes
+Z:vmp.Chris Partington
+K:F
+cB|AFGA Bcde|feag fFGA|BAdc BAGF|FEGE CdcB|!
+AFGA NBcde|feag fFGA|BdcB AGFE|G2F2F2::!
+c-B|Afff afff|Bggg bgga|bagf edcB|AGFE DdcB|!
+AFGA Bcde|feag fFGA|BdcB AGFE|G2F2F2:|]
+
+
+
+X: 100
+T:Tara Hill
+R:Hornpipe
+C:Ed Reavy
+M:4/4
+L:1/8
+Z:Joe Reavy
+N:A little-known hornpipe of Ed's that could
+N:in time become one of his most popular compositions.
+K:G
+(3def \
+| gd^cd BGDC | B,DGB edcB | cAFD ^CDFA | (3cBc ed cAFA |
+| BGDC B,G,B,D | GABd cAFA | fed^c =cAFA | GDB,D G2 :|
+|: (3def \
+| gdcd edcd | eaa^g a2 ef | gfge fdcA | Gggf gedc |
+| BGDC B,G,B,D | GABd cAFA | fed^c =cAFA | GDB,D G2 :|
+
+
+

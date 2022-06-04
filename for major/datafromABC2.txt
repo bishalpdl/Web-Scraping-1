@@ -1,0 +1,2294 @@
+
+X: 00
+T: 00. __
+B: Sam Bayard, "Hill Country Tunes" 1944 #00
+N: Played by __
+R: __
+M: _/_
+L: 1/_
+Z: 2010 John Chambers <jc:trillian.mit.edu>
+K: _
+
+
+
+
+X: 1
+T: 0'00"
+C: John Cage
+M: none
+K: C
+
+
+
+
+X:1
+T:001 - Antífona
+T:Letra: Henry Maxwell Wright (1849-1931)
+T:Música: William Henry Monk (1823-1889)
+L:1/4
+M:4/4
+K:Eb
+W:
+W:
+W:1. A Ti, ó Deus, fiel e bom Senhor.
+W:   Eterno Pai, Supremo Benfeitor,
+W:   Nós, os teus servos, vimos dar louvor,
+W:   Aleluia! Aleluia!
+W:
+W:2. A Ti, Deus Filho, Salvador Jesus,
+W:   Da graça a fonte, da verdade a luz,
+W:   Por teu amor, medido pela cruz,
+W:   Aleluia! Aleluia!
+W:
+W:3. A Ti, ó Deus, real Consolador,
+W:   Divino fogo, santificador,
+W:   Que nos anima e nos acende o amor,
+W:   Aleluia! Aleluia!
+W:
+W:4. A Ti, Deus trino, Poderoso Deus,
+W:   Que estás presente sempre junto aos teus,
+W:   A ministrar as bênçãos lá dos céus,
+W:   Aleluia! Aleluia!
+E:20
+V:1 treble
+"Eb"G2 "Bb"G F | "Cm"E2 "Gm"B2 | "Ab"c B B "Bb"A | "Eb"G4 | G2 A B | "Ab"c2 "Eb"B2 | "Fm7"A F G "F7"=A | "Bb"B4 | "Eb"G2 "Bb"G F | "Cm"E2 "Gm"B2 | "Ab"B _A "C7"A G | "Fm"F4 | %12
+w: 1.~A Ti, ó Deus, fi-el e bom Se-nhor. E-ter-no Pai, Su-pre-mo Ben-fei-tor, Nós, os teus ser-vos, vi-mos dar lou-vor,
+w: 2.A Ti, Deus Fi-lho, Sal-va-dor Je-sus, Da gra-çaa fon-te, da ver-da-dea luz, Por teu a-mor, me-di-do pe-la cruz, 
+w: 3.A Ti, ó Deus, re-al Con-so-la-dor, Di-vi-no fo-go, san-ti-fi-ca-dor, Que nos a-ni-mae nos a-cen-deoa-mor,
+w: 4.A Ti, Deus tri-no, Po-de-ro-so Deus, Quees-tás pre-sen-te sem-pre jun-toaos teus, A mi-nis-trar as bên-çãos lá dos céus, 
+ "Bb7"F2 G A | "Eb"G F "Ab"E A | "Eb/Bb"G2 "Bb7"F2 | "Eb"E4 |] %16
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+
+
+
+
+X:1
+T:002 - Justo És Senhor
+T:Letra (Adap.) João Gomes da Rocha (1861-1947)
+T:Música: Lowell Mason (1792-1872)
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+W:
+W:
+W: Justo és, Senhor, nos teus santos caminhos;
+W: És digno em todas as tuas obras;
+W: Eis perto estás dos que te invocam,
+W: De todos que te invocam em verdade!
+W: Aleluia! Aleluia!
+W:
+V:1
+ "C"E2 E E | E2 E E | "G"G2 F F | "C"E2 E2 | "Am"c2 c c | "Bm"B2 "C"A G | "D7"G2 ^F2 | "G"G2 G2 :||: "G"z2 "F"z z | "Em"z2 "Dm"z z | "C"c2 "C7"^A A | "F"=A2 "C/E"G2 | "Dm"F2 "G"G2 | "C"E2 "C/E"G G | "F"A B c "G"d | "C"e2 "Am"d c | "Dm/F"c2 "G7"B2 | "C"c2 c2 :|| z2 c c | e2 "C/E"c2 | z2 G G | "F"A4 | "C"G4 |] %41
+w: Jus-toés, Se-nhor, nos teus san-tos ca-mi-nhos; És dig-noem to-das as tu-as o-bras; Eis per-toes-tás dos que tein-vo-cam, De to-dos que tein-vo-cam_ em ver-da-de! A-le-lui-a! A-le-lui-a!
+
+
+
+
+X:1
+T:005 - Presença Divina
+T:Letra: Anônimo (Séc. XVIII)
+T:Trad.: Justus Henry Nelson (1849-1931)
+T:Música: Felice de Giardini (1716-1796)
+M:3/4
+L:1/8
+Q:1/4=104
+K:Gmaj
+V:1
+"G"d2B2G2| ("C"A2"G/D"G2)"D"F2| "G"G4z2| G2A2B2| ("D7"cdc2)"G"B2| "D"A4z2| "G"d2B2G2| "D"D4z2| "D7"A2B2c2| "G"B3 AG2| "D7"A2B2c2| "G"B3 AG2| G2B2d2| d3 ed2| "C"c2"G/D"B2"D7"A2| "G"G6|]
+w: 1.~O-ni-po-ten_te Rei, a-qui pre-sen__te sê No teu po-der; Em teu ex-cel-soa-mor ins-pi-ra-nos lou-vor; Que-re-mos-te, Se-nhor, en-gran-de-cer.  
+w: 2.~Ó po-de-ro_so Deus, nos ou-ve lá__ dos céus A pe-ti-ção. Vem-nos a-ben-ço-ar, e vem fa-zer bro-tar O que se se-me-ar no co-ra-ção.  
+w: 3.~Vem Tu, Con-so_la-dor, sê tes-ti-fi__ca-dor Da re-den-ção. No tem-plo vem en-trar, a o-bra com-ple-tar. Das man-chas vem lim-par o co-ra-ção.  
+w: 4.~Ó gran-de, tri_no Deus, sim, Tea-do-ra__mos nós. E só a Ti! San-ti-fi-car-nos-ás, ao céu nos le-va-rás, A gló-ria nos da-rás Con-ti-goa-í.            
+W:
+W: 
+W: 1. Onipotente Rei, aqui presente sê
+W: No teu poder;
+W: Em teu excelso amor inspira-nos louvor;
+W: Queremos-te, Senhor, engrandecer.
+W: 
+W: 2. Ó poderoso Deus, nos ouve lá dos céus
+W: A petição.
+W: Vem-nos abençoar, e vem fazer brotar
+W: O que se semear no coração.
+W: 
+W:
+W:
+W: 3. Vem Tu, Consolador, sê testificador
+W: Da redenção.
+W: No templo vem entrar, a obra completar.
+W: Das manchas vem limpar o coração.
+W: 
+W: 4. Ó grande, trino Deus, sim, Te adoramos nós.
+W: E só a Ti!
+W: Santificar-nos-ás, ao céu nos levarás,
+W: A glória nos darás Contigo aí.
+W: 
+W: 
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T:006 - Glória ao Senhor
+T:Letra: Antônio José dos Santos Neves (1827-1874)
+T:Melodia Inglesa
+M:3/4
+L:1/8
+K:F
+V:1
+"F"F2F2G2| "C"E2>F2G2| "F"A2A2 "Bb"B2| "F"A3 G "Dm"F2| "Gm"G2F2 "C"E2| "F"F6| c2c2c2| c3BA2| "C7"B2B2B2| B3AG2| "F"A2 "Bb/F"BA GF| "F"A3B c2| "Bb"dB "F/C"A2 "C7"G2| "F"F6|]
+w: 1.~A nos-so Pai do céu tri-bu-ta, lá-bio meu, Gló-riae lou-vor! A quem seu Fi-lho deu, o qual por nós mor-reu, A quem_ me_ pros-tro eu; gló_riaao Se-nhor!
+w: 2.~Lou-ve-mos ao Se-nhor, o San-to Re-den-tor, O Rei Je-sus! Sua mor-te me re-miu, a mim, tão pe-ca-dor, Eas-sim_ o_ céu mea-briu; gló_riaa Je-sus!
+w: 3.~Es-pí-ri-to de Deus, man-da-do por Je-sus, Lou-vor a ti! De Cris-too gran-dea-mor re-ve-la, Ins-trui-dor! Sê meu_ re_no-va-dor! Lou_vor a ti!
+w: 4.~Lou-ve-mos com ar-dor, com go-zoe com fer-vor O tri-no Deus! E-ter-na-men-tea-li, em can-toa-bra-sa-dor, Trin-da_de_ san-ta,a ti lou_vor nos céus!
+W:
+W: 1. A nosso Pai do céu 
+W: tributa, lábio meu,
+W: Glória e louvor!
+W: A quem seu Filho deu, 
+W: o qual por nós morreu,
+W: A quem me prostro eu; 
+W: glória ao Senhor!
+W: 
+W: 2. Louvemos ao Senhor, 
+W: o Santo Redentor,
+W: O Rei Jesus!
+W: Sua morte me remiu, 
+W: a mim, tão pecador, 
+W: E assim o céu me abriu; 
+W: glória a Jesus!
+W: 
+W: 
+W: 3. Espírito de Deus, 
+W: mandado por Jesus,
+W: Louvor a ti!
+W: De Cristo o grande amor 
+W: revela, Instruidor!
+W: Sê meu renovador! 
+W: Louvor a ti!
+W: 
+W: 4. Louvemos com ardor, 
+W: com gozo e com fervor
+W: O trino Deus!
+W: Eternamente ali, 
+W: em canto abrasador,
+W: Trindade santa, a ti 
+W: louvor nos céus!
+W: 
+
+
+
+
+X:1
+T:007 (from "From Russia With Love")
+C:John Barry
+Z:Hoho windfola server
+M:4/4
+L:1/8
+Q:100 =1/4
+K:C
+
+
+
+
+%vocalfont Times-Roman 13.0
+X:1
+T:007 - Maravilhas Divinas
+T:Letra: Salomão Luiz Ginsburg (1867-1927)
+T:Música: George Coles Stebbins (1846-1945)
+M:6/8
+L:1/8
+Q:1/4=115
+K:Fmaj
+V:1
+"F"F3 C2F| A3 F2A| c3 (dc)=B| c3 A2z| "Bb"B3 c2c| d3 c2c| "G7"=B3 A2G| "C"c3z3| "F"F3 C2F| A3 F2A| c3 (dc)=B| c3 A3| "Bb"B3 c2c| d3 e2f| "F/C"A3 "C7"A2G| "F"F3z3 || "F"c3- c=Bc| d3 c3| A3- A^GA| B3 A3| "Bb/F"d3- dc=B| "F"c3 A2A| "G7"=B3- BA=B| "C"c3z3| "F"c3- c=Bc| d3 c3| A3- A_A=A| B3 A3| "Bb/F"d3- dc=B| "F"c3 F2_B| "F/C"A3 "C7"A2G| "F"F3z3|]
+w: 1.~Ao Deus dea-mor e dei-men-sa_ bon-da-de, Com voz de jú-bi-lo vin-deea-cla-mai; Com co-ra-ção trans-bor-dan-te_ de gra-ças, Seu gran-dea-mor, to-dos, vin-dee lou-vai.     No_ céu, na ter-ra, que_ ma-ra-vi-lhas Vai_ o-pe-ran-doo po-der_ do Se-nhor! Mas_ seu a-mor aos ho_mens per-di-dos Das_ ma-ra-vi-lhas és sem-prea mai-or!  
+w: 2.~Já nos-sos pais nos con-ta-ram_ a gló-ria De Deus, fa-lan-do com mui-to pra-zer, Que nas tris-te-zas, nos gran-des_ pe-ri-gos, E-leos sal-vou por seu gran-de po-der.  
+w: 3.~Ho-je, tam-bém nós bem al-to_ can-ta-mos Queas o-ra-ções E-le nos a-ten-deu; Seu for-te bra-ço, queé tão com_pas-si-vo, Em nos-soau-xí-lio,E-le sem-prees-ten-deu.  
+w: 4.~Co-moa-té ho-jee da-qui pa_ra sem-pre, E-le se-rá nos-soe-ter-no po-der, Nos-so cas-te-lo bem for-tee_ se-gu-ro, Ea nos-sa fon-te deex-cel-so pra-zer.          
+W: 
+W: 
+W: 1. Ao Deus de amor e de imensa bondade,
+W: Com voz de júbilo vinde e aclamai;
+W: Com coração transbordante de graças,
+W: Seu grande amor, todos, vinde e louvai.
+W: 
+W:    (Estribilho)
+W:    No céu, na terra, que maravilhas
+W:    Vai operando o poder do Senhor!    
+W:    Mas seu amor aos homens perdidos      
+W:    Das maravilhas és sempre a maior!
+W: 
+W: 2. Já nossos pais nos contaram a glória
+W: De Deus, falando com muito prazer,
+W: Que nas tristezas, nos grandes perigos,
+W: Ele os salvou por seu grande poder.
+W: 
+W: 
+W: 
+W: 3. Hoje, também nós bem alto cantamos
+W: Que as orações Ele nos atendeu;
+W: Seu forte braço, que é tão compassivo,
+W: Em nosso auxílio, Ele sempre estendeu.
+W: 
+W: 4. Como até hoje e daqui para sempre,
+W: Ele será nosso eterno poder,
+W: Nosso castelo bem forte e seguro,
+W: E a nossa fonte de excelso prazer.
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T: 009 - Santo
+T:Letra: Reginald Heber (1788-1826)
+T:Trad.: João Gomes da Rocha (1861-1947)
+T:Musica: John Bacchus Dykes (1823-1876)
+L:1/4
+M:4/4
+I:linebreak $
+K:Ebmaj
+V:1
+"Eb"E E G G | "Bb"B2 "Eb"B2 | "Ab"c3/2 c/2 c c | "Eb"B2 G2 | "Bb"B3/2 B/2 B B | "Cm"e2 d B | "Fm"F B c3/2 B/2 | "Bb7"B4 | "Eb"E E G G | "Bb"B2 "Eb"B2 | "Ab"c3/2 c/2 c c | "Eb"B2 B2 | "Cm"e2 "Gm"B B | "Ab"c2 "Eb"G2 | "Ab"A F "Bb7"F3/2 E/2 | "Eb"E4 |]
+w: 1.~San-to! San-to! San-to! Deus O-ni-po-ten-te! Ce-do de ma-nhã can-ta-re-mos teu lou-vor. San-to! San-to! San-to! Deus Jeo-vá tri-ú-no, És um só Deus, ex-cel-so Cri-a-dor.
+w: 2.~San-to! San-to! San-to! To-dos os re-mi-dos, Jun-tos com os an-jos, pro-cla-mam teu lou-vor. An-tes de for-mar-seo fir-ma-men-toea ter-ra. E-ras, e sem-preés ehás de ser, Se-nhor.
+w: 3.~San-to! San-to! San-to! Nós, os pe-ca-do-res, Não po-de-mos ver tu-a gló-ria sem tre-mor. Tu so-men-teés San-to; não há ne-nhum ou-tro, Pu-roe per-fei-to,ex-cel-so Ben-fei-tor.
+w: 4.~San-to! San-to! San-to! Deus O-ni-po-ten-te! Tu-as o-bras lou-vam teu no-me com fer-vor. San-to! San-to! San-to! Jus-toe com-pas-si-vo, És um só Deus, su-pre-mo Cri-a-dor.
+W: 
+W: 
+W: 1. Santo! Santo! Santo! Deus Onipotente!
+W: Cedo de manhã cantaremos teu louvor.
+W: Santo! Santo! Santo! Deus Jeová triúno,
+W: És um só Deus, excelso Criador.
+W: 
+W: 2. Santo! Santo! Santo! Todos os remidos,
+W: Juntos com os anjos, proclamam teu louvor.
+W: Antes de formar-se o firmamento e a terra.
+W: Eras, e sempre és e hás de ser, Senhor.
+W: 
+W: 3. Santo! Santo! Santo! Nós, os pecadores,
+W: Não podemos ver tua glória sem tremor.
+W: Tu somente és Santo; não há nenhum outro,
+W: Puro e perfeito, excelso Benfeitor.
+W: 
+W: 4. Santo! Santo! Santo! Deus Onipotente!
+W: Tuas obras louvam teu nome com fervor.
+W: Santo! Santo! Santo! Justo e compassivo,
+W: És um só Deus, supremo Criador.
+
+
+
+
+X:0
+T:00.  c' 
+M:none
+L:1/2
+Q:1/2=30
+K:C
+c'-c'-c'-c'||
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:010 - Auxílio Divino
+T:Letra: Andrew Reed (1787-1862)
+T:Trad.: William Edwin Entzminger (1859-1930)
+T:Música: Louis Moureau Gottschalk (1829-1869)
+L:1/4
+Q:1/4=110
+M:3/4
+K:Bbmaj
+V:1
+ "Bb"F2 G | (F B) d | "F"d2 c | "Gm"B3 | (B A) B | "Bb/F"(B f) d | "C7"c2 (d/c/) | "F7"(c2 F) | "Bb"F2 G | (F B) d | "D7"d2 (e/d/) | "Gm"d3 | "Edim"(B A) G | "Bb/F"(F e) d | "F7"d2 c | "Bb"B3 |] 
+w: 1.~San-to Deus,_ vem in-fla-mar Nos_sos dé_beis co-ra_ções;_ Vem as tre_vas dis-si_par, Li_vra-nos_ deim-per-fei-ções.  
+w: 2.~Sim, ó Deus,_ vem di-ri-gir Es_te cul_toa ce-le_brar;_ Vem, oh, vem_nos re-ves_tir De_ fer-vor_ pra Te lou-var!       
+W: 
+W: 1. Santo Deus, vem inflamar
+W: Nossos débeis corações;
+W: Vem as trevas dissipar,
+W: Livra-nos de imperfeições.
+W: 
+W:
+W: 2. Sim, ó Deus, vem dirigir
+W: Este culto a celebrar;
+W: Vem, oh, vem-nos revestir
+W: De fervor pra Te louvar!
+W:         
+W: 
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:011 - Ao Deus Trino
+T:Letra: William Edwin Entzminger (1859-1930)
+T:Música: Luther Orlando Emerson (1820-1915)
+M:2/2
+L:1/4
+K:Bb
+V:1
+"Bb"F2 GF | B2 F2 | (GF) (B3/c/) | d3 z | "F"c2 cd | c2 c2 | "F7"dc "Bb"B2 | "Gm"B2 BG | B2 c2 | "F"cd c2 | "Bb"F2 GF | (B3/c/ d2) | "F7"c2 dc | "Bb"B3 z |]
+w: 1.~Ó Deus, bom Pai e Ben_fei_tor, A Ti ren-de-mos, com ar-dor, Lou-vor le-al sem fim, Se-nhor, De to-dos nós__ Sus-ten-ta-dor.  
+w: 2.~E Tu, Deus Fi-lho,ó bom_ Je_sus, Por nós so-fres-te nu-ma cruz; De Ti nos vem a cla-ra luz, Que nos-sos pés__ aos céus con-duz.  
+w: 3.~Tu, Deus, Es-pí-ri-to_ ve_raz, Oh! Nos-sas al-mas sa-tis-faz Com go-zo, com di-vi-na paz, Eas nos-sas a__fli-ções des-faz.  
+w: 4.~Ó in-fi-ni-toeex-cel_so_ Deus, Am-pa-ra-nos, em-bo-ra réus, Com bên-çãos, lá dos al-tos céus, A to-dos nós,__ os fi-lhos teus.          
+W: 
+W: 
+W: 1. Ó Deus, bom Pai e Benfeitor,
+W: A Ti rendemos, com ardor,
+W: Louvor leal sem fim, Senhor,
+W: De todos nós Sustentador.
+W: 
+W: 2. E Tu, Deus Filho, ó bom Jesus,
+W: Por nós sofreste numa cruz;
+W: De Ti nos vem a clara luz,
+W: Que nossos pés aos céus conduz.
+W: 
+W: 
+W: 
+W: 3. Tu, Deus, Espírito veraz,
+W: Oh! Nossas almas satisfaz
+W: Com gozo, com divina paz,
+W: E as nossas aflições desfaz.
+W: 
+W: 4. Ó infinito e excelso Deus,
+W: Ampara-nos, embora réus,
+W: Com bênçãos, lá dos altos céus,
+W: A todos nós, os filhos teus.
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T: 012 - Louvamos
+T: Letra: Richard Holden (1828-1886)
+T: Música: John Francis Wade (1710-1786)
+M:4/4
+L:1/8
+K:A
+V:1
+A2| "A"A4 E2 A2| "E"B4 E2 E2| "A"(c2 B2) c2 d2| "E"c4 B2 B2| "F#m"A4 "B7"G2 F2| "E"(G2 A2) B2 c2| "B7"G4 F3E|"E7"E4 E2 E2| "A"e4 d2 c2|  "D"d4 "A"c2 c2| "B7"(B2 c2) A2 B2| "E7"G3 F E2 A2| "A"(A2 G2) "D"A2 B2| "A"A4 "E"E2 c2| "A"(c2 B2) "D"c2 d2| "A"c4 "E"B2 c2| "D"(d2 c2) B2 A2| "E"G4 "A"A2 d2| "A/E"c4 "E7"B3A| "A"A4 z2 |]
+w: 1.~Lou-va-mos, lou-va-mos, Se-nhor e a-do-ra-mos A ti, ó Deus-Ho_mem, no céu as-sen-ta-do; Queem tem-po de-vi-do, na ter_rahu-mi-lha_do, Por nos_sos pe-ca-dos mor-res_te na cruz_ Por nos_sos pe-ca-dos mor-res-te na cruz
+w: 2.~Lou-va-mos, lou-va-mos, Se-nhor, e a-do-ra-mos A ti, quea jus-ti_ça de Deus sus-ten-tas-te, A pe-na so-fren-do por nós_ me-re-ci_da, A vi_da de-pon-do praas-sim_ nos re-mir._ A vi_da de-pon-do praas-sim nos re-mir.
+w: 3.~Lou-va-mos, lou-va-mos, Se-nhor, e a-do-ra-mos A gló-ria di-vi_na por ti re-ve-la-da, Que pa-ra nós bri-lha na luz_ es-plen-den_te, Fa-zen_do-nos ver a re-al_ per-fei-ção._ Fa-zen_do-nos ver a re-al per-fei-ção.
+w: 4.~Em ti con-ci-li-a-sea san_ta jus-ti-ça, Que não po-dea cul_pa dei-xar sem cas-ti-go. Com a com-pai-xão que por gra_ça re-ce_be Ee-xi_me de cul-pas o réu_ pe-ca-dor._ Ee-xi_me de cul-pas o réu pe-ca-dor.
+W: 
+W:
+W: 1. Louvamos, louvamos, Senhor e adoramos
+W: A ti, ó Deus-Homem, no céu assentado;
+W: Que em tempo devido, na terra humilhado,
+W: Por nossos pecados morreste na cruz. (bis)
+W: 
+W: 2. Louvamos, louvamos, Senhor, e adoramos
+W: A ti, que a justiça de Deus sustentaste,
+W: A pena sofrendo por nós merecida,
+W: A vida depondo pra assim nos remir. (bis)
+W: 
+W:
+W:
+W: 3. Louvamos, louvamos, Senhor, e adoramos
+W: A glória divina por ti revelada,
+W: Que para nós brilha na luz esplendente,
+W: Fazendo-nos ver a real perfeição. (bis)
+W: 
+W: 4. Em ti concilia-se a santa justiça,
+W: Que não pode a culpa deixar sem castigo.
+W: Com a compaixão que por graça recebe
+W: E exime de culpas o réu pecador. (bis)
+W: 
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:013 - Adoração a Deus
+T:Letra: Henry Francis Lyte (1793-1847)
+T:Trad.: William Edwin Entzminger (1859-1930)
+T:Música: Henry John Gauntlett (1805-1876)
+M: 3/4
+L: 1/8
+Q:1/4=115
+K:G
+V:1
+D2 | "G"B2G2 "C"E2 | "G"D4 D2 |B2G2 "C"E2 | "G"D4 G2 |"Am7"c2c2 "D"A2 | "G"d4B2 | "A/D"A2F2 "A7"E2 | "D"D4A2 |"G"F2G2B2 |"D"B2A2B2|"C"c2d2e2| "G"d4d2|"Am"d2c2c2| "G"c2B2B2|"D"A2G2F2| "G"G4|]
+w: Ben-di-gam a Deus, glo-rio-so Se-nhor, E com gra-ti-dão lhe ren-dam lou-vor: A-mi-go dos ho-mens, fi-el de-fen-sor, Queos guar-da se-gu-ros no seu am-ploa-mor.          
+W:
+W:
+W: Bendigam a Deus, glorioso Senhor,
+W: E com gratidão lhe rendam louvor:
+W: Amigo dos homens, fiel defensor,
+W: Que os guarda seguros no seu amplo amor.
+W:         
+W:
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:014 - O Deus de Abraão
+T:Letra: Daniel Ben Judah Dayyam (Sec.XV) Parafrase de Thomas Olivers (1725-1799)
+T:Trad.: Robert Hawkey Moreton (1844-1917)
+T:Música: Melodia Hebraica
+M:4/2
+L:1/4
+Q:1/2=115
+K:Bb
+V:1
+D2| "Gm"G2 A2 B2 "F"c2| "Bb"d6 B2| "F"c2 d2 "Eb"e2 "F"f2| "Bb"d4 z2 "F"A2| "Bb"B2 c2 d2 "Eb"e2| "Bb"f2 A2 B2 "Eb"e2| "Bb/F"d4 "F7"c4 | "Bb"B4 z2 B2 | d2 d2 d2 d2| "F"c6 (BA) | ("Gm"GA) (Bc) d2 G2 | "D7"^F4 z2 D2 | "Gm"G2 A2 B2 "F"c2| "Bb"d2 (cd) "Cm"e2 (dc) | "Gm/D"B4 "D7"A4 | "Gm"G4 z2 |]
+w: 1.~Ao Deus deA-braão lou-vai, Do vas-to céu Se-nhor, E-ter-noe po-de-ro-so Pai, E Deus dea-mor, Au-gus-to Deus Jeo-vá, Que_ ter_rae_ céu cri-ou, Mi-nhaal-mao No-mea-ben-ço-a-rá Do_ gran-deEu Sou.
+w: 2.~Ao Deus deA-braão lou-vai; Eis, por man-da-do seu, Mi-nhaal-ma dei-xaa ter-rae vai Go-zar no céu. O mun-do des-pre-zei, Seu_ lu_croe_ seu lou-vor, E Deus por meu qui-nhão to_mei E_ pro-te-tor.
+w: 3.~Meu gui-a Deus se-rá; Seu in-fi-ni-toa-mor Fe-liz em tu-do me fa-rá Por on-deeu for. To-mou-me pe-la mão, Em_ tre_vas_ deu-me luz, E dá-mee-ter-na sal-va_ção Por_ meu Je-sus.
+w: 4.~Meu Deus por si ju-rou, E nE-le con-fi-ei, E pa-rao céu que pre-pa-rou Eu su-bi-rei. Seu ros-toi-rei eu ver, Fi_a_doem_ seu a-mor, Eeu hei de sem-preen-gran-de_cer Meu_ Re-den-tor.          		W:
+W:
+W: 
+W: 1. Ao Deus de Abraão louvai,
+W: Do vasto céu Senhor,
+W: Eterno e poderoso Pai,
+W: E Deus de amor,
+W: Augusto Deus Jeová,
+W: Que terra e céu criou,
+W: Minha alma o Nome abençoará
+W: Do grande Eu-Sou.
+W: 
+W: 2. Ao Deus de Abraão louvai;
+W: Eis, por mandado seu,
+W: Minha alma deixa a terra e vai
+W: Gozar no céu.
+W: O mundo desprezei,
+W: Seu lucro e seu louvor,
+W: E Deus por meu quinhão tomei
+W: E protetor.
+W: 
+W:
+W: 
+W: 3. Meu guia Deus será;
+W: Seu infinito amor
+W: Feliz em tudo me fará
+W: Por onde eu for.
+W: Tomou-me pela mão,
+W: Em trevas deu-me luz,
+W: E dá-me eterna salvação
+W: Por meu Jesus.
+W: 
+W: 4. Meu Deus por si jurou,
+W: E nEle confiei,
+W: E para o céu que preparou 
+W: Eu subirei.
+W: Seu rosto irei eu ver,
+W: Fiado em seu amor,
+W: E eu hei de sempre engrandecer
+W: Meu Redentor.
+W:         
+W: 				         
+W: 
+
+
+
+
+X:1
+T: 015 - Exultação
+T:Letra: Fanny Jane Crosby (1820-1915)
+T:Trad.: Joseph Jones (1848-1927)
+T:Música: William Howard Doane (1832-1915)
+M:3/4
+L:1/8
+Q:1/4=120
+K:Ab
+V:1
+E2|  "Ab"E4FG| A2E2A2|  "Eb7"B2E2B2| "Ab"c4c2|  "Db"d2F2d2|  "Ab"c2A2c2|c2B2F2| "Eb7"B4 E2|  "Ab"E4FG|A2E2A2| "Eb"B2E2B2| "Ab"c4c2|  "Db"e2d2B2|  "Ab/E"A2G2A2| "Eb7"c2c2B2|  "Ab"A4 || c3/2d/2 |  "Ab"e4c3/2d/2| e4e3/2c/2|A2B2c2| "Eb"B4B3/2c/2| d4B3/2c/2| d4dB|e2e2d2|  "Ab"c4 E2| E4FG| A2E2A2| "Eb"B2E2B2|  "Ab"c4c2|  "Db"e2d2B2|  "Ab/E"A2G2A2|  "Eb7"c2c2B2|  "Ab"A4 |]
+w: 1.~A Deus de-mos gló-ria, com gran-de fer-vor; Seu Fi-lho ben-di-to por nós to-dos deu; A gra-ça con-ce-deao mais vil pe-ca-dor, A-brin-do-lhea por-ta deen-tra-da no céu. E-xul-tai! E-xul-tai! Vin-de to-dos lou-var A Je-sus, Sal-va-dor, a Je-sus, Re-den-tor; A Deus de-mos gló-ria, por-quan-to do céu Seu Fi-lho ben-di-to por nós to-dos deu.
+w: 2.~Oh! Gra-ça re-al, foi as-sim que Je-sus, Mor-ren-do, seu san-gue por nós der-ra-mou! He-ran-ça nos céus, com os san-tos em luz, Com-prou-nos Je-sus, pois o pre-ço pa-gou.
+w: 3.~A crer nos con-vi-da tal ras-go dea-mor, Nos me-re-ci-men-tos do Fi-lho de Deus; E quem, pois, con-fi-a no seu Sal-va-dor, Vai vê-Lo sen-ta-do na gló-ria dos céus.
+W:
+W:
+W:1. A Deus demos glória, com grande fervor;
+W:Seu Filho bendito por nós todos deu;
+W:A graça concede ao mais vil pecador,
+W:Abrindo-lhe a porta de entrada no céu.
+W:
+W:(estribilho)
+W:Exultai! Exultai! Vinde todos louvar
+W:A Jesus, Salvador, a Jesus, Redentor;
+W:A Deus demos glória, porquanto do céu
+W:Seu Filho bendito por nós todos deu.
+W:
+W:
+W:
+W:2. Oh! Graça real, foi assim que Jesus,
+W:Morrendo, seu sangue por nós derramou!
+W:Herança nos céus, com os santos em luz,
+W:Comprou-nos Jesus, pois o preço pagou.
+W:
+W:3. A crer nos convida tal rasgo de amor,
+W:Nos merecimentos do Filho de Deus;
+W:E quem, pois, confia no seu Salvador,
+W:Vai vê-Lo sentado na glória dos céus.
+W:
+W:
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:016 - Vinde Adorar
+T:Letra: Henry Maxwell Wright (1849-1931)
+T:Música: William Knapp (1698-1768)
+M:3/4
+L:1/8
+Q:1/4=102
+K:Bb
+V:1
+B2| "Bb"B2A2G2| F4B2| "F"c2B2A2| "Bb"B4c2| d2c2B2| "F"A2B2c2| "Gm"B2A2 "C7"G2| "F"F2z2F2| G2F2GA| "Bb"B2A2A2| "Gm"B2B2 "F"c2|"Bb"d2z2c2| "Eb"e2d2c2| "Bb"B2A2B2| "F"c2B2A2| "Bb"B4 |]
+w: 1.~Oh! Vin-dea-do-rar oex-cel-soe bom Deus, E-ter-no Se-nhor_ da ter-rae dos céus, Que rei-na, su_pre-mo, en-vol-to na luz, E que se re-ve-la em Cris-to Je-sus!  
+w: 2.~Seu gran-de po-der de-veis con-tem-plar No bri-lho do céu,_ na ter-rae no mar; As go-tas de or-va-lho, sim, to_da flor, Pro-cla-mam cons-tan-tes seu gran-de Au-tor.          
+W:
+W: 
+W: 1. Oh! Vinde adorar o excelso e bom Deus,
+W: Eterno Senhor da terra e dos céus,
+W: Que reina, supremo, envolto na luz,
+W: E que se revela em Cristo Jesus!
+W: 
+W:
+W:
+W: 2. Seu grande poder deveis contemplar
+W: No brilho do céu, na terra e no mar;
+W: As gotas de orvalho, sim, toda flor,
+W: Proclamam constantes seu grande Autor.
+W:         
+W: 				         
+W:           
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:017 - O Amor de Deus
+T:Letra: Stuart Edmund McNair (1867-1959)
+T:Música: Philip Paul Bliss (1838-1876)
+M:2/4
+L:1/8
+K:Bb
+V:1
+"Bb"d>d cB | FB B2 | "F7"c>d cF | "Bb"d3 z | "Eb"ee ee | "Bb"ed dd | "C7"cG cd | "F7"c3 z || "Bb"d>d cB | FB BB | "F"c>d cF | "Bb"d3 z | "Eb"e>d cB | AG ce | "Bb/F"d>e "F7"dc | "Bb"B3 z |]
+w: 1.~De-cor-ri-das e-ras são,  Des-de queaos ju-deus Cris-to fez pro-cla-ma-ção Do gran-dea-mor de Deus. Que pro-fun-doa-mor se vi-a Quan-doa-qui an-dou! Ter-na, san-ta sim-pa-ti-a E-le nos mos-trou! 
+w: 2.~Vei-oaos ce-gos vis-ta dar, Luz nas tre-vas ser; Pe-ca-do-res quis sal-var, Per-di-dos re-co-lher.  
+w: 3.~Nun-caos po-bres des-pre-zou, Sem-preos re-ce-beu; Pa-ga sem-pre re-cu-sou; De gra-ça tu-do deu.  
+w: 4.~Tem-pos já pas-sa-dos são, Cris-too mes-mo é; Vi-da, vis-ta, sal-va-ção, Ob-têm-se pe-la fé. 
+W: 
+W: 
+W: 1. Decorridas eras são, 
+W: Desde que aos judeus
+W: Cristo fez proclamação
+W: Do grande amor de Deus.
+W: 
+W:    (Estribilho)
+W:    Que profundo amor se via
+W:    Quando aqui andou!
+W:    Terna, santa simpatia
+W:    Ele nos mostrou!  
+W:         
+W: 2. Veio aos cegos vista dar,
+W: Luz nas trevas ser;
+W: Pecadores quis salvar,
+W: Perdidos recolher.
+W: 
+W: 
+W: 
+W: 3. Nunca os pobres desprezou,
+W: Sempre os recebeu;
+W: Paga sempre recusou;
+W: De graça tudo deu.
+W: 
+W: 4. Tempos já passados são,
+W: Cristo o mesmo é;
+W: Vida, vista, salvação,
+W: Obtêm-se pela fé.
+W: 				         
+W:           
+
+
+
+
+X:1
+T:018 - Amor Sem Igual
+T:Letra: Stuart Edmund McNair (1867-1959)
+T:Música: Anônimo
+M:4/4
+L:1/8
+Q:1/4=100
+K:Emaj
+V:1
+B,2 | "E"E2 EE G2 FE | "B7"B2 BB "E"HB2 B2 | "A"c2 BA "E"G2 FE | "B"HF6 B,2 | "E"E2 EE G2 FE | "B7"D2 EF "E"HE2 G2 | "F#7"F2 FF dc G^A | "B"HB2 z4 || B2| "E"B8- | "B"B6 B2 | "E"B8- | B6 z G | B2 GB e3 B | cB AG "B"HF2 (FG) | "B7"A2 GA c2 B>D | "E"HE4 z |]
+w: 1.~Oh! Não tens ou-vi-do doa-mor sem i-gual, Doa-mor que teu Deus tem por ti?! Doa-mor queo le-vou a seu Fi-lhoen-tre-gar, Pra os sal-vos le-var pa-ra si?! Oh, crê!_ Oh, crê!_  A gra-ça de Deus te cha_ma dos céus. Oh,_ crê nes-sea-mor sem i-gual!
+w: 2.~Não fo-ram os gran-des que Cris-to cha-mou, Nem jus-tos veio E-le sal-var; Mas po-bres e fra-cos, cul-pa-dos e maus Man-dou pe-los ser-vos cha-mar.  
+w: 3.~O ho-mem, po-rém, não po-dia che-gar À san-ta pre-sen-ça de Deus; Por-que seus pe-ca-dos, qual gran-de mon-tão, Ven-da-vam-lhea en-tra-da nos céus.  
+w: 4.~Mas pe-lo seu san-gue Je-sus ex-piou A cul-pa dos cren-tes na cruz; Ti-ran-doo pe-ca-do, ca-mi-nho mos-trou, O qual pa-rao céu nos con-duz.  
+w: 5.~E tu, pe-ca-dor, não de-se-jas, en-tão, O a-mor do teu Deus co-nhe-cer? Por fé no Se-nhor, co-mo teu Sal-va-dor, I-rás al-can-çar tal pra-zer.             				                    
+W: 
+W: 
+W: 
+W: 1. Oh! Não tens ouvido do amor sem igual,
+W: Do amor que teu Deus tem por ti?!
+W: Do amor que o levou a seu Filho entregar,
+W: Pra os salvos levar para si?!
+W: 
+W:    (Estribilho)
+W:    Oh, crê! Oh, crê!
+W:    A graça de Deus te chama dos céus.    
+W:    Oh, crê nesse amor sem igual!
+W: 
+W: 2. Não foram os grandes que Cristo chamou,
+W: Nem justos veio Ele salvar;
+W: Mas pobres e fracos, culpados e maus
+W: Mandou pelos servos chamar.
+W: 
+W: 
+W: 
+W: 
+W: 3. O homem, porém, não podia chegar
+W: À santa presença de Deus;
+W: Porque seus pecados, qual grande montão,
+W: Vendavam-lhe a entrada nos céus.
+W: 
+W: 4. Mas pelo seu sangue Jesus expiou
+W: A culpa dos crentes na cruz;
+W: Tirando o pecado, caminho mostrou,
+W: O qual para o céu nos conduz.
+W: 
+W: 5. E tu, pecador, não desejas, então,
+W: O amor do teu Deus conhecer?
+W: Por fé no Senhor, como teu Salvador,
+W: Irás alcançar tal prazer.
+W: 
+W: 
+W: 
+W:         
+W: 				         
+W:           
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:019 - Boa Nova
+T:Letra: William Edwin Entzminger (1859-1930)
+T:Música: Albert Lister Peace (1844-1912)
+M:4/4
+L:1/8
+Q:1/4=100
+K:Ab
+V:1
+E2 | "Ab"E3E EF GA| "Eb"(A4 G2) G2| G3G GA Bc| "Eb7"e4 d2 d2| "Ab"c3c "C7"cB AG| "Fm"(B4 A2) A2| "Bbm"A3A AA GF| "Ab/Eb"E3F G2 A2| C6 "Eb7"B2| "Ab"A6|]
+w: 1.~A-le-gre no-va nos che-gou:_ O gran-de Deus as-sim a-mou_ A to-doo mun-do pe-ca-dor,_ Que deu seu Fi-lho ben-fei-tor Em su-a re-den-ção.  
+w: 2.~A-que-le,e pois, queem Cris-to crer,_ A vi-dae-ter-na pas-saa ter;_ Ja-mais a mor-te vai pro-var;_ No céu, po-rém, i-rá go-zar A ple-na sal-va-ção.  
+w: 3.~Mis-ter é Cris-to co-nhe-cer,_ E de-leem tu-do de-pen-der,_ Guar-dar a su-a san-ta lei,_ E co-ro-á-lo nos-so Rei De to-doo co-ra-ção.  
+w: 4.~Ó mun-do to-do,a Cris-to vem,_ Ao que con-ce-de to-doo bem,_ Que po-de-rá tor-nar fe-liz_ A ca-da po-voe seu pa-ís, Com su-a pro-te-ção!        
+W:
+W: 
+W: 1. Alegre nova nos chegou:
+W: O grande Deus assim amou
+W: A todo o mundo pecador,
+W: Que deu seu Filho benfeitor
+W: Em sua redenção.
+W: 
+W: 2. Aquele, pois, que em Cristo crer,
+W: A vida eterna passa a ter;
+W: Jamais a morte vai provar;
+W: No céu, porém, irá gozar
+W: A plena salvação.
+W: 
+W:
+W:
+W: 3. Mister é Cristo conhecer,
+W: E dele em tudo depender,
+W: Guardar a sua santa lei,
+W: E coroá-lo nosso Rei
+W: De todo o coração.
+W: 
+W: 4. Ó mundo todo, a Cristo vem,
+W: Ao que concede todo o bem,
+W: Que poderá tornar feliz
+W: A cada povo e seu país,
+W: Com sua proteção!
+W: 
+W:         
+W:
+
+
+
+
+X: 1
+T:01. C Major
+N:0 sharps/flats
+M:4/4
+L:1/4
+K:C
+C D E F | G A B c | c d e f | g a b c' || C E G c | c e g c' |]
+
+
+
+
+X:1
+T:020 - Amor Perene
+T:Letra: Guilherme Luiz dos Santos Ferreira (1850-1934)
+T:Música: Melodia Francesa (do Cantiques Du Messager)
+M:4/4
+L:1/4
+K:C
+V:1
+G | "C"cE"F"FA | "C"G3E |"Dm"FD"G7"GF | "C"E2CG | c"C7"E"F"FA | "C"G3G | "D7"^FGBA | "G"G3G | GABc | d3 c | Bcfe | e2 d G | GABc | d3 c | Bcfe | e2 d G | "C"c z2 e | "F"A z2 f | "Dm"ed"C/G"c"G"B | "C"c3 |]
+w: 1.~A-ma-vas-me, Se-nhor, não ten-doa luz a-in-da Sur-gin-do lá nos céus, ao man-do Cri-a-dor; Nem mes-moo sol, naau-ro-raes-plen-do-ro-sae lin-da, À ter-ra da-va for-ça fe-cun-dan-te,in-fin-da. Meu Deus, quea-mor! Meu Deus, quean-ti-goa-mor!  
+w: 2.~A-ma-vas-me, Se-nhor, no tem-poem quei-mo-la-do Foi nu-ma cruz san-gren-tao mei-go Sal-va-dor, Le-van-do so-bre Si, sim, to-doo meu pe-ca-do, O San-to de Is-rael, o teu Cor-dei-roa-ma-do. Meu Deus, quea-mor! Meu Deus, quei-men-soa-mor!  
+w: 3.~A-ma-vas-me, Se-nhor! No fun-do de meu pei-to Bri-lhou a do-ce luz do meu Con-so-la-dor, E com pro-mes-sas mil de teu a-mor per-fei-to, Nas-ceuem mim a fé em que ho-je me de-lei-to. Meu Deus, quea-mor! Meu Deus, és to-doa-mor!  
+w: 4.~A mim sem-pre hásdea-mar! Pois que ja-mais oin-fer-no Eo mun-do po-de-rão ao teu que-rer seo-por, Ao teu de-cre-to,ó Rei, ao teu de-cre-toe-ter-no, Ao teu a-mor, ó Pai, ao teu a-mor su-per-no! Meu Deus, quea-mor! És sem-pre, sem-prea-mor!          	
+W: 
+W: 
+W: 1. Amavas-me, Senhor, 
+W: não tendo a luz ainda
+W: Surgindo lá nos céus, ao mando Criador;
+W: Nem mesmo o sol, 
+W: na aurora esplendorosa e linda,
+W: À terra dava força fecundante, infinda.
+W: Meu Deus, que amor!
+W: Meu Deus, que antigo amor!
+W: 
+W: 2. Amavas-me, Senhor, 
+W: no tempo em que imolado
+W: Foi numa cruz sangrenta o meigo Salvador,
+W: Levando sobre Si, sim, todo o meu pecado,
+W: O Santo de Israel, o teu Cordeiro amado.
+W: Meu Deus, que amor!
+W: Meu Deus, que imenso amor!
+W: 
+W: 
+W: 
+W: 3. Amavas-me, Senhor! 
+W: No fundo de meu peito
+W: Brilhou a doce luz do meu Consolador,
+W: E com promessas mil de teu amor perfeito,
+W: Nasceu em mim a fé 
+W: em que hoje me deleito.
+W: Meu Deus, que amor!
+W: Meu Deus, és todo amor!
+W: 
+W: 4. A mim sempre hás de amar! 
+W: Pois que jamais o inferno
+W: E o mundo poderão ao teu querer se opor,
+W: Ao teu decreto, ó Rei, 
+W: ao teu decreto eterno,
+W: Ao teu amor, ó Pai, ao teu amor superno!
+W: Meu Deus, que amor!
+W: És sempre, sempre amor!
+W:         
+W:
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:021 - Louvor Ao Pai e Ao Filho
+T:Letra: Salomão Luiz Ginsburg (1867-1927)
+T:Música: John Hatton (? - 1791)
+M:2/4
+L:1/16
+Q:1/4=145
+K:Emaj
+V:1
+"E"E4G2A2|B4("A"c2d2)|"E"e4("F#7"d2c2)| "B"B8| "E"B4B2B2|"A"c4"E"B4|"B7"A4"E"G4| "B"F8| "E"G4G2F2|(E2G2) (B2e2)|("A"c2B2)(A2G2)| "B"F8| "E"B4 "A"c2d2|"E"e6 "A"A2|"E/B"G4"B7"F4| "E"E8|]
+w: 1.~Do mun-do Deus se_ con-do_eu De tal ma-nei-ra que lhe deu Por Sal-va-dor_ o_ Fi_lho_ seu. Lou-vor ao Pai eao Fi-lho dai!  
+w: 2.~Je-sus so-freu, sim,_ co-mo_ réu, A fim de nos le-var ao céu, Foi quem ras-gou_ da_ mor_teo_ véu. Lou-vor ao Pai eao Fi-lho dai!  
+w: 3.~E Cris-to, por mor_rer na_ cruz, Ou-tor-ga vi-da, go-zoe luz; Sim, tu-do te_mos_ em_ Je_sus. Lou-vor ao Pai eao Fi-lho dai!  
+w: 4.~Mor-reu Je-sus e_ nos re_miu, Foi se-pul-ta-doe res-sur-giu, E pa-ra Deus_ de_pois_ su_biu. Lou-vor ao Pai eao Fi-lho dai!          
+W:
+W:  
+W: 1. Do mundo Deus se condoeu
+W: De tal maneira que lhe deu
+W: Por Salvador o Filho seu.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W: 2. Jesus sofreu, sim, como réu,
+W: A fim de nos levar ao céu,
+W: Foi quem rasgou da morte o véu.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W:
+W:  
+W: 3. E Cristo, por morrer na cruz,
+W: Outorga vida, gozo e luz;
+W: Sim, tudo temos em Jesus.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W: 4. Morreu Jesus e nos remiu,
+W: Foi sepultado e ressurgiu,
+W: E para Deus depois subiu.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W:         
+W: 
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:022 - Amor Sublime
+T:Letra: Ida Scott Taylor
+T:Trad.: Salomão Luiz Ginsburg (1867-1927)
+T:Música: Edmund Simon Lorenz (1854-1872)
+M:3/4
+L:1/8
+Q:1/4=90
+K:Ab
+V:1
+EAB | "Ab"c3e "Db"df | "Ab"e3e fc | "Eb7"e>d d3e | "Ab"c3 EAB | c3e "Db"df | "Ab"e3e fc | "Eb7"ed "Ab/Eb"c2"Eb7"B2 | "Ab"HA3c e>c || [M:4/4] "Ab"e4- eA c>A | c6 c2 | "Fm"c>c cc "Bb7"^d2d2 | "Eb"e4 z E AB | "Ab"c4- ce "Db"df | "Ab"e6"Ab7"e2 | "Db"ef dB "Ab/Eb"A2"Eb7"G2 | "Ab"A4-A |]
+w: 1.~Qual a-ve que, bus-can-doos céus, O mun-do dei-xae seus tro-féus, Mi-nhaal-ma vem a Ti, Se-nhor, Pra co-nhe-cer teu ter-noa-mor. Di-vi-noa-mor,_ su-bli-mea-mor, Dos gran-des te-mas o mai-or!    Mi-nhaal-ma quer_ fru-ir, go-zar De Cris-too tão su-bli-mea-mor._ 
+w: 2.~A-mor su-bli-me, a-mor real, A-mor e-ter-no sem i-gual, So-breu-ma cruz por mim mor-rer E me sal-var por seu po-der!  
+w: 3.~Teu No-me,ó Deus, pu-bli-ca-rei, A tu-a gra-ça,a tu-a lei, O teu po-der eo teu a-mor! Mi-nhaal-maa-do-ra-te, Se-nhor!     
+W: 
+W: 
+W: 1. Qual ave que, buscando os céus,
+W: O mundo deixa e seus troféus,
+W: Minha alma vem a Ti, Senhor,
+W: Pra conhecer teu terno amor.
+W: 
+W:    (Estribilho)
+W:    Divino amor, sublime amor,
+W:    Dos grandes temas o maior!
+W:    Minha alma quer fruir, gozar        
+W:    De Cristo o tão sublime amor.
+W: 
+W: 
+W: 
+W: 2. Amor sublime, amor real,
+W: Amor eterno sem igual,
+W: Sobre uma cruz por mim morrer
+W: E me salvar por seu poder!
+W: 
+W: 3. Teu Nome, ó Deus, publicarei,
+W: A tua graça, a tua lei,
+W: O teu poder e o teu amor!
+W: Minha alma adora-te, Senhor!
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T:024 - Deus É Amor
+T:Letra: John Bowring (1792-1872)
+T:Trad.: Salomão Luiz Ginsburg (1867-1927)
+T:Música: George Coles Stebbins (1846-1945)
+M:3/4
+L:1/8
+Q:1/4=90
+K:Bb
+V:1
+("Bb"F3B) cd | (B3D) FB | ("F7"A3c) GA | "Bb"G2 F4 | ("Bb"B3d) BG | (F3D) FB | ("F"A3B) "C7"Gc | ("F"c2F2-"F7"F2) | ("Bb"F3B) cd | (B3D) FB | ("F7"A3e) GA | "Bb"G2 F4 | (d3f) ed | ("Eb"c3G) AB | ("Bb/F"F3d) "F7"cF | "Bb"B6 || ("Bb"B3d) cB | ("Eb"B2 e2) d2 | ("C7"c3G) cd | ("F"c2F2-"F7"F2) | ("Bb"f3d) cB | ("Eb"G3A) Bc | ("Bb/F"F3d) "F7"cF | "Bb"B6 |]
+w: 1.~Deus_ é a-mor._ A_ su_a_ gra-ça Con_quis_tou_ meu_ co_ra_ção;__ Con_ce_deu_me_ vi_da e-ter-na,  Paz_ e_ luz_ e_ sal_va_ção.  Deus_ é a-mor,_ sim, Deus_ é a-mor.__    Deus_ é a-mor,_ sim,_ Deus_ é a-mor.
+w: 2.~Deus_ é a-mor._ Eis_ tu_do a-ca-ba Nes_te_ mun_do_ dea_mar_gor;__ Só_ per_du_ra i-nal_te_rá-vel Seu_in_fin_do ee-ter_no a-mor.  
+w: 3.~Deus_ é a-mor._ Pois_ cui_da_ sem-pre Do_ seu_ fi_lho_ bom,_ fi_el.__ E_le ins-pi_ra,_ gui_a e li-vra, Co_mo ao po_vo_ deIs__ra-el.  
+w: 4.~Deus_ é a-mor._ Vem,_ au_xi_li-a Aes_te_ po_bre_ pe_ca_dor;__ Per_do_a_do,a_go_ra al-me-ja Pro_cla_mar_ o_ teu__a-mor!     
+W: 
+W: 
+W: 1. Deus é amor. A sua graça
+W: Conquistou meu coração;
+W: Concedeu-me vida eterna, 
+W: Paz e luz e salvação.
+W: 
+W: 2. Deus é amor. Eis tudo acaba
+W: Neste mundo de amargor;
+W: Só perdura inalterável
+W: Seu infindo e eterno amor.
+W: 
+W: 3. Deus é amor. Pois cuida sempre
+W: Do seu filho bom, fiel.
+W: Ele inspira, guia e livra,
+W: Como ao povo de Israel.
+W: 
+W: 
+W: 
+W: 4. Deus é amor. Vem, auxilia
+W: A este pobre pecador;
+W: Perdoado, agora almeja
+W: Proclamar o teu amor!
+W: 
+W:    (Estribilho)
+W:    Deus é amor, sim, Deus é amor.
+W:    Deus é amor, sim, Deus é amor.
+W:      
+W: 
+
+
+
+
+X: 00
+T: 00. __
+B: Sam Bayard, "Hill Country Tunes" 1944 #00
+N: Played by __
+R: __
+M: _/_
+L: 1/_
+Z: 2010 John Chambers <jc:trillian.mit.edu>
+K: _
+
+
+
+
+X: 1
+T: 0'00"
+C: John Cage
+M: none
+K: C
+
+
+
+
+X:1
+T:001 - Antífona
+T:Letra: Henry Maxwell Wright (1849-1931)
+T:Música: William Henry Monk (1823-1889)
+L:1/4
+M:4/4
+K:Eb
+W:
+W:
+W:1. A Ti, ó Deus, fiel e bom Senhor.
+W:   Eterno Pai, Supremo Benfeitor,
+W:   Nós, os teus servos, vimos dar louvor,
+W:   Aleluia! Aleluia!
+W:
+W:2. A Ti, Deus Filho, Salvador Jesus,
+W:   Da graça a fonte, da verdade a luz,
+W:   Por teu amor, medido pela cruz,
+W:   Aleluia! Aleluia!
+W:
+W:3. A Ti, ó Deus, real Consolador,
+W:   Divino fogo, santificador,
+W:   Que nos anima e nos acende o amor,
+W:   Aleluia! Aleluia!
+W:
+W:4. A Ti, Deus trino, Poderoso Deus,
+W:   Que estás presente sempre junto aos teus,
+W:   A ministrar as bênçãos lá dos céus,
+W:   Aleluia! Aleluia!
+E:20
+V:1 treble
+"Eb"G2 "Bb"G F | "Cm"E2 "Gm"B2 | "Ab"c B B "Bb"A | "Eb"G4 | G2 A B | "Ab"c2 "Eb"B2 | "Fm7"A F G "F7"=A | "Bb"B4 | "Eb"G2 "Bb"G F | "Cm"E2 "Gm"B2 | "Ab"B _A "C7"A G | "Fm"F4 | %12
+w: 1.~A Ti, ó Deus, fi-el e bom Se-nhor. E-ter-no Pai, Su-pre-mo Ben-fei-tor, Nós, os teus ser-vos, vi-mos dar lou-vor,
+w: 2.A Ti, Deus Fi-lho, Sal-va-dor Je-sus, Da gra-çaa fon-te, da ver-da-dea luz, Por teu a-mor, me-di-do pe-la cruz, 
+w: 3.A Ti, ó Deus, re-al Con-so-la-dor, Di-vi-no fo-go, san-ti-fi-ca-dor, Que nos a-ni-mae nos a-cen-deoa-mor,
+w: 4.A Ti, Deus tri-no, Po-de-ro-so Deus, Quees-tás pre-sen-te sem-pre jun-toaos teus, A mi-nis-trar as bên-çãos lá dos céus, 
+ "Bb7"F2 G A | "Eb"G F "Ab"E A | "Eb/Bb"G2 "Bb7"F2 | "Eb"E4 |] %16
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+
+
+
+
+X:1
+T:002 - Justo És Senhor
+T:Letra (Adap.) João Gomes da Rocha (1861-1947)
+T:Música: Lowell Mason (1792-1872)
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+W:
+W:
+W: Justo és, Senhor, nos teus santos caminhos;
+W: És digno em todas as tuas obras;
+W: Eis perto estás dos que te invocam,
+W: De todos que te invocam em verdade!
+W: Aleluia! Aleluia!
+W:
+V:1
+ "C"E2 E E | E2 E E | "G"G2 F F | "C"E2 E2 | "Am"c2 c c | "Bm"B2 "C"A G | "D7"G2 ^F2 | "G"G2 G2 :||: "G"z2 "F"z z | "Em"z2 "Dm"z z | "C"c2 "C7"^A A | "F"=A2 "C/E"G2 | "Dm"F2 "G"G2 | "C"E2 "C/E"G G | "F"A B c "G"d | "C"e2 "Am"d c | "Dm/F"c2 "G7"B2 | "C"c2 c2 :|| z2 c c | e2 "C/E"c2 | z2 G G | "F"A4 | "C"G4 |] %41
+w: Jus-toés, Se-nhor, nos teus san-tos ca-mi-nhos; És dig-noem to-das as tu-as o-bras; Eis per-toes-tás dos que tein-vo-cam, De to-dos que tein-vo-cam_ em ver-da-de! A-le-lui-a! A-le-lui-a!
+
+
+
+
+X:1
+T:005 - Presença Divina
+T:Letra: Anônimo (Séc. XVIII)
+T:Trad.: Justus Henry Nelson (1849-1931)
+T:Música: Felice de Giardini (1716-1796)
+M:3/4
+L:1/8
+Q:1/4=104
+K:Gmaj
+V:1
+"G"d2B2G2| ("C"A2"G/D"G2)"D"F2| "G"G4z2| G2A2B2| ("D7"cdc2)"G"B2| "D"A4z2| "G"d2B2G2| "D"D4z2| "D7"A2B2c2| "G"B3 AG2| "D7"A2B2c2| "G"B3 AG2| G2B2d2| d3 ed2| "C"c2"G/D"B2"D7"A2| "G"G6|]
+w: 1.~O-ni-po-ten_te Rei, a-qui pre-sen__te sê No teu po-der; Em teu ex-cel-soa-mor ins-pi-ra-nos lou-vor; Que-re-mos-te, Se-nhor, en-gran-de-cer.  
+w: 2.~Ó po-de-ro_so Deus, nos ou-ve lá__ dos céus A pe-ti-ção. Vem-nos a-ben-ço-ar, e vem fa-zer bro-tar O que se se-me-ar no co-ra-ção.  
+w: 3.~Vem Tu, Con-so_la-dor, sê tes-ti-fi__ca-dor Da re-den-ção. No tem-plo vem en-trar, a o-bra com-ple-tar. Das man-chas vem lim-par o co-ra-ção.  
+w: 4.~Ó gran-de, tri_no Deus, sim, Tea-do-ra__mos nós. E só a Ti! San-ti-fi-car-nos-ás, ao céu nos le-va-rás, A gló-ria nos da-rás Con-ti-goa-í.            
+W:
+W: 
+W: 1. Onipotente Rei, aqui presente sê
+W: No teu poder;
+W: Em teu excelso amor inspira-nos louvor;
+W: Queremos-te, Senhor, engrandecer.
+W: 
+W: 2. Ó poderoso Deus, nos ouve lá dos céus
+W: A petição.
+W: Vem-nos abençoar, e vem fazer brotar
+W: O que se semear no coração.
+W: 
+W:
+W:
+W: 3. Vem Tu, Consolador, sê testificador
+W: Da redenção.
+W: No templo vem entrar, a obra completar.
+W: Das manchas vem limpar o coração.
+W: 
+W: 4. Ó grande, trino Deus, sim, Te adoramos nós.
+W: E só a Ti!
+W: Santificar-nos-ás, ao céu nos levarás,
+W: A glória nos darás Contigo aí.
+W: 
+W: 
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T:006 - Glória ao Senhor
+T:Letra: Antônio José dos Santos Neves (1827-1874)
+T:Melodia Inglesa
+M:3/4
+L:1/8
+K:F
+V:1
+"F"F2F2G2| "C"E2>F2G2| "F"A2A2 "Bb"B2| "F"A3 G "Dm"F2| "Gm"G2F2 "C"E2| "F"F6| c2c2c2| c3BA2| "C7"B2B2B2| B3AG2| "F"A2 "Bb/F"BA GF| "F"A3B c2| "Bb"dB "F/C"A2 "C7"G2| "F"F6|]
+w: 1.~A nos-so Pai do céu tri-bu-ta, lá-bio meu, Gló-riae lou-vor! A quem seu Fi-lho deu, o qual por nós mor-reu, A quem_ me_ pros-tro eu; gló_riaao Se-nhor!
+w: 2.~Lou-ve-mos ao Se-nhor, o San-to Re-den-tor, O Rei Je-sus! Sua mor-te me re-miu, a mim, tão pe-ca-dor, Eas-sim_ o_ céu mea-briu; gló_riaa Je-sus!
+w: 3.~Es-pí-ri-to de Deus, man-da-do por Je-sus, Lou-vor a ti! De Cris-too gran-dea-mor re-ve-la, Ins-trui-dor! Sê meu_ re_no-va-dor! Lou_vor a ti!
+w: 4.~Lou-ve-mos com ar-dor, com go-zoe com fer-vor O tri-no Deus! E-ter-na-men-tea-li, em can-toa-bra-sa-dor, Trin-da_de_ san-ta,a ti lou_vor nos céus!
+W:
+W: 1. A nosso Pai do céu 
+W: tributa, lábio meu,
+W: Glória e louvor!
+W: A quem seu Filho deu, 
+W: o qual por nós morreu,
+W: A quem me prostro eu; 
+W: glória ao Senhor!
+W: 
+W: 2. Louvemos ao Senhor, 
+W: o Santo Redentor,
+W: O Rei Jesus!
+W: Sua morte me remiu, 
+W: a mim, tão pecador, 
+W: E assim o céu me abriu; 
+W: glória a Jesus!
+W: 
+W: 
+W: 3. Espírito de Deus, 
+W: mandado por Jesus,
+W: Louvor a ti!
+W: De Cristo o grande amor 
+W: revela, Instruidor!
+W: Sê meu renovador! 
+W: Louvor a ti!
+W: 
+W: 4. Louvemos com ardor, 
+W: com gozo e com fervor
+W: O trino Deus!
+W: Eternamente ali, 
+W: em canto abrasador,
+W: Trindade santa, a ti 
+W: louvor nos céus!
+W: 
+
+
+
+
+%vocalfont Times-Roman 13.0
+X:1
+T:007 - Maravilhas Divinas
+T:Letra: Salomão Luiz Ginsburg (1867-1927)
+T:Música: George Coles Stebbins (1846-1945)
+M:6/8
+L:1/8
+Q:1/4=115
+K:Fmaj
+V:1
+"F"F3 C2F| A3 F2A| c3 (dc)=B| c3 A2z| "Bb"B3 c2c| d3 c2c| "G7"=B3 A2G| "C"c3z3| "F"F3 C2F| A3 F2A| c3 (dc)=B| c3 A3| "Bb"B3 c2c| d3 e2f| "F/C"A3 "C7"A2G| "F"F3z3 || "F"c3- c=Bc| d3 c3| A3- A^GA| B3 A3| "Bb/F"d3- dc=B| "F"c3 A2A| "G7"=B3- BA=B| "C"c3z3| "F"c3- c=Bc| d3 c3| A3- A_A=A| B3 A3| "Bb/F"d3- dc=B| "F"c3 F2_B| "F/C"A3 "C7"A2G| "F"F3z3|]
+w: 1.~Ao Deus dea-mor e dei-men-sa_ bon-da-de, Com voz de jú-bi-lo vin-deea-cla-mai; Com co-ra-ção trans-bor-dan-te_ de gra-ças, Seu gran-dea-mor, to-dos, vin-dee lou-vai.     No_ céu, na ter-ra, que_ ma-ra-vi-lhas Vai_ o-pe-ran-doo po-der_ do Se-nhor! Mas_ seu a-mor aos ho_mens per-di-dos Das_ ma-ra-vi-lhas és sem-prea mai-or!  
+w: 2.~Já nos-sos pais nos con-ta-ram_ a gló-ria De Deus, fa-lan-do com mui-to pra-zer, Que nas tris-te-zas, nos gran-des_ pe-ri-gos, E-leos sal-vou por seu gran-de po-der.  
+w: 3.~Ho-je, tam-bém nós bem al-to_ can-ta-mos Queas o-ra-ções E-le nos a-ten-deu; Seu for-te bra-ço, queé tão com_pas-si-vo, Em nos-soau-xí-lio,E-le sem-prees-ten-deu.  
+w: 4.~Co-moa-té ho-jee da-qui pa_ra sem-pre, E-le se-rá nos-soe-ter-no po-der, Nos-so cas-te-lo bem for-tee_ se-gu-ro, Ea nos-sa fon-te deex-cel-so pra-zer.          
+W: 
+W: 
+W: 1. Ao Deus de amor e de imensa bondade,
+W: Com voz de júbilo vinde e aclamai;
+W: Com coração transbordante de graças,
+W: Seu grande amor, todos, vinde e louvai.
+W: 
+W:    (Estribilho)
+W:    No céu, na terra, que maravilhas
+W:    Vai operando o poder do Senhor!    
+W:    Mas seu amor aos homens perdidos      
+W:    Das maravilhas és sempre a maior!
+W: 
+W: 2. Já nossos pais nos contaram a glória
+W: De Deus, falando com muito prazer,
+W: Que nas tristezas, nos grandes perigos,
+W: Ele os salvou por seu grande poder.
+W: 
+W: 
+W: 
+W: 3. Hoje, também nós bem alto cantamos
+W: Que as orações Ele nos atendeu;
+W: Seu forte braço, que é tão compassivo,
+W: Em nosso auxílio, Ele sempre estendeu.
+W: 
+W: 4. Como até hoje e daqui para sempre,
+W: Ele será nosso eterno poder,
+W: Nosso castelo bem forte e seguro,
+W: E a nossa fonte de excelso prazer.
+W:         
+W: 				         
+W:           
+
+
+
+
+X: 00
+T: 00. __
+B: Sam Bayard, "Hill Country Tunes" 1944 #00
+N: Played by __
+R: __
+M: _/_
+L: 1/_
+Z: 2010 John Chambers <jc:trillian.mit.edu>
+K: _
+
+
+
+
+X: 1
+T: 0'00"
+C: John Cage
+M: none
+K: C
+
+
+
+
+X:1
+T:001 - Antífona
+T:Letra: Henry Maxwell Wright (1849-1931)
+T:Música: William Henry Monk (1823-1889)
+L:1/4
+M:4/4
+K:Eb
+W:
+W:
+W:1. A Ti, ó Deus, fiel e bom Senhor.
+W:   Eterno Pai, Supremo Benfeitor,
+W:   Nós, os teus servos, vimos dar louvor,
+W:   Aleluia! Aleluia!
+W:
+W:2. A Ti, Deus Filho, Salvador Jesus,
+W:   Da graça a fonte, da verdade a luz,
+W:   Por teu amor, medido pela cruz,
+W:   Aleluia! Aleluia!
+W:
+W:3. A Ti, ó Deus, real Consolador,
+W:   Divino fogo, santificador,
+W:   Que nos anima e nos acende o amor,
+W:   Aleluia! Aleluia!
+W:
+W:4. A Ti, Deus trino, Poderoso Deus,
+W:   Que estás presente sempre junto aos teus,
+W:   A ministrar as bênçãos lá dos céus,
+W:   Aleluia! Aleluia!
+E:20
+V:1 treble
+"Eb"G2 "Bb"G F | "Cm"E2 "Gm"B2 | "Ab"c B B "Bb"A | "Eb"G4 | G2 A B | "Ab"c2 "Eb"B2 | "Fm7"A F G "F7"=A | "Bb"B4 | "Eb"G2 "Bb"G F | "Cm"E2 "Gm"B2 | "Ab"B _A "C7"A G | "Fm"F4 | %12
+w: 1.~A Ti, ó Deus, fi-el e bom Se-nhor. E-ter-no Pai, Su-pre-mo Ben-fei-tor, Nós, os teus ser-vos, vi-mos dar lou-vor,
+w: 2.A Ti, Deus Fi-lho, Sal-va-dor Je-sus, Da gra-çaa fon-te, da ver-da-dea luz, Por teu a-mor, me-di-do pe-la cruz, 
+w: 3.A Ti, ó Deus, re-al Con-so-la-dor, Di-vi-no fo-go, san-ti-fi-ca-dor, Que nos a-ni-mae nos a-cen-deoa-mor,
+w: 4.A Ti, Deus tri-no, Po-de-ro-so Deus, Quees-tás pre-sen-te sem-pre jun-toaos teus, A mi-nis-trar as bên-çãos lá dos céus, 
+ "Bb7"F2 G A | "Eb"G F "Ab"E A | "Eb/Bb"G2 "Bb7"F2 | "Eb"E4 |] %16
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+w:A_le-lui-a! A-le-lui_a!
+
+
+
+
+X:1
+T:005 - Presença Divina
+T:Letra: Anônimo (Séc. XVIII)
+T:Trad.: Justus Henry Nelson (1849-1931)
+T:Música: Felice de Giardini (1716-1796)
+M:3/4
+L:1/8
+Q:1/4=104
+K:Gmaj
+V:1
+"G"d2B2G2| ("C"A2"G/D"G2)"D"F2| "G"G4z2| G2A2B2| ("D7"cdc2)"G"B2| "D"A4z2| "G"d2B2G2| "D"D4z2| "D7"A2B2c2| "G"B3 AG2| "D7"A2B2c2| "G"B3 AG2| G2B2d2| d3 ed2| "C"c2"G/D"B2"D7"A2| "G"G6|]
+w: 1.~O-ni-po-ten_te Rei, a-qui pre-sen__te sê No teu po-der; Em teu ex-cel-soa-mor ins-pi-ra-nos lou-vor; Que-re-mos-te, Se-nhor, en-gran-de-cer.  
+w: 2.~Ó po-de-ro_so Deus, nos ou-ve lá__ dos céus A pe-ti-ção. Vem-nos a-ben-ço-ar, e vem fa-zer bro-tar O que se se-me-ar no co-ra-ção.  
+w: 3.~Vem Tu, Con-so_la-dor, sê tes-ti-fi__ca-dor Da re-den-ção. No tem-plo vem en-trar, a o-bra com-ple-tar. Das man-chas vem lim-par o co-ra-ção.  
+w: 4.~Ó gran-de, tri_no Deus, sim, Tea-do-ra__mos nós. E só a Ti! San-ti-fi-car-nos-ás, ao céu nos le-va-rás, A gló-ria nos da-rás Con-ti-goa-í.            
+W:
+W: 
+W: 1. Onipotente Rei, aqui presente sê
+W: No teu poder;
+W: Em teu excelso amor inspira-nos louvor;
+W: Queremos-te, Senhor, engrandecer.
+W: 
+W: 2. Ó poderoso Deus, nos ouve lá dos céus
+W: A petição.
+W: Vem-nos abençoar, e vem fazer brotar
+W: O que se semear no coração.
+W: 
+W:
+W:
+W: 3. Vem Tu, Consolador, sê testificador
+W: Da redenção.
+W: No templo vem entrar, a obra completar.
+W: Das manchas vem limpar o coração.
+W: 
+W: 4. Ó grande, trino Deus, sim, Te adoramos nós.
+W: E só a Ti!
+W: Santificar-nos-ás, ao céu nos levarás,
+W: A glória nos darás Contigo aí.
+W: 
+W: 
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T:007 (from "From Russia With Love")
+C:John Barry
+Z:Hoho windfola server
+M:4/4
+L:1/8
+Q:100 =1/4
+K:C
+
+
+
+
+%vocalfont Times-Roman 13.0
+X:1
+T:007 - Maravilhas Divinas
+T:Letra: Salomão Luiz Ginsburg (1867-1927)
+T:Música: George Coles Stebbins (1846-1945)
+M:6/8
+L:1/8
+Q:1/4=115
+K:Fmaj
+V:1
+"F"F3 C2F| A3 F2A| c3 (dc)=B| c3 A2z| "Bb"B3 c2c| d3 c2c| "G7"=B3 A2G| "C"c3z3| "F"F3 C2F| A3 F2A| c3 (dc)=B| c3 A3| "Bb"B3 c2c| d3 e2f| "F/C"A3 "C7"A2G| "F"F3z3 || "F"c3- c=Bc| d3 c3| A3- A^GA| B3 A3| "Bb/F"d3- dc=B| "F"c3 A2A| "G7"=B3- BA=B| "C"c3z3| "F"c3- c=Bc| d3 c3| A3- A_A=A| B3 A3| "Bb/F"d3- dc=B| "F"c3 F2_B| "F/C"A3 "C7"A2G| "F"F3z3|]
+w: 1.~Ao Deus dea-mor e dei-men-sa_ bon-da-de, Com voz de jú-bi-lo vin-deea-cla-mai; Com co-ra-ção trans-bor-dan-te_ de gra-ças, Seu gran-dea-mor, to-dos, vin-dee lou-vai.     No_ céu, na ter-ra, que_ ma-ra-vi-lhas Vai_ o-pe-ran-doo po-der_ do Se-nhor! Mas_ seu a-mor aos ho_mens per-di-dos Das_ ma-ra-vi-lhas és sem-prea mai-or!  
+w: 2.~Já nos-sos pais nos con-ta-ram_ a gló-ria De Deus, fa-lan-do com mui-to pra-zer, Que nas tris-te-zas, nos gran-des_ pe-ri-gos, E-leos sal-vou por seu gran-de po-der.  
+w: 3.~Ho-je, tam-bém nós bem al-to_ can-ta-mos Queas o-ra-ções E-le nos a-ten-deu; Seu for-te bra-ço, queé tão com_pas-si-vo, Em nos-soau-xí-lio,E-le sem-prees-ten-deu.  
+w: 4.~Co-moa-té ho-jee da-qui pa_ra sem-pre, E-le se-rá nos-soe-ter-no po-der, Nos-so cas-te-lo bem for-tee_ se-gu-ro, Ea nos-sa fon-te deex-cel-so pra-zer.          
+W: 
+W: 
+W: 1. Ao Deus de amor e de imensa bondade,
+W: Com voz de júbilo vinde e aclamai;
+W: Com coração transbordante de graças,
+W: Seu grande amor, todos, vinde e louvai.
+W: 
+W:    (Estribilho)
+W:    No céu, na terra, que maravilhas
+W:    Vai operando o poder do Senhor!    
+W:    Mas seu amor aos homens perdidos      
+W:    Das maravilhas és sempre a maior!
+W: 
+W: 2. Já nossos pais nos contaram a glória
+W: De Deus, falando com muito prazer,
+W: Que nas tristezas, nos grandes perigos,
+W: Ele os salvou por seu grande poder.
+W: 
+W: 
+W: 
+W: 3. Hoje, também nós bem alto cantamos
+W: Que as orações Ele nos atendeu;
+W: Seu forte braço, que é tão compassivo,
+W: Em nosso auxílio, Ele sempre estendeu.
+W: 
+W: 4. Como até hoje e daqui para sempre,
+W: Ele será nosso eterno poder,
+W: Nosso castelo bem forte e seguro,
+W: E a nossa fonte de excelso prazer.
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T: 009 - Santo
+T:Letra: Reginald Heber (1788-1826)
+T:Trad.: João Gomes da Rocha (1861-1947)
+T:Musica: John Bacchus Dykes (1823-1876)
+L:1/4
+M:4/4
+I:linebreak $
+K:Ebmaj
+V:1
+"Eb"E E G G | "Bb"B2 "Eb"B2 | "Ab"c3/2 c/2 c c | "Eb"B2 G2 | "Bb"B3/2 B/2 B B | "Cm"e2 d B | "Fm"F B c3/2 B/2 | "Bb7"B4 | "Eb"E E G G | "Bb"B2 "Eb"B2 | "Ab"c3/2 c/2 c c | "Eb"B2 B2 | "Cm"e2 "Gm"B B | "Ab"c2 "Eb"G2 | "Ab"A F "Bb7"F3/2 E/2 | "Eb"E4 |]
+w: 1.~San-to! San-to! San-to! Deus O-ni-po-ten-te! Ce-do de ma-nhã can-ta-re-mos teu lou-vor. San-to! San-to! San-to! Deus Jeo-vá tri-ú-no, És um só Deus, ex-cel-so Cri-a-dor.
+w: 2.~San-to! San-to! San-to! To-dos os re-mi-dos, Jun-tos com os an-jos, pro-cla-mam teu lou-vor. An-tes de for-mar-seo fir-ma-men-toea ter-ra. E-ras, e sem-preés ehás de ser, Se-nhor.
+w: 3.~San-to! San-to! San-to! Nós, os pe-ca-do-res, Não po-de-mos ver tu-a gló-ria sem tre-mor. Tu so-men-teés San-to; não há ne-nhum ou-tro, Pu-roe per-fei-to,ex-cel-so Ben-fei-tor.
+w: 4.~San-to! San-to! San-to! Deus O-ni-po-ten-te! Tu-as o-bras lou-vam teu no-me com fer-vor. San-to! San-to! San-to! Jus-toe com-pas-si-vo, És um só Deus, su-pre-mo Cri-a-dor.
+W: 
+W: 
+W: 1. Santo! Santo! Santo! Deus Onipotente!
+W: Cedo de manhã cantaremos teu louvor.
+W: Santo! Santo! Santo! Deus Jeová triúno,
+W: És um só Deus, excelso Criador.
+W: 
+W: 2. Santo! Santo! Santo! Todos os remidos,
+W: Juntos com os anjos, proclamam teu louvor.
+W: Antes de formar-se o firmamento e a terra.
+W: Eras, e sempre és e hás de ser, Senhor.
+W: 
+W: 3. Santo! Santo! Santo! Nós, os pecadores,
+W: Não podemos ver tua glória sem tremor.
+W: Tu somente és Santo; não há nenhum outro,
+W: Puro e perfeito, excelso Benfeitor.
+W: 
+W: 4. Santo! Santo! Santo! Deus Onipotente!
+W: Tuas obras louvam teu nome com fervor.
+W: Santo! Santo! Santo! Justo e compassivo,
+W: És um só Deus, supremo Criador.
+
+
+
+
+X:0
+T:00.  c' 
+M:none
+L:1/2
+Q:1/2=30
+K:C
+c'-c'-c'-c'||
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:010 - Auxílio Divino
+T:Letra: Andrew Reed (1787-1862)
+T:Trad.: William Edwin Entzminger (1859-1930)
+T:Música: Louis Moureau Gottschalk (1829-1869)
+L:1/4
+Q:1/4=110
+M:3/4
+K:Bbmaj
+V:1
+ "Bb"F2 G | (F B) d | "F"d2 c | "Gm"B3 | (B A) B | "Bb/F"(B f) d | "C7"c2 (d/c/) | "F7"(c2 F) | "Bb"F2 G | (F B) d | "D7"d2 (e/d/) | "Gm"d3 | "Edim"(B A) G | "Bb/F"(F e) d | "F7"d2 c | "Bb"B3 |] 
+w: 1.~San-to Deus,_ vem in-fla-mar Nos_sos dé_beis co-ra_ções;_ Vem as tre_vas dis-si_par, Li_vra-nos_ deim-per-fei-ções.  
+w: 2.~Sim, ó Deus,_ vem di-ri-gir Es_te cul_toa ce-le_brar;_ Vem, oh, vem_nos re-ves_tir De_ fer-vor_ pra Te lou-var!       
+W: 
+W: 1. Santo Deus, vem inflamar
+W: Nossos débeis corações;
+W: Vem as trevas dissipar,
+W: Livra-nos de imperfeições.
+W: 
+W:
+W: 2. Sim, ó Deus, vem dirigir
+W: Este culto a celebrar;
+W: Vem, oh, vem-nos revestir
+W: De fervor pra Te louvar!
+W:         
+W: 
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:011 - Ao Deus Trino
+T:Letra: William Edwin Entzminger (1859-1930)
+T:Música: Luther Orlando Emerson (1820-1915)
+M:2/2
+L:1/4
+K:Bb
+V:1
+"Bb"F2 GF | B2 F2 | (GF) (B3/c/) | d3 z | "F"c2 cd | c2 c2 | "F7"dc "Bb"B2 | "Gm"B2 BG | B2 c2 | "F"cd c2 | "Bb"F2 GF | (B3/c/ d2) | "F7"c2 dc | "Bb"B3 z |]
+w: 1.~Ó Deus, bom Pai e Ben_fei_tor, A Ti ren-de-mos, com ar-dor, Lou-vor le-al sem fim, Se-nhor, De to-dos nós__ Sus-ten-ta-dor.  
+w: 2.~E Tu, Deus Fi-lho,ó bom_ Je_sus, Por nós so-fres-te nu-ma cruz; De Ti nos vem a cla-ra luz, Que nos-sos pés__ aos céus con-duz.  
+w: 3.~Tu, Deus, Es-pí-ri-to_ ve_raz, Oh! Nos-sas al-mas sa-tis-faz Com go-zo, com di-vi-na paz, Eas nos-sas a__fli-ções des-faz.  
+w: 4.~Ó in-fi-ni-toeex-cel_so_ Deus, Am-pa-ra-nos, em-bo-ra réus, Com bên-çãos, lá dos al-tos céus, A to-dos nós,__ os fi-lhos teus.          
+W: 
+W: 
+W: 1. Ó Deus, bom Pai e Benfeitor,
+W: A Ti rendemos, com ardor,
+W: Louvor leal sem fim, Senhor,
+W: De todos nós Sustentador.
+W: 
+W: 2. E Tu, Deus Filho, ó bom Jesus,
+W: Por nós sofreste numa cruz;
+W: De Ti nos vem a clara luz,
+W: Que nossos pés aos céus conduz.
+W: 
+W: 
+W: 
+W: 3. Tu, Deus, Espírito veraz,
+W: Oh! Nossas almas satisfaz
+W: Com gozo, com divina paz,
+W: E as nossas aflições desfaz.
+W: 
+W: 4. Ó infinito e excelso Deus,
+W: Ampara-nos, embora réus,
+W: Com bênçãos, lá dos altos céus,
+W: A todos nós, os filhos teus.
+W:         
+W: 				         
+W:           
+
+
+
+
+X:1
+T: 012 - Louvamos
+T: Letra: Richard Holden (1828-1886)
+T: Música: John Francis Wade (1710-1786)
+M:4/4
+L:1/8
+K:A
+V:1
+A2| "A"A4 E2 A2| "E"B4 E2 E2| "A"(c2 B2) c2 d2| "E"c4 B2 B2| "F#m"A4 "B7"G2 F2| "E"(G2 A2) B2 c2| "B7"G4 F3E|"E7"E4 E2 E2| "A"e4 d2 c2|  "D"d4 "A"c2 c2| "B7"(B2 c2) A2 B2| "E7"G3 F E2 A2| "A"(A2 G2) "D"A2 B2| "A"A4 "E"E2 c2| "A"(c2 B2) "D"c2 d2| "A"c4 "E"B2 c2| "D"(d2 c2) B2 A2| "E"G4 "A"A2 d2| "A/E"c4 "E7"B3A| "A"A4 z2 |]
+w: 1.~Lou-va-mos, lou-va-mos, Se-nhor e a-do-ra-mos A ti, ó Deus-Ho_mem, no céu as-sen-ta-do; Queem tem-po de-vi-do, na ter_rahu-mi-lha_do, Por nos_sos pe-ca-dos mor-res_te na cruz_ Por nos_sos pe-ca-dos mor-res-te na cruz
+w: 2.~Lou-va-mos, lou-va-mos, Se-nhor, e a-do-ra-mos A ti, quea jus-ti_ça de Deus sus-ten-tas-te, A pe-na so-fren-do por nós_ me-re-ci_da, A vi_da de-pon-do praas-sim_ nos re-mir._ A vi_da de-pon-do praas-sim nos re-mir.
+w: 3.~Lou-va-mos, lou-va-mos, Se-nhor, e a-do-ra-mos A gló-ria di-vi_na por ti re-ve-la-da, Que pa-ra nós bri-lha na luz_ es-plen-den_te, Fa-zen_do-nos ver a re-al_ per-fei-ção._ Fa-zen_do-nos ver a re-al per-fei-ção.
+w: 4.~Em ti con-ci-li-a-sea san_ta jus-ti-ça, Que não po-dea cul_pa dei-xar sem cas-ti-go. Com a com-pai-xão que por gra_ça re-ce_be Ee-xi_me de cul-pas o réu_ pe-ca-dor._ Ee-xi_me de cul-pas o réu pe-ca-dor.
+W: 
+W:
+W: 1. Louvamos, louvamos, Senhor e adoramos
+W: A ti, ó Deus-Homem, no céu assentado;
+W: Que em tempo devido, na terra humilhado,
+W: Por nossos pecados morreste na cruz. (bis)
+W: 
+W: 2. Louvamos, louvamos, Senhor, e adoramos
+W: A ti, que a justiça de Deus sustentaste,
+W: A pena sofrendo por nós merecida,
+W: A vida depondo pra assim nos remir. (bis)
+W: 
+W:
+W:
+W: 3. Louvamos, louvamos, Senhor, e adoramos
+W: A glória divina por ti revelada,
+W: Que para nós brilha na luz esplendente,
+W: Fazendo-nos ver a real perfeição. (bis)
+W: 
+W: 4. Em ti concilia-se a santa justiça,
+W: Que não pode a culpa deixar sem castigo.
+W: Com a compaixão que por graça recebe
+W: E exime de culpas o réu pecador. (bis)
+W: 
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:013 - Adoração a Deus
+T:Letra: Henry Francis Lyte (1793-1847)
+T:Trad.: William Edwin Entzminger (1859-1930)
+T:Música: Henry John Gauntlett (1805-1876)
+M: 3/4
+L: 1/8
+Q:1/4=115
+K:G
+V:1
+D2 | "G"B2G2 "C"E2 | "G"D4 D2 |B2G2 "C"E2 | "G"D4 G2 |"Am7"c2c2 "D"A2 | "G"d4B2 | "A/D"A2F2 "A7"E2 | "D"D4A2 |"G"F2G2B2 |"D"B2A2B2|"C"c2d2e2| "G"d4d2|"Am"d2c2c2| "G"c2B2B2|"D"A2G2F2| "G"G4|]
+w: Ben-di-gam a Deus, glo-rio-so Se-nhor, E com gra-ti-dão lhe ren-dam lou-vor: A-mi-go dos ho-mens, fi-el de-fen-sor, Queos guar-da se-gu-ros no seu am-ploa-mor.          
+W:
+W:
+W: Bendigam a Deus, glorioso Senhor,
+W: E com gratidão lhe rendam louvor:
+W: Amigo dos homens, fiel defensor,
+W: Que os guarda seguros no seu amplo amor.
+W:         
+W:
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:014 - O Deus de Abraão
+T:Letra: Daniel Ben Judah Dayyam (Sec.XV) Parafrase de Thomas Olivers (1725-1799)
+T:Trad.: Robert Hawkey Moreton (1844-1917)
+T:Música: Melodia Hebraica
+M:4/2
+L:1/4
+Q:1/2=115
+K:Bb
+V:1
+D2| "Gm"G2 A2 B2 "F"c2| "Bb"d6 B2| "F"c2 d2 "Eb"e2 "F"f2| "Bb"d4 z2 "F"A2| "Bb"B2 c2 d2 "Eb"e2| "Bb"f2 A2 B2 "Eb"e2| "Bb/F"d4 "F7"c4 | "Bb"B4 z2 B2 | d2 d2 d2 d2| "F"c6 (BA) | ("Gm"GA) (Bc) d2 G2 | "D7"^F4 z2 D2 | "Gm"G2 A2 B2 "F"c2| "Bb"d2 (cd) "Cm"e2 (dc) | "Gm/D"B4 "D7"A4 | "Gm"G4 z2 |]
+w: 1.~Ao Deus deA-braão lou-vai, Do vas-to céu Se-nhor, E-ter-noe po-de-ro-so Pai, E Deus dea-mor, Au-gus-to Deus Jeo-vá, Que_ ter_rae_ céu cri-ou, Mi-nhaal-mao No-mea-ben-ço-a-rá Do_ gran-deEu Sou.
+w: 2.~Ao Deus deA-braão lou-vai; Eis, por man-da-do seu, Mi-nhaal-ma dei-xaa ter-rae vai Go-zar no céu. O mun-do des-pre-zei, Seu_ lu_croe_ seu lou-vor, E Deus por meu qui-nhão to_mei E_ pro-te-tor.
+w: 3.~Meu gui-a Deus se-rá; Seu in-fi-ni-toa-mor Fe-liz em tu-do me fa-rá Por on-deeu for. To-mou-me pe-la mão, Em_ tre_vas_ deu-me luz, E dá-mee-ter-na sal-va_ção Por_ meu Je-sus.
+w: 4.~Meu Deus por si ju-rou, E nE-le con-fi-ei, E pa-rao céu que pre-pa-rou Eu su-bi-rei. Seu ros-toi-rei eu ver, Fi_a_doem_ seu a-mor, Eeu hei de sem-preen-gran-de_cer Meu_ Re-den-tor.          		W:
+W:
+W: 
+W: 1. Ao Deus de Abraão louvai,
+W: Do vasto céu Senhor,
+W: Eterno e poderoso Pai,
+W: E Deus de amor,
+W: Augusto Deus Jeová,
+W: Que terra e céu criou,
+W: Minha alma o Nome abençoará
+W: Do grande Eu-Sou.
+W: 
+W: 2. Ao Deus de Abraão louvai;
+W: Eis, por mandado seu,
+W: Minha alma deixa a terra e vai
+W: Gozar no céu.
+W: O mundo desprezei,
+W: Seu lucro e seu louvor,
+W: E Deus por meu quinhão tomei
+W: E protetor.
+W: 
+W:
+W: 
+W: 3. Meu guia Deus será;
+W: Seu infinito amor
+W: Feliz em tudo me fará
+W: Por onde eu for.
+W: Tomou-me pela mão,
+W: Em trevas deu-me luz,
+W: E dá-me eterna salvação
+W: Por meu Jesus.
+W: 
+W: 4. Meu Deus por si jurou,
+W: E nEle confiei,
+W: E para o céu que preparou 
+W: Eu subirei.
+W: Seu rosto irei eu ver,
+W: Fiado em seu amor,
+W: E eu hei de sempre engrandecer
+W: Meu Redentor.
+W:         
+W: 				         
+W: 
+
+
+
+
+X:1
+T: 015 - Exultação
+T:Letra: Fanny Jane Crosby (1820-1915)
+T:Trad.: Joseph Jones (1848-1927)
+T:Música: William Howard Doane (1832-1915)
+M:3/4
+L:1/8
+Q:1/4=120
+K:Ab
+V:1
+E2|  "Ab"E4FG| A2E2A2|  "Eb7"B2E2B2| "Ab"c4c2|  "Db"d2F2d2|  "Ab"c2A2c2|c2B2F2| "Eb7"B4 E2|  "Ab"E4FG|A2E2A2| "Eb"B2E2B2| "Ab"c4c2|  "Db"e2d2B2|  "Ab/E"A2G2A2| "Eb7"c2c2B2|  "Ab"A4 || c3/2d/2 |  "Ab"e4c3/2d/2| e4e3/2c/2|A2B2c2| "Eb"B4B3/2c/2| d4B3/2c/2| d4dB|e2e2d2|  "Ab"c4 E2| E4FG| A2E2A2| "Eb"B2E2B2|  "Ab"c4c2|  "Db"e2d2B2|  "Ab/E"A2G2A2|  "Eb7"c2c2B2|  "Ab"A4 |]
+w: 1.~A Deus de-mos gló-ria, com gran-de fer-vor; Seu Fi-lho ben-di-to por nós to-dos deu; A gra-ça con-ce-deao mais vil pe-ca-dor, A-brin-do-lhea por-ta deen-tra-da no céu. E-xul-tai! E-xul-tai! Vin-de to-dos lou-var A Je-sus, Sal-va-dor, a Je-sus, Re-den-tor; A Deus de-mos gló-ria, por-quan-to do céu Seu Fi-lho ben-di-to por nós to-dos deu.
+w: 2.~Oh! Gra-ça re-al, foi as-sim que Je-sus, Mor-ren-do, seu san-gue por nós der-ra-mou! He-ran-ça nos céus, com os san-tos em luz, Com-prou-nos Je-sus, pois o pre-ço pa-gou.
+w: 3.~A crer nos con-vi-da tal ras-go dea-mor, Nos me-re-ci-men-tos do Fi-lho de Deus; E quem, pois, con-fi-a no seu Sal-va-dor, Vai vê-Lo sen-ta-do na gló-ria dos céus.
+W:
+W:
+W:1. A Deus demos glória, com grande fervor;
+W:Seu Filho bendito por nós todos deu;
+W:A graça concede ao mais vil pecador,
+W:Abrindo-lhe a porta de entrada no céu.
+W:
+W:(estribilho)
+W:Exultai! Exultai! Vinde todos louvar
+W:A Jesus, Salvador, a Jesus, Redentor;
+W:A Deus demos glória, porquanto do céu
+W:Seu Filho bendito por nós todos deu.
+W:
+W:
+W:
+W:2. Oh! Graça real, foi assim que Jesus,
+W:Morrendo, seu sangue por nós derramou!
+W:Herança nos céus, com os santos em luz,
+W:Comprou-nos Jesus, pois o preço pagou.
+W:
+W:3. A crer nos convida tal rasgo de amor,
+W:Nos merecimentos do Filho de Deus;
+W:E quem, pois, confia no seu Salvador,
+W:Vai vê-Lo sentado na glória dos céus.
+W:
+W:
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:016 - Vinde Adorar
+T:Letra: Henry Maxwell Wright (1849-1931)
+T:Música: William Knapp (1698-1768)
+M:3/4
+L:1/8
+Q:1/4=102
+K:Bb
+V:1
+B2| "Bb"B2A2G2| F4B2| "F"c2B2A2| "Bb"B4c2| d2c2B2| "F"A2B2c2| "Gm"B2A2 "C7"G2| "F"F2z2F2| G2F2GA| "Bb"B2A2A2| "Gm"B2B2 "F"c2|"Bb"d2z2c2| "Eb"e2d2c2| "Bb"B2A2B2| "F"c2B2A2| "Bb"B4 |]
+w: 1.~Oh! Vin-dea-do-rar oex-cel-soe bom Deus, E-ter-no Se-nhor_ da ter-rae dos céus, Que rei-na, su_pre-mo, en-vol-to na luz, E que se re-ve-la em Cris-to Je-sus!  
+w: 2.~Seu gran-de po-der de-veis con-tem-plar No bri-lho do céu,_ na ter-rae no mar; As go-tas de or-va-lho, sim, to_da flor, Pro-cla-mam cons-tan-tes seu gran-de Au-tor.          
+W:
+W: 
+W: 1. Oh! Vinde adorar o excelso e bom Deus,
+W: Eterno Senhor da terra e dos céus,
+W: Que reina, supremo, envolto na luz,
+W: E que se revela em Cristo Jesus!
+W: 
+W:
+W:
+W: 2. Seu grande poder deveis contemplar
+W: No brilho do céu, na terra e no mar;
+W: As gotas de orvalho, sim, toda flor,
+W: Proclamam constantes seu grande Autor.
+W:         
+W: 				         
+W:           
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:017 - O Amor de Deus
+T:Letra: Stuart Edmund McNair (1867-1959)
+T:Música: Philip Paul Bliss (1838-1876)
+M:2/4
+L:1/8
+K:Bb
+V:1
+"Bb"d>d cB | FB B2 | "F7"c>d cF | "Bb"d3 z | "Eb"ee ee | "Bb"ed dd | "C7"cG cd | "F7"c3 z || "Bb"d>d cB | FB BB | "F"c>d cF | "Bb"d3 z | "Eb"e>d cB | AG ce | "Bb/F"d>e "F7"dc | "Bb"B3 z |]
+w: 1.~De-cor-ri-das e-ras são,  Des-de queaos ju-deus Cris-to fez pro-cla-ma-ção Do gran-dea-mor de Deus. Que pro-fun-doa-mor se vi-a Quan-doa-qui an-dou! Ter-na, san-ta sim-pa-ti-a E-le nos mos-trou! 
+w: 2.~Vei-oaos ce-gos vis-ta dar, Luz nas tre-vas ser; Pe-ca-do-res quis sal-var, Per-di-dos re-co-lher.  
+w: 3.~Nun-caos po-bres des-pre-zou, Sem-preos re-ce-beu; Pa-ga sem-pre re-cu-sou; De gra-ça tu-do deu.  
+w: 4.~Tem-pos já pas-sa-dos são, Cris-too mes-mo é; Vi-da, vis-ta, sal-va-ção, Ob-têm-se pe-la fé. 
+W: 
+W: 
+W: 1. Decorridas eras são, 
+W: Desde que aos judeus
+W: Cristo fez proclamação
+W: Do grande amor de Deus.
+W: 
+W:    (Estribilho)
+W:    Que profundo amor se via
+W:    Quando aqui andou!
+W:    Terna, santa simpatia
+W:    Ele nos mostrou!  
+W:         
+W: 2. Veio aos cegos vista dar,
+W: Luz nas trevas ser;
+W: Pecadores quis salvar,
+W: Perdidos recolher.
+W: 
+W: 
+W: 
+W: 3. Nunca os pobres desprezou,
+W: Sempre os recebeu;
+W: Paga sempre recusou;
+W: De graça tudo deu.
+W: 
+W: 4. Tempos já passados são,
+W: Cristo o mesmo é;
+W: Vida, vista, salvação,
+W: Obtêm-se pela fé.
+W: 				         
+W:           
+
+
+
+
+X:1
+T:018 - Amor Sem Igual
+T:Letra: Stuart Edmund McNair (1867-1959)
+T:Música: Anônimo
+M:4/4
+L:1/8
+Q:1/4=100
+K:Emaj
+V:1
+B,2 | "E"E2 EE G2 FE | "B7"B2 BB "E"HB2 B2 | "A"c2 BA "E"G2 FE | "B"HF6 B,2 | "E"E2 EE G2 FE | "B7"D2 EF "E"HE2 G2 | "F#7"F2 FF dc G^A | "B"HB2 z4 || B2| "E"B8- | "B"B6 B2 | "E"B8- | B6 z G | B2 GB e3 B | cB AG "B"HF2 (FG) | "B7"A2 GA c2 B>D | "E"HE4 z |]
+w: 1.~Oh! Não tens ou-vi-do doa-mor sem i-gual, Doa-mor que teu Deus tem por ti?! Doa-mor queo le-vou a seu Fi-lhoen-tre-gar, Pra os sal-vos le-var pa-ra si?! Oh, crê!_ Oh, crê!_  A gra-ça de Deus te cha_ma dos céus. Oh,_ crê nes-sea-mor sem i-gual!
+w: 2.~Não fo-ram os gran-des que Cris-to cha-mou, Nem jus-tos veio E-le sal-var; Mas po-bres e fra-cos, cul-pa-dos e maus Man-dou pe-los ser-vos cha-mar.  
+w: 3.~O ho-mem, po-rém, não po-dia che-gar À san-ta pre-sen-ça de Deus; Por-que seus pe-ca-dos, qual gran-de mon-tão, Ven-da-vam-lhea en-tra-da nos céus.  
+w: 4.~Mas pe-lo seu san-gue Je-sus ex-piou A cul-pa dos cren-tes na cruz; Ti-ran-doo pe-ca-do, ca-mi-nho mos-trou, O qual pa-rao céu nos con-duz.  
+w: 5.~E tu, pe-ca-dor, não de-se-jas, en-tão, O a-mor do teu Deus co-nhe-cer? Por fé no Se-nhor, co-mo teu Sal-va-dor, I-rás al-can-çar tal pra-zer.             				                    
+W: 
+W: 
+W: 
+W: 1. Oh! Não tens ouvido do amor sem igual,
+W: Do amor que teu Deus tem por ti?!
+W: Do amor que o levou a seu Filho entregar,
+W: Pra os salvos levar para si?!
+W: 
+W:    (Estribilho)
+W:    Oh, crê! Oh, crê!
+W:    A graça de Deus te chama dos céus.    
+W:    Oh, crê nesse amor sem igual!
+W: 
+W: 2. Não foram os grandes que Cristo chamou,
+W: Nem justos veio Ele salvar;
+W: Mas pobres e fracos, culpados e maus
+W: Mandou pelos servos chamar.
+W: 
+W: 
+W: 
+W: 
+W: 3. O homem, porém, não podia chegar
+W: À santa presença de Deus;
+W: Porque seus pecados, qual grande montão,
+W: Vendavam-lhe a entrada nos céus.
+W: 
+W: 4. Mas pelo seu sangue Jesus expiou
+W: A culpa dos crentes na cruz;
+W: Tirando o pecado, caminho mostrou,
+W: O qual para o céu nos conduz.
+W: 
+W: 5. E tu, pecador, não desejas, então,
+W: O amor do teu Deus conhecer?
+W: Por fé no Senhor, como teu Salvador,
+W: Irás alcançar tal prazer.
+W: 
+W: 
+W: 
+W:         
+W: 				         
+W:           
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:019 - Boa Nova
+T:Letra: William Edwin Entzminger (1859-1930)
+T:Música: Albert Lister Peace (1844-1912)
+M:4/4
+L:1/8
+Q:1/4=100
+K:Ab
+V:1
+E2 | "Ab"E3E EF GA| "Eb"(A4 G2) G2| G3G GA Bc| "Eb7"e4 d2 d2| "Ab"c3c "C7"cB AG| "Fm"(B4 A2) A2| "Bbm"A3A AA GF| "Ab/Eb"E3F G2 A2| C6 "Eb7"B2| "Ab"A6|]
+w: 1.~A-le-gre no-va nos che-gou:_ O gran-de Deus as-sim a-mou_ A to-doo mun-do pe-ca-dor,_ Que deu seu Fi-lho ben-fei-tor Em su-a re-den-ção.  
+w: 2.~A-que-le,e pois, queem Cris-to crer,_ A vi-dae-ter-na pas-saa ter;_ Ja-mais a mor-te vai pro-var;_ No céu, po-rém, i-rá go-zar A ple-na sal-va-ção.  
+w: 3.~Mis-ter é Cris-to co-nhe-cer,_ E de-leem tu-do de-pen-der,_ Guar-dar a su-a san-ta lei,_ E co-ro-á-lo nos-so Rei De to-doo co-ra-ção.  
+w: 4.~Ó mun-do to-do,a Cris-to vem,_ Ao que con-ce-de to-doo bem,_ Que po-de-rá tor-nar fe-liz_ A ca-da po-voe seu pa-ís, Com su-a pro-te-ção!        
+W:
+W: 
+W: 1. Alegre nova nos chegou:
+W: O grande Deus assim amou
+W: A todo o mundo pecador,
+W: Que deu seu Filho benfeitor
+W: Em sua redenção.
+W: 
+W: 2. Aquele, pois, que em Cristo crer,
+W: A vida eterna passa a ter;
+W: Jamais a morte vai provar;
+W: No céu, porém, irá gozar
+W: A plena salvação.
+W: 
+W:
+W:
+W: 3. Mister é Cristo conhecer,
+W: E dele em tudo depender,
+W: Guardar a sua santa lei,
+W: E coroá-lo nosso Rei
+W: De todo o coração.
+W: 
+W: 4. Ó mundo todo, a Cristo vem,
+W: Ao que concede todo o bem,
+W: Que poderá tornar feliz
+W: A cada povo e seu país,
+W: Com sua proteção!
+W: 
+W:         
+W:
+
+
+
+
+X:1
+T:01.  b  
+M:none
+L:1/2
+Q:1/2=30
+K:C
+b-b-b-b||
+
+
+
+
+X: 1
+T:01. C Major
+N:0 sharps/flats
+M:4/4
+L:1/4
+K:C
+C D E F | G A B c | c d e f | g a b c' || C E G c | c e g c' |]
+
+
+
+
+X:1
+T:020 - Amor Perene
+T:Letra: Guilherme Luiz dos Santos Ferreira (1850-1934)
+T:Música: Melodia Francesa (do Cantiques Du Messager)
+M:4/4
+L:1/4
+K:C
+V:1
+G | "C"cE"F"FA | "C"G3E |"Dm"FD"G7"GF | "C"E2CG | c"C7"E"F"FA | "C"G3G | "D7"^FGBA | "G"G3G | GABc | d3 c | Bcfe | e2 d G | GABc | d3 c | Bcfe | e2 d G | "C"c z2 e | "F"A z2 f | "Dm"ed"C/G"c"G"B | "C"c3 |]
+w: 1.~A-ma-vas-me, Se-nhor, não ten-doa luz a-in-da Sur-gin-do lá nos céus, ao man-do Cri-a-dor; Nem mes-moo sol, naau-ro-raes-plen-do-ro-sae lin-da, À ter-ra da-va for-ça fe-cun-dan-te,in-fin-da. Meu Deus, quea-mor! Meu Deus, quean-ti-goa-mor!  
+w: 2.~A-ma-vas-me, Se-nhor, no tem-poem quei-mo-la-do Foi nu-ma cruz san-gren-tao mei-go Sal-va-dor, Le-van-do so-bre Si, sim, to-doo meu pe-ca-do, O San-to de Is-rael, o teu Cor-dei-roa-ma-do. Meu Deus, quea-mor! Meu Deus, quei-men-soa-mor!  
+w: 3.~A-ma-vas-me, Se-nhor! No fun-do de meu pei-to Bri-lhou a do-ce luz do meu Con-so-la-dor, E com pro-mes-sas mil de teu a-mor per-fei-to, Nas-ceuem mim a fé em que ho-je me de-lei-to. Meu Deus, quea-mor! Meu Deus, és to-doa-mor!  
+w: 4.~A mim sem-pre hásdea-mar! Pois que ja-mais oin-fer-no Eo mun-do po-de-rão ao teu que-rer seo-por, Ao teu de-cre-to,ó Rei, ao teu de-cre-toe-ter-no, Ao teu a-mor, ó Pai, ao teu a-mor su-per-no! Meu Deus, quea-mor! És sem-pre, sem-prea-mor!          	
+W: 
+W: 
+W: 1. Amavas-me, Senhor, 
+W: não tendo a luz ainda
+W: Surgindo lá nos céus, ao mando Criador;
+W: Nem mesmo o sol, 
+W: na aurora esplendorosa e linda,
+W: À terra dava força fecundante, infinda.
+W: Meu Deus, que amor!
+W: Meu Deus, que antigo amor!
+W: 
+W: 2. Amavas-me, Senhor, 
+W: no tempo em que imolado
+W: Foi numa cruz sangrenta o meigo Salvador,
+W: Levando sobre Si, sim, todo o meu pecado,
+W: O Santo de Israel, o teu Cordeiro amado.
+W: Meu Deus, que amor!
+W: Meu Deus, que imenso amor!
+W: 
+W: 
+W: 
+W: 3. Amavas-me, Senhor! 
+W: No fundo de meu peito
+W: Brilhou a doce luz do meu Consolador,
+W: E com promessas mil de teu amor perfeito,
+W: Nasceu em mim a fé 
+W: em que hoje me deleito.
+W: Meu Deus, que amor!
+W: Meu Deus, és todo amor!
+W: 
+W: 4. A mim sempre hás de amar! 
+W: Pois que jamais o inferno
+W: E o mundo poderão ao teu querer se opor,
+W: Ao teu decreto, ó Rei, 
+W: ao teu decreto eterno,
+W: Ao teu amor, ó Pai, ao teu amor superno!
+W: Meu Deus, que amor!
+W: És sempre, sempre amor!
+W:         
+W:
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:021 - Louvor Ao Pai e Ao Filho
+T:Letra: Salomão Luiz Ginsburg (1867-1927)
+T:Música: John Hatton (? - 1791)
+M:2/4
+L:1/16
+Q:1/4=145
+K:Emaj
+V:1
+"E"E4G2A2|B4("A"c2d2)|"E"e4("F#7"d2c2)| "B"B8| "E"B4B2B2|"A"c4"E"B4|"B7"A4"E"G4| "B"F8| "E"G4G2F2|(E2G2) (B2e2)|("A"c2B2)(A2G2)| "B"F8| "E"B4 "A"c2d2|"E"e6 "A"A2|"E/B"G4"B7"F4| "E"E8|]
+w: 1.~Do mun-do Deus se_ con-do_eu De tal ma-nei-ra que lhe deu Por Sal-va-dor_ o_ Fi_lho_ seu. Lou-vor ao Pai eao Fi-lho dai!  
+w: 2.~Je-sus so-freu, sim,_ co-mo_ réu, A fim de nos le-var ao céu, Foi quem ras-gou_ da_ mor_teo_ véu. Lou-vor ao Pai eao Fi-lho dai!  
+w: 3.~E Cris-to, por mor_rer na_ cruz, Ou-tor-ga vi-da, go-zoe luz; Sim, tu-do te_mos_ em_ Je_sus. Lou-vor ao Pai eao Fi-lho dai!  
+w: 4.~Mor-reu Je-sus e_ nos re_miu, Foi se-pul-ta-doe res-sur-giu, E pa-ra Deus_ de_pois_ su_biu. Lou-vor ao Pai eao Fi-lho dai!          
+W:
+W:  
+W: 1. Do mundo Deus se condoeu
+W: De tal maneira que lhe deu
+W: Por Salvador o Filho seu.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W: 2. Jesus sofreu, sim, como réu,
+W: A fim de nos levar ao céu,
+W: Foi quem rasgou da morte o véu.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W:
+W:  
+W: 3. E Cristo, por morrer na cruz,
+W: Outorga vida, gozo e luz;
+W: Sim, tudo temos em Jesus.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W: 4. Morreu Jesus e nos remiu,
+W: Foi sepultado e ressurgiu,
+W: E para Deus depois subiu.
+W: Louvor ao Pai e ao Filho dai!
+W: 
+W:         
+W: 
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:022 - Amor Sublime
+T:Letra: Ida Scott Taylor
+T:Trad.: Salomão Luiz Ginsburg (1867-1927)
+T:Música: Edmund Simon Lorenz (1854-1872)
+M:3/4
+L:1/8
+Q:1/4=90
+K:Ab
+V:1
+EAB | "Ab"c3e "Db"df | "Ab"e3e fc | "Eb7"e>d d3e | "Ab"c3 EAB | c3e "Db"df | "Ab"e3e fc | "Eb7"ed "Ab/Eb"c2"Eb7"B2 | "Ab"HA3c e>c || [M:4/4] "Ab"e4- eA c>A | c6 c2 | "Fm"c>c cc "Bb7"^d2d2 | "Eb"e4 z E AB | "Ab"c4- ce "Db"df | "Ab"e6"Ab7"e2 | "Db"ef dB "Ab/Eb"A2"Eb7"G2 | "Ab"A4-A |]
+w: 1.~Qual a-ve que, bus-can-doos céus, O mun-do dei-xae seus tro-féus, Mi-nhaal-ma vem a Ti, Se-nhor, Pra co-nhe-cer teu ter-noa-mor. Di-vi-noa-mor,_ su-bli-mea-mor, Dos gran-des te-mas o mai-or!    Mi-nhaal-ma quer_ fru-ir, go-zar De Cris-too tão su-bli-mea-mor._ 
+w: 2.~A-mor su-bli-me, a-mor real, A-mor e-ter-no sem i-gual, So-breu-ma cruz por mim mor-rer E me sal-var por seu po-der!  
+w: 3.~Teu No-me,ó Deus, pu-bli-ca-rei, A tu-a gra-ça,a tu-a lei, O teu po-der eo teu a-mor! Mi-nhaal-maa-do-ra-te, Se-nhor!     
+W: 
+W: 
+W: 1. Qual ave que, buscando os céus,
+W: O mundo deixa e seus troféus,
+W: Minha alma vem a Ti, Senhor,
+W: Pra conhecer teu terno amor.
+W: 
+W:    (Estribilho)
+W:    Divino amor, sublime amor,
+W:    Dos grandes temas o maior!
+W:    Minha alma quer fruir, gozar        
+W:    De Cristo o tão sublime amor.
+W: 
+W: 
+W: 
+W: 2. Amor sublime, amor real,
+W: Amor eterno sem igual,
+W: Sobre uma cruz por mim morrer
+W: E me salvar por seu poder!
+W: 
+W: 3. Teu Nome, ó Deus, publicarei,
+W: A tua graça, a tua lei,
+W: O teu poder e o teu amor!
+W: Minha alma adora-te, Senhor!
+W:         
+W: 				         
+W:           
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:023 - Deus, Fonte da Vida
+T:Letra: Henry Maxwell Wright (1849-1931)
+T:Música: James Douglas Macey (1860 - ?)
+M:4/4
+L:1/4
+K:D
+V:1
+A | "D"d>c d A | "G"B d "D"A F | "Bm"B>"(A7)"A "D"A F | DF "A"EA | "D"F>G Ad | "C#7"c>B "F#m"A "(D#dim)"A | "Em"G2 "A7"E2 | "D"D3 |]
+w: 1.~Ó Deus do céu, da ter-rae mar, Hu-mil-des vi-mos-tea-do-rar; O teu a-mor, sim, ce-le-brar,           Que tu-do dás.  
+w: 2.~A luz be-nig-na, luz so-lar, Ea bri-sa bran-dae sa-lu-tar, Que vem a tu-do re-no-var,            Sim, tu-do dás.  
+w: 3.~A ver-de rel-va,a lin-da flor, De ri-cos fru-tos o pe-nhor, Pro-cla-mam teu cons-tan-tea-mor.            Sim, tu-do dás.  
+w: 4.~Tu, por um mun-do pe-ca-dor Teu Fi-lho des-te,o Sal-va-dor; Com e-le tu-do dás, Se-nhor.             Sim, tu-do dás.  
+w: 5.~Dás vi-daaos mor-tos e per-dão, Dás aos per-di-dos sal-va-ção, De paz en-chen-doo co-ra-ção.              Sim, tu-do dás.  
+w: 6.~Pu-re-za dás e dás po-der, A gra-ça que nos é mis-ter, Por ti vi-ver, por ti mor-rer.              Sim, tu-do dás,  
+w: 7.~En-si-na-nos, Se-nhor, aa-mar; En-si-na-nos, Se-nhor, a dar, Ea Ti a vi-da con-sa-grar,               Pois tu-do dás.
+W:				                    
+W: 
+W: 1. Ó Deus do céu, da terra e mar,
+W: Humildes vimos-te adorar;
+W: O teu amor, sim, celebrar,
+W:           Que tudo dás.
+W: 
+W: 2. A luz benigna, luz solar,
+W: E a brisa branda e salutar,
+W: Que vem a tudo renovar,
+W:            Sim, tudo dás.
+W: 
+W: 3. A verde relva, a linda flor,
+W: De ricos frutos o penhor,
+W: Proclamam teu constante amor.
+W:            Sim, tudo dás.
+W: 
+W: 4. Tu, por um mundo pecador
+W: Teu Filho deste, o Salvador;
+W: Com ele tudo dás, Senhor.
+W:             Sim, tudo dás.
+W: 
+W: 
+W: 
+W: 5. Dás vida aos mortos e perdão,
+W: Dás aos perdidos salvação,
+W: De paz enchendo o coração.
+W:              Sim, tudo dás.
+W: 
+W: 6. Pureza dás e dás poder,
+W: A graça que nos é mister,
+W: Por ti viver, por ti morrer.
+W:              Sim, tudo dás,
+W: 
+W: 7. Ensina-nos, Senhor, a amar;
+W: Ensina-nos, Senhor, a dar,
+W: E a Ti a vida consagrar,
+W:               Pois tudo dás.
+W:         
+W: 
+
+
+
+
+X:1
+T:024 - Deus É Amor
+T:Letra: John Bowring (1792-1872)
+T:Trad.: Salomão Luiz Ginsburg (1867-1927)
+T:Música: George Coles Stebbins (1846-1945)
+M:3/4
+L:1/8
+Q:1/4=90
+K:Bb
+V:1
+("Bb"F3B) cd | (B3D) FB | ("F7"A3c) GA | "Bb"G2 F4 | ("Bb"B3d) BG | (F3D) FB | ("F"A3B) "C7"Gc | ("F"c2F2-"F7"F2) | ("Bb"F3B) cd | (B3D) FB | ("F7"A3e) GA | "Bb"G2 F4 | (d3f) ed | ("Eb"c3G) AB | ("Bb/F"F3d) "F7"cF | "Bb"B6 || ("Bb"B3d) cB | ("Eb"B2 e2) d2 | ("C7"c3G) cd | ("F"c2F2-"F7"F2) | ("Bb"f3d) cB | ("Eb"G3A) Bc | ("Bb/F"F3d) "F7"cF | "Bb"B6 |]
+w: 1.~Deus_ é a-mor._ A_ su_a_ gra-ça Con_quis_tou_ meu_ co_ra_ção;__ Con_ce_deu_me_ vi_da e-ter-na,  Paz_ e_ luz_ e_ sal_va_ção.  Deus_ é a-mor,_ sim, Deus_ é a-mor.__    Deus_ é a-mor,_ sim,_ Deus_ é a-mor.
+w: 2.~Deus_ é a-mor._ Eis_ tu_do a-ca-ba Nes_te_ mun_do_ dea_mar_gor;__ Só_ per_du_ra i-nal_te_rá-vel Seu_in_fin_do ee-ter_no a-mor.  
+w: 3.~Deus_ é a-mor._ Pois_ cui_da_ sem-pre Do_ seu_ fi_lho_ bom,_ fi_el.__ E_le ins-pi_ra,_ gui_a e li-vra, Co_mo ao po_vo_ deIs__ra-el.  
+w: 4.~Deus_ é a-mor._ Vem,_ au_xi_li-a Aes_te_ po_bre_ pe_ca_dor;__ Per_do_a_do,a_go_ra al-me-ja Pro_cla_mar_ o_ teu__a-mor!     
+W: 
+W: 
+W: 1. Deus é amor. A sua graça
+W: Conquistou meu coração;
+W: Concedeu-me vida eterna, 
+W: Paz e luz e salvação.
+W: 
+W: 2. Deus é amor. Eis tudo acaba
+W: Neste mundo de amargor;
+W: Só perdura inalterável
+W: Seu infindo e eterno amor.
+W: 
+W: 3. Deus é amor. Pois cuida sempre
+W: Do seu filho bom, fiel.
+W: Ele inspira, guia e livra,
+W: Como ao povo de Israel.
+W: 
+W: 
+W: 
+W: 4. Deus é amor. Vem, auxilia
+W: A este pobre pecador;
+W: Perdoado, agora almeja
+W: Proclamar o teu amor!
+W: 
+W:    (Estribilho)
+W:    Deus é amor, sim, Deus é amor.
+W:    Deus é amor, sim, Deus é amor.
+W:      
+W: 
+
+
+
+
+%wordsfont Times-Roman 13.0
+%vocalfont Times-Roman 13.0
+X:1
+T:025 - Amor
+T:Letra: Robert Boswell (1746-1804)
+T:Trad.: Salomão Luiz Ginsburg (1867-1927)
+T:Música: James McGranahan (1840-1907)
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:Db
+V:1
+DF | "Db"A2 A2 A2 d2 | A3G F2 DE | F2 AG "Db/Ab"F2 "Ab7"E2 | "Db"D6 FA | "Gb"B2 B2 B2 GB | "Db"d2 d2 d2 Ad | "Ab/Eb"ce ed c2 "Eb7"B2 | "Ab"A6 || [M: 12/8] [L: 1/8] "Ab7"A3 | "Db"d6- d2d dcB | A6- A2A "Gb"BAG | "Db"F2F "Ab7"E2F G2A B2c | "Db"B3 A6 A3 | f6- f2e "Gb"dcB | "Db"A6- A3 def | "Ebm"e3 e3 "Db/Ab"d3 "Ab7"c3 | "Db"d6- d3 |]
+w: 1.~Que_ gran-dea-mor, ex-cel-soa-mor, Que_ Cris-to_ nos mos-trou! Pra_ se tor-nar o_ Sal-va-dor A_ vi_da_ não ne-gou.     Lou-ve_mos tão gran-dea-mor,_    Sim, tão gran-dea-mor    Que Cris-toas-sim nos ma-ni-fes-ta;       Que ma_ra-vi-lha dea-mor,_    Que_ nos trou-xe pa-ra Deus!  
+w: 2.~Nin_guém, pois, de-ve du-vi-dar Do_ seu tão_ gran-dea-mor, Mas_ to-dos de-vem_ a-cei-tar O a-mor_ do_ Sal-va-dor.  
+w: 3.~O_ quees-sea-mor de nós fa-rá É_nos ve_da-do ver; Mas_ Cris-toem bre-ve_ vol-ta-rá, E_ nos_ fa_rá sa-ber.
+W: 
+W: 
+W: 1. Que grande amor, excelso amor,
+W: Que Cristo nos mostrou!
+W: Pra se tornar o Salvador
+W: A vida não negou.
+W: 
+W:    (Estribilho)
+W:    Louvemos tão grande amor,
+W:    Sim, tão grande amor
+W:    Que Cristo assim nos manifesta;   
+W:    Que maravilha de amor,
+W:    Que nos trouxe para Deus!
+W: 
+W: 
+W: 
+W: 2. Ninguém, pois, deve duvidar
+W: Do seu tão grande amor,
+W: Mas todos devem aceitar
+W: O amor do Salvador.
+W: 
+W: 3. O que esse amor de nós fará
+W: É-nos vedado ver;
+W: Mas Cristo em breve voltará,
+W: E nos fará saber.
+W:         
+W: 				         
+W: 
+
+
+
+
+X:1
+T:026 - Rei Excelso
+T:Letra: Isaac Watts (1674-1748)
+T:Trad.: Justus Henry Nelson (1849-1931)
+T:Música: George Frederick Haendel (1685-1759)
+M:4/4
+L:1/16
+Q:1/4=100
+K:Ebmaj
+V:1
+"Eb"e4d3cB6A2| "Bb7"G4F4 "Eb"E6B2|"Ab"c6c2 "Bb7"d6d2|"Eb"e12e4|e2d2 c2B2 B3A G2e2|e2d2 c2B2 B3A G2G2|G2G2 G2GA B6AG|"Bb7"F2F2 F2FG A6GF|"Eb"E2e4c2 B3A G2A2|"Bb7"G4F4 "Eb"E8|]
+w: 1.~Can-tai, queo Sal-va-dor che-gou! A-co-lhaa ter-rao Rei! Le-ais_ na_ções,__ a e_le_ só__ Con-ten-tes vos ren_dei; Con_ten-tes vos ren_dei; Oh,_ sim,_ con-ten__tes vos ren-dei!
+w: 2.~Ao mun-doo go-zo pro-cla-mai Do rei-no de Je-sus! Ó ter_ra e mar__ e céus,_ can_tai__ A res-plen-den-te_ luz! A_ res-plen-den-te_ luz! A_ gran_ dee res__plen-den-te luz!
+w: 3.~Pe-ca-dos, do-res, mor-te já Ven-ci-dos de-le são; A paz_ Je_sus__ con-ce_de_rá__ Em ré-gia pro-fu_são; Em_ ré-gia pro-fu_são; Oh,_ sim,_ em ré__ gia pro-fu-são!
+w: 4.~Ver-da-deea-mor são su-a lei; Os po-vos a-cha-rão Que é_ jus-toe bom__ oex-cel_so_ Rei,__ E lheo-be-de-ce_rão, E_ lheo-be-de-ce_rão, Sim,_ to_dos lheo__be-de-ce-rão.
+W:
+W: 1. Cantai, que o Salvador chegou!
+W: Acolha a terra o Rei!
+W: Leais nações, a ele só
+W: Contentes vos rendei;     (bis)
+W: Oh, sim, contentes vos rendei!
+W: 
+W: 2. Ao mundo o gozo proclamai
+W: Do reino de Jesus!
+W: Ó terra e mar e céus, cantai
+W: A resplendente luz!         (bis)
+W: A grande e resplendente luz!
+W: 
+W: 
+W: 3. Pecados, dores, morte já
+W: Vencidos dele são;
+W: A paz Jesus concederá
+W: Em régia profusão;           (bis)
+W: Oh, sim, em régia profusão!
+W: 
+W: 4. Verdade e amor são sua lei;
+W: Os povos acharão
+W: Que é justo e bom o excelso Rei,
+W: E lhe obedecerão,              (bis)
+W: Sim, todos lhe obedecerão.
+
+
+
+
+X:1
+T:028 - Nasceu o Redentor
+T:Letra: Francis Bottome (1823-1894)
+T:Trad.: Benjamim Rufino Duarte (1874-1942)
+T:Música: William James Kirkpatrick (1838-1921)
+M:3/4
+L:1/4
+K:C
+V:1
+G | "C"G>A G/E/ | (GG) c | "F"c>d c/A/ | (cc) A| "C"G>A G/E/ | G2E | "Am"E>E "D7"D/C/ | "G"D-DG | "C"G>A G/E/ | (GG) c | "F"c>d c/A/ | (cc) A | "C/G"G2c | "G7"e2d | "C"Hc2 c/d/ | e>d c/d/ | e2c | "F"c>d c/A/ | c-cA | "C"G>A G/E/ | G2E | "Am"E>E "D7"D/C/ | "G"D2G | "C"G>A G/E/ | (GG) c | "F"c>d c/A/ | (cc) A | "C/G"G2c | "G7"e2d | "C"Hc2 |] 
+w: 1.~A-ler-ta,ó ter-ra,en-to-a o can-to que res-so-a: O mun-do pe-ca-dor tem gran-de sor-tee bo-a. A no-va se vos dá,_ e quão a-le-gre so-a: Nas-ceu o Re-den-tor! Nas_ceu o Re-den-tor! Nas-ceu o Re-den-tor!_ Oe-ter-no Pai do céu seu Fi-lhoao mun-do deu. A-ler-ta,ó ter-ra,en-to-a a no-vaa-le-gree bo-a: Nas-ceu o Re-den-tor!
+w: 2.~A noi-te já pas-sou,_ aau-ro-ra já rai-ou;_ O ne-groe den-so véu de to-do se ras-gou._ Dos mon-tes a-tra-vés_ o bra-do res-so-ou:_ 
+w: 3.~Nas-ceu o Rei da paz,_ num ber-çohu-mil-de jaz;_ Nas a-sas des-sea-mor con-for-toa to-dos traz._ Di-zei em al-ta voz_ que Cris-to sa-tis-faz:_ 
+w: 4.~Ó go-zo di-vi-nal,_ a-mor ce-les-ti-al,_ Quem po-de Te son-dar ou ter um ou-troi-gual?_ Pos-soeu, da mor-te réu,_ go-zar ven-tu-ra tal?_ 
+w: 5.~Ó po-vos, e-xul-tai!_ Na-ções, oh, ju-bi-lai!_ Eis fin-da to-daa dor, ja-mais se dá um ai;_ A vir-gem deu à luz;_ a Deus glo-ri-fi-cai!_ 
+E:30
+W:  
+W:  
+W: 1. Alerta, ó terra, entoa o canto que ressoa:
+W: O mundo pecador tem pecador sorte e boa.
+W: A nova se vos dá, e quão alegre soa:
+W: Nasceu o Redentor!
+W: 
+W:    (Estribilho)
+W:    Nasceu o Redentor! Nasceu o Redentor!
+W:    O eterno Pai do céu seu Filho ao mundo deu.      
+W:    Alerta, ó terra, entoa a nova alegre e boa:         
+W:    Nasceu o Redentor!
+W:
+W: 2. A noite já passou, a aurora já raiou;
+W: O negro e denso véu de todo se rasgou.
+W: Dos montes através o brado ressoou:
+W:                 Nasceu o Redentor!
+W: 
+W:
+W:
+W: 3. Nasceu o Rei da paz, num berço humilde jaz;
+W: Nas asas desse amor conforto a todos traz.
+W: Dizei em alta voz que Cristo satisfaz:
+W:                 Nasceu o Redentor!
+W: 
+W: 4. Ó gozo divinal, amor celestial,
+W: Quem pode Te sondar ou ter um outro igual?
+W: Posso eu, da morte réu, gozar ventura tal?
+W:                 Nasceu o Redentor!
+W: 
+W: 5. Ó povos, exultai! Nações, oh, jubilai!
+W: Eis finda toda a dor, jamais se dá um ai;
+W: A virgem deu à luz; a Deus glorificai!
+W:                 Nasceu o Redentor!
+W: 
+
+
+

@@ -1,0 +1,752 @@
+X:290
+T:Gan Ainm
+R:Reel
+S:Unknown flute player.
+D:Clare FM broadcast. From the Miltown Malbay flute recital
+M:4/4
+Z:Bernie Stocks
+K:D
+dB |: AFAd BcdB | (3ABAdA ef3 | AddA BcdB | AF~F2 EFD2 :: FD(3DED EFGE |
+FD(3DED =C4 | FA~A2 BcdB | cdec dBAG :| FA~A2 agfd | eA~A2 EAg2 |
+fd~d2 agfd | edcB Acde | fd~d2 agfd | eA~A2 EAg2 | fdge afed | cdec d4 ||
+
+
+
+X: 1
+T: Boys Of 25, The
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+|=CAAF G2 AB|=CAAG Ad d2|=CAAF G2 eg|fded Ad d2|=CAAF G2 AB|=CAAG Ad d2|=CAAF G2 ag|fded Ad d2|f2 fg a2 ag|fefg afde|f2 fg a2 ag|fded Ad d2|f2 fg a2 ag|fefg af d2|fgaf g2 ag|fded Ad d2|
+
+
+
+X: 1
+T: la Grandeuse
+O: Randy Miller
+R: reel
+Z: John Chambers <jc:trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: D
+|: A,2 \
+| "D"D2FE DEFA | dcde fdAF | "G"G2BG "D"F2AF |1 "Em"EFGE "A7"DCB,A, :|2 "A7"ECA,C "D"D2 :|
+|: CB, \
+| "A7"A,B,CD EFGF | EDEF GABc | "D"dcdB ABde | fagf "A7"e2A2 |
+| "D"d2fd "A7"c2ec | "G"BcdB "D"AFDF | "G"G2BG "D"F2AF | "A7"ECA,C "D"D2 :|
+
+
+
+X: 224
+T: Brenda Stubbert's
+C: R-121
+C: Jerry Holland
+M: C|
+Z: Transcribed to abc by Mary Lou Knack
+R: Reel
+P: A Dorian
+K: ADor
+B|"Am"A/A/A BA GAAB| A/A/A BA edde| "G"G/G/G BA BGGB| "F"[c2G2]BA "G"BGGB|
+  "Am"A/A/A BA GAAB| A/A/A BA edda| "G"gedB GABd| e2dB "Am"eAA:|
+\
+B| "Am"A/A/A a2 A/A/A g2| Aage ageg| "G"G/G/G BA BGGB| "F"[c2G2]BA "G"BGGB|
+   "Am"A/A/A a2 A/A/A g2| Aage agea| "G"gedB GABd| e2dB "Am"eAAB|
+   "Am"A/A/A a2 A/A/A g2| Aage ageg| "G"G/G/G BA BGGB| "F"[c2G2]BA "G"BGGB|
+   "Am"A/A/A BA GAAB| A/A/A BA edda| "G"gedB GABd| e2dB "Am"eAA|]
+%%text 2/10/00
+% ---------- page 116 ----------
+
+
+
+X: 1
+T: Steampacket, The
+M: 4/4
+L: 1/8
+R: reel
+K: Gmaj
+|G2 BG AGFG|AG (3GGG Addc|ABGB AFDE|FEFG ABcA|
+(3GGG BG AGFG|AG (3GGG Addc|ABGB AFDE|FEFG ABcA||
+|d~g3 a~g3|d~g3 fdcA|d~g3 a~g3|d^cde fd=cA|
+|d~g3 ag (3efg|abag ~f3g|af (3gfe fde^c|d2 eg fdcA||
+
+
+
+X:14805
+T:Sally in the Garden
+S:E.P.Band (Boiled in Lead )
+R:Reel
+O:USA
+M:4/4
+K:Am
+A2A>G E>G A>B|c4 B4|\
+A>B A>G E>D E>^F|G2G>A G>F E2|
+A2A>G E>G A>B|\
+M:2/4
+c4 d4|\
+M:4/4
+(e2 e)>f e>d B>c|d2 d>e d>c B2| A4 A2 ::\
+A>B|\
+c>B A>B c>B A>B|c2 d2 e2 A>B|\
+c>B A>B c2 d2 |e6 A>B|   c>B A>B c>B A>B|\
+M:2/4
+c4 d4|\
+M:4/4
+(e2 e)>f e>d B>c|d2 d>e d>c B2 |A4 A2 :|
+
+
+
+X: 1
+T: Master McDermott (Barrel Rafferty)
+S:IrTrad; Philippe Varlet 6/98
+M:4/4
+L:1/8
+Q:240
+C:Sean Maguire & Liam Donnelly
+D:as played by Bobby Casey and John Bowe on "Bringing It All Back Home"
+R:reel
+K:D
+A,B, | DF~F2 DEFA | df{a}fe dB~B2  | AF~F2 dF~F2  | BFAF EGFE |
+ DF~F2 DEFA | df{a}fe dB~B2  | AF~F2 dFAF | EGFE D2 :||
+(3ABc | df{a}fe dfaf | ~g2  bg af{a}fe | dB{d}BA FAde | fdgf e2 de |
+fa{b}af ~g2  bg | af{a}fe dB~B2  | AF~F2  dFAF | EGFE  D2 :||
+
+
+
+X: 99
+T:Crosses of Annagh, The
+T:Unknown Reel 68B
+M:C|
+L:1/8
+R:Reel
+Z:Kevin Gow
+K:Am
+E~A3 GABd| e~a3 gedB|G2GB ABGE|DGBG ABG^F|!
+E~A3 GABd| e~a3 gedB|G2B/2c/2d gedB|GABG A3z:||!
+||:e~a3 bage|a2ba gedB|d2de g2gg|agab ged2|!
+e~a3 bage|a2ba gedB|g2B/2c/2d gedB|GABG A3z:||
+
+
+
+X: 1
+T:Petronella
+M:2/4
+L:1/16
+Q:120
+C:Traditional
+S:From Stanton Taylor
+R:Reel
+K:D
+|:"D"F2 AF "A7"E2 AF|"D"D2D2 D2 FA|"G"d2 cd "E7"e2d2|"A7"cdec A2 dA |!
+"D"F2 AF "A7"E2 AF|"D"D2D2 D2 FA|"G"d2 cd "A7"e2c2|"D"d4 d2 dA:|!
+|:"D"F2 fd A2 af|"Em"g2 gf edcB|"A7"A2 ec A2 ge|"D"f2 fd "A7"AdAF |!
+"D"D2 fd A2 af|"Em"g2 gf edcB|"A7"A2 ec Agec|"D"d4 d2 dA:|
+% Output from ABC2Win  Version 2.1  on 2/11/98
+
+
+
+X:3160
+T:Coire an Lochan
+R:reel
+C:Scottish,traditional
+S:Silver Apple News,1992
+D:Fiddler's Friend, Barbara Magone
+Z:This abc transcription is for personal use only, 
+Z:provided this notice remains attached.
+Z:Paul Stewart Cranford 
+L:1/8
+Q:300
+M:C
+K:Ador
+z|A2 ed e2A2|edea gedc|BABd G2 GA|BcdB edBG|!
+A<Aed e2 A2|edeg a2 ag|efge dcBd|e2 dB AAA:|!
+|:B|c2 gf g2 c2|agea gedc|B2 AB GABc|dBGB gdBG|!
+c<cgf g2 c2|cdeg a2 ag|efge dcBd|e2 dB AAA:|!
+
+
+
+X:14219
+T:Return from Camden Town
+R:reel
+Z:id:hn-reel-327
+M:C|
+K:Dmix
+d2AG FADF|Ec~c2 Ecce|dBcA BGAF|GFEG FDfe|
+d2AG FADF|EGAB c2ce|decd BcAF|GFEG FDDe||
+fd~d2 fdad|fd~d2 ^cdeg|fddA dAdA|^ceag fdde|
+fd~d2 ad~d2|egce gceg|a2ge fded|^ceag fedc||
+
+
+
+X: 844
+T: My sweetheart Jane
+C: anon.
+O: Ireland
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 760
+R: Reel
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+F: http://www.musicaviva.com/abc/tunes/ireland/oneill-1001/oneill-1001-076
+0.abc
+M: C|
+L: 1/8
+K: G
+DGGF Adde|ABcA dBcA|DGGF Adde|fdcA BGAF|DGGF Adde|ABcA dBcA|DGGF Adde|fdc
+A AGG2||
+dggf g2ag|fdde fgaf|dggf gbag|fdcA dBcA|dggf g2ag|fdde fga2|bgaf gdde|fdc
+A AGG2|]
+W:
+W:
+W: From Musica Viva - http://www.musicaviva.com
+W: the Internet center for free sheet music downloads.
+
+
+
+X: 1
+T: Tam Lin
+T: Howling Wind
+T: Glasgow Reel
+C: Davey Arthur Finbar Furey
+M: 4/4
+L: 1/8
+S: Paddy O'Brien Tune Collection
+R: Reel
+N: Paddy O'Brien played this in Dm, but we play it in Em around
+N: here.....The original name is Tam Lin, he renamed it with "The Howling
+N: Wind" because he thought it needed a better name.
+K: Am
+|: AG \
+| "Am"EA~A2 "G"GABG | "F"F2AF cFAF | "G"G2BG dGBG | FGAc BAGF |
+| "Am"EA~A2 "G"GABG | "F"F2AF cFAF | "G"G2BG dGBd | cBAG "Am"EA :|
+|: ce \
+| "Am"aeed cAce | aeed cAce | "G"gd~d2 Bdde | gdde gabg |
+| "Am"aeed cAce | aeed cAGA | "F"FEFG AGAB | "G"cBAG "Am"EA :|
+
+
+
+X:590
+T:McBride's
+R:reel
+D:Moving Hearts
+Z:id:hn-reel-590
+M:C|
+K:Edor
+Bgfg edBd|~e3d Bcdc|Bgfg edBd|~e3d Bcdc|
+Bgfg edBd|~e3d efg2|egfd BGdB|A2GA BGdA:|
+|:Beed edBc|dcde ~f3a|ge~e2 edBG|A2GA BGed|
+Beed edBc|dcde fa~a2|gBeg fdBG|1 A2GA BGed:|2 A2GA BG~G2||
+|:b2gb abge|fedB dega|b2gb abge|Bdeg fedB|
+b2gb abge|fedB dega|gBeg fdBG|1 A2GA BG~G2:|2 A2GA BAdA||
+
+
+
+X:1322
+T:Jenny Pippin
+R:Reel
+N:Collected by Ennis
+B:O'Neill's 1322
+Z:Transcribed by Trish O'Neil
+M:C|
+L:1/8
+K:D
+B|BADA dADA|BADA defd|BADA dADc|1dBAfe2d:|2dbafe2d||
+d|dfaf bgaf|dfaf (3gag fe|dfaf bgaf|dBAfe2dd|
+dfaf bgaf|bgafg2fg|agfe dBAB|dbafe2d|]
+
+
+
+X: 19
+T:Jack Lattin with Variations (#219)
+M:4/4
+L:1/8
+S:O'Farrell's National Irish Music 1797
+R:Reel
+K:D
+FE|:DFFd AFFA|DFFf A>B A/2G/2F/2E/2|DFFd AFFA|BEEF G2 {G}FE:|
+|:DF/2G/2 AF BGAF|DDAF A>B A/2G/2F/2E/2|DF/2G/2 AF BGAF|
+BEEF G2 {A}GF/2E/2:||:DFd>f e{d}c d2|DFdF A>B A/2G/2F/2E/2|
+DFdf ec d>A|BEEF G2 {A}GF/2E/2:||:fddd Addd|fd df/2g/2 agfe|
+fddd Adfd|ecce g2 {a}gf/2e/2:||:fdec dB A/2G/2F/2E/2|
+DFBF A>B A>g|fdec dB d/2c/2B/2A/2|BEEF G2 GF/2E/2:||
+%
+% The renowned Walter Jackson popularly known as "Piper" Jackson=20
+% who flourished about the middle of the 18th Century, was reputed to
+% be the composer of "Jack Lattin", "Jack O'Lattan", or "Jacky Latin",
+% as the tune has been variously called. Under the first name it was
+% printed in Waylet's Collection of Country Dances, 1749. As "Jack
+% Laten" I find an elaborate setting of it in McGibbons Collection of
+% Scots Tunes published in London 1755 consisting of four original
+% parts apparently, and fifteen variations. While preserving the same
+% strain, but more suitable to our purpose, O'Farrell's setting of much
+% later date is here presented.
+% A tune known to me as "Jenny Rock the Cradle" was declared to=20
+% be "Jacky Latin" by a musical acquaintance, and it was under the=20
+% latter name it was printed in O'Neill's Dance Music of Ireland in=20
+% 1907
+% If both tunes were derived from Jackson's original composition, they
+% furnish a striking illustration of how time, taste, and development=20
+% diversify a strain of music in a few generations.
+% [SEE JENNIE ROCK THE CRADLE #220]
+
+
+
+X: 1
+T: the Soldier's Joy
+O: Joshua Campbell's Collection 1778
+R: reel
+B: RSCDS 2-6
+N: Suitable Pipe Tunes "The East Neuk of Fife" "Portee men".
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+FG \
+| "D"AFDF AFDF | "D"A2d2 d2cB | "D"AFDF AFDF | "A7"G2E2 E2FG | "D"AFDF AFDF |
+| "D"A2d2 d2de | "D"fafd "A7"egec | "D"d2f2 d2 :: de | "D"f2fd fagf | "A7"e2ec egfe |
+| "D"f2fd fagf | "A7"edcB A2g2 | "D"f2fd fagf | "A7"e2ec egfe | "D"fafd "A7"egec | "D"d2f2 d2 :|
+
+
+
+X: 9917
+T:Floating Crowbar, The
+M:C|
+R:reel
+D:Arty McGlynn: McGlynn's Fancy
+Z:id:hn-reel-240
+K:Dmix
+AD (3FED AD (3FED|AD (3FED A2GF|EG~G2 {c}AGED|EF{A}GF GABd|
+AD (3FED AD (3FED|AD (3FED G2FG|~A3B cd{a}ed|1 cAGE D2dB:|2 cAGE D2 (3EF
+G||
+|:Ad{e}d^c d2 (3B^cd|ea{b}ag ef{a}ge|~A3B {c}AG (3EFG|A2GF EF{A}GE|
+Ad{e}d^c d2 (3B^cd|ea{b}ag ef{a}ge|af{a}ge d2{a}ed|1 cAGE D2 (3EFG:|2 cA
+GE
+D2dB||
+
+
+
+X: 26
+T:Favourite Gigg. BF13.025
+T:Cumberland Reel,aka. BF13.025
+M:2/4
+L:1/16
+Q:100
+C:Cumberland Reel,aka
+S:J.Lishman()MS,c1825,Lakes,Browne Coll.
+R:Reel
+O:England
+A:Lakes
+N:Better Known as Cumberland Reel. The time signature is given as 3/4,
+N:and the key signature is shown as a
+N:sharp sign in the top space.  The the second bar of the B music there
+N:is a sharp on the top line (F) at the begining of the bar. cont/
+N:Duration of last three notes unclear but c/f last three notes of A
+N:music
+Z:vmp.Cherri Graebe.
+K:G major
+G2ge "!"dBAG|FDAD BDAD|G2ge dBAG|DGFA BGG2:|!
+|:gedc BcdB|Aaa^g aeef|gedc BcdB|dgfa bgg2:|]
+W:Bar 1 (G2ge d2B2A2G2) in ms. CGP. ||
+
+
+
+X:1
+T:FLOWERS OF EDINBURG -- REEL
+B:Ryan's Mammoth Collection of Fiddle Tunes
+R:reel
+Z:Contributed by Ray Davies, ray:davies99.freeserve.co.uk
+M:C|
+L:1/8
+K:G
+u(GE) | .D2((3DEF) .G2(GA) | BGBd cBAG | GFED DEFG | AFBG E2(GE) |
+        .D2((3DEF)  G2(Ac) | BGBd efge | dcBA GFGA | B2G2 G2 :|
+|: ud2 | .g2.g2 gbag | fefg fagf | edef gfed | .B2.e2 efge |
+          dBGB  d2Bd | edef g2fe | dcBA GFGA |  B2G2  G2 :|
+
+
+
+X:1
+T:Allt y Caethiwed [Heights of Caethiwed, the]
+R:reel
+Z: 1997 by John Chambers <jc@trillian.mit.edu>
+M:C|
+L:1/8
+Q:1/2=70
+K:A
+|: ed \
+| cA ~A2 EA ~A2 | cAec ABcA | cBBA GABc | dffe f2ed |
+| cA ~A2 EA ~A2 | cAec Acde | fdec dBcA | GBEG A2 :|
+|: ed \
+| cded cAed | cdec A2fe | defe dBfe | defd B2ed |
+| cded cAed | cdec A2de | fdec dBcA | GBEG A2 :|
+
+
+
+X:355
+T:Andy McGann's
+M:C|
+L:1/8
+S:Brendan Mulvihill
+R:reel
+Z:Devin McCabe
+K:C
+gf|:eccB cGEG|FEDC B,DGF|E2GE FAdc|1B~g3 ag^fg:|2B/2c/2d gf eccB||
+!c2gc ecgc-|~c2ag ^fgdB|c2Gc EcGc|B~G3 BcdB|
+!c2gc ecgc-|~c2ag ^fgdB|c~g3 e~g3|ag^fa ga=fg||
+
+
+
+X:385
+T:The Wexford Reel
+R:Reel
+S:Paddy Canny, Clare (fiddle)
+H:'g2' and 'B2' in bar 1 dramatic slides
+D:Home tape of unknown provenance
+Z:Bernie Stocks
+N:As played
+M:4/4
+K:C
+|: g2dc B2GF | DG~G2 DGBG | g2dc B2GF | DF~F2 (3.D.D.F FG |
+g^fdc BGAG | DFGB g3g | {a}g^f (3.g.g.e =fdec |1 dBGF DGG2 :|2 dBGF DGGA ||
+|: _B2GA Bcdc | _BGGB (3dcB GA | (3._B.B.B GA Bcdc | _BGAF DEFA |
+{c}_BAGA Bcdc | _BFGB g3g | {a}g^f (3.g.g.e =fdec |1 d_BGF DGGA :|2 d_BGF DGG2 ||
+
+
+
+X: 214
+T: Dancing Bear, The
+C: R-116
+C: Bob McQuillen  2/22/78
+M: C|
+Z: Transcribed to abc by Mary Lou Knack
+R: reel
+K: Em
+"Em"EFGF EFGF| EFGA G2E2| "A"EFGF EFGF| EFGA G2E2|
+"C"EFGF EFGF| EFGA B2e2| "B7"B2Bc BAGF| "Em"G2E2 E4 :|
+|:\
+"Em"e2ef gfef| gfe2 e4| "A"e2ef gfef| gfe2 e4|
+"C"e2ef gfef| gfe2 e2dc| "B7"BABc BcBA| "Em"GFE2 E4 :|
+%%begintext ragged
+%% I have a wonderful friend who is a Bear named Oso and this tune is for him
+%% because he likes it. Barry Nielson likes it too, and so its for him, too, with
+%% love from Mac.
+%%
+%% 9/1/98
+%%endtext
+
+
+
+X:1
+T:Rainbow's End
+M:C|
+L:1/8
+R:Reel
+K:G
+D2DE G2GE | DB,DE GABG | dBBA GABG | A2BG AGEG |
+D2DE G2GE | DB,DE GABG | ABBA GFGA |1 BAGE EDB,E :|2 BAGE EDD2 ||
+|: Bdde d2GA | BGAG EFG2 | EAAG EFGA | B2AG EFGA |
+Bdde d2GA | BGAG EFGA | B2BA GFGA |1 BAGE EDD2 :|2 BAGE EDB,E ||
+
+
+
+X: 1
+T: Glencoe March, The
+M: 4/4
+L: 1/8
+R: reel
+K: Dmaj
+F>G | A2 d2     F2 d2  | A>FA<d f2 fg/a/ | g3   e c>AB>c | d>cd>B A2F>G |
+A2 d2     F2 d2  | A>FA<d f2 fg/a/ | g3   e c>AB>c | d2 d>c d2 :|f>g |
+a2 a>g    f>df<a | g2 g>e c>Ac<e   | d>cd<e f>ef<a | g>fg<b a2f>g |
+a2 a>g    f>df<a | g2 g>e c>Ac<e   | d>cd>f e<ac<e | d2 d>c d2f>g |
+a2 a>g    f>df<a | g2 g>e c>Ac<e   | d>cd<e f>ef<a | g>fg<b a2f>g |
+a/g/f g>e f>de<c | d>BA>F D>FA<d   | B>GB<d c>Ac<e | d2 d>c d2 |]
+
+
+
+X:9548
+T:Leslie's Reel
+R:reel
+Z:id:hn-reel-503
+M:C|
+K:A
+ec~c2 ecfc|ec~c2 Bcdf|ec~c2 ecea|1 fdBc defa:|2 fdBc defg||
+|:a2ea gbeg|a2ga fB~B2|1 a2ea gbec|dcBc defg:|2 agfe fedc|Bcde fgaf||
+
+
+
+X: 2
+P: The Star of Munster
+C:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 495
+R:Reel
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:C
+L:1/8
+K:Ador
+ed \
+|: "Am"c2Ac "G"B2GB | "Am"AGEF "G"GED2 | "Am"EAAB cBcd | eaaf "G"gfed || "Am"c2Ac "G"BAGB |
+| "Am"AGEF "G"GED2 | "Am"EAAB cded | cA"G"BG "Am"A2z2 ::  "Am"eaab ageg | agbg agef | "G"g2ga gfef |
+| g2af gfed || "Am"eaab ageg | agbg agef | "G"g2ge "Am"a2ae | "G"b2ba gfed :|
+
+
+
+X: 1
+T: Golden Wedding Reel
+T: Richibucto Reel
+O: Jerry Robichaud
+R: reel
+Z: John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: G
+|: Bc \
+| "G"d2BG DGBd | gedB GABd | "F"~c2A=F cFAB | cdcA =F2Bc | "G"d2BG DGBd |
+| gedB G2ef | "C"gfge "G"dBge | "D7"dBAF "G"G2 :: ef | "C" gfga gecg | ecgc e{f}gcg |
+| "D7"daab afda | fdad fdef | "C" gfga gecg | ecgc e{f}gcg | "D7"afge "G"dBge | "D7"dBAB "G"G2 :|
+
+
+
+X:736
+T:Boys of Ballysadare, The
+T:Boys of Ballysodare, The
+T:Dublin Lasses, The
+R:reel
+S:Tommy McCarthy
+H:Usually played in G, see #70
+Z:id:hn-reel-736
+M:C|
+K:F
+cF~F2 cFdF|cFFG AGGA|1 cF~F2 cdcA|GBAG FDC2:|2 FGAc d2cA|GBAG FDC2||
+~f3g afge|fefg afde|~f3g afge|fedc Acde|
+~f3g afge|fefg afdf|afge fdcA|GBAG FDC2||
+|:Ac~c2 Acfc|Acfc AG~G2|1 Ac~c2 dAcA|GBAG FDC2:|2 dA~A2 fA~A2|GBAG FDC2||
+
+
+
+X: 1
+T:Weymouth Reel. HSJJ.133
+M:4/4
+L:1/8
+Q:200
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Reel
+O:England
+A:Lancashire
+H:1823
+Z:Chris Partington.
+W:Change sides,back again,hands across,back again,lead down the middle,up
+W:again,right and left.
+K:F
+f|ecdB AF~FA|BAGF ECCf|ecdB AF (3F/G/A/|BdcEF2F:|!
+|:F|E-GBG A-cfa|BdDG FEDC|AFBG cAdB|AdcEF2F:|]
+
+
+
+X:122
+T:Muillean Dubh (the Black Mill)
+R:Reel
+O:Scotland
+M:4/4
+K:Am
+a|\
+{f}ede^f g2fe|dAdB dGGg|1ede^f g2fe|dGdB A2Aa\
+:|2 ede^f gage|dBgB A2A||
+e|\
+eceB eAAB|dBdA dGGg|eceB eAAB|dGdB A2A>a|
+eceB eAAB|dBdA dGGg|ede^f gage|dBgB A2A||
+
+
+
+X: 1
+P: Da Forfeit o' da Ship
+C: Shetland, a.p.b. Alasdair Fraser "Art of the Scottish Fiddle 1"
+C: arr. T. Traub 12-31-2005
+R: Reel
+K: D
+M: 4/4
+L: 1/8
+A |: "D"d2 dB dA F2|"D"ABAF EDEF|"D"AAAF ABde|"G"f2 ed "A"B2 A2 :|
+|: "D"d2 fd adfd|"G"d2 fd "A"eAAf|"D"a-a2 e fdef|"G"dBAF "A"E3 A :|
+
+
+
+X:504
+T:The Ewe Reel
+N:anon.
+O:Ireland
+B:Francis O'Neill: "The Dance Music of Ireland" (1907) no. 504
+R:Reel
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+N:Music Aviva - The Internet center for free sheet music downloads
+M:C|
+L:1/8
+K:G
+D(G{A}G)F D(G{A}G)F|=F2AF cFAF|D(G{A}G)F DGGg|[1 fdcA BGA2||g2bg dgbg|
+f2af dfaf|g2bg dgbg|agfa g2(ga)|bgaf gdde|fefd cAGF|dggf (3gab ag|fdcA BG
+A"_D.C."F"^segno" |]
+
+
+
+X: 27
+T: Poor Ould Woman
+R: reel
+Z: From Leslie Fuller & Cal Howard.  For the 2nd Saturday Concord Scout House dance.
+M: C|
+K: ADor
+ed \
+| "Am"c2Bc AcBA | "G"GEGA GABd | "Am"edcB     ABcd | "Em"e2A2 A=fed |
+| "Am"c2Bc AcBA | "G"GEGA GABd | "Am"egfa "Em"gedB | "Am"A2AA A2 :|
+|: ef \
+|  "C"g2ga gedB | "Am"A2AA A2ef |  "C"g2ga gedc |  "G"BcAB G3B |
+| "Am"AEAB AcBA |  "G"GEGA GABd | "Em"egfa gedB | "Am"A2AA A2 :|
+%%sep 2 1 500
+
+
+
+X: 1
+T:la Grande Chaine
+R:Reel
+O:Canada
+M:4/4
+K:G
+BGAG E2D2 | BGAB cedc | BGAG E2D2 | BGAF G4::\
+g2fg edBd | gedc BGGd | g2fg edBd | eaag fdef |\
+g2fg edBd | gedc BGG2 | EFGA BcAF | G6:|
+
+
+
+X:1
+T:The Prince's Feather
+M:4/4
+R:reel
+K:E
+|GABc BG~G2|BGBc BGFG|EGBe Bcec|BEGB cF~F2|
+|cF~F2 c2BA|GBAF GEED|Ee~e2 eBBA|GBAF GE~E2:|
+|~F2FG FB,~B,2|FGAB AGFG|E2BE cEBE|GBed cBAG|
+|~F2FG FB,~B,2|FGAB AGFG|Ee~e2 eBBA|GBAF GE~E2:||
+
+
+
+X: 22
+T:Castle Kelly
+R:Reel
+C:Trad
+M:4/4
+L:1/8
+K:G
+~A2 cA ~A2 cA | G2 EG G2 EG | ~A2 cA GAcd | ecdB cAAG | ~A2 cA ~A2 cA |
+G2 EG G2 EG | ~A2 cA GAcd | ecdB cA A2 :|
+|: agec d2 ed | cAGE ~G3 A | agec d2 cd | eaag ~a3 f | gedc d2 ed | cAGE
+ G2 EG | A2 cA GAcd | ecdB cA ~A2 :|
+
+
+
+X:208
+T:Loch Ordie
+C:James MacIntosh, Dunkeld
+B:A Collection of Reels, Strathspeys, etc (1930)
+Z:Nigel Gatherer
+R:reel
+M:4/4
+L:1/8
+K:Gm
+D|DGG^F G2 Bc|d2 cB AFFA|DGG^F GBdg|fdcA BGG:|]
+d|g2 dg bgdg|f2 cf afcf|g2 dg bgdg|fdcA dGGd|
+g2 dg bgdg|f2 cf afcf|gbag fgdg|fdcA BG G|]
+
+
+
+X:1020
+T: Autumn Leaves
+T: Duilli\'ur an Fh\'omhair
+S: B.Breathnach:"Ceol Rince na hEireann" IV/132
+Z: B.Black
+L: 1/8
+M: 4/4
+R: reel
+K: Edor
+E2 BA FGAF|E2 BA FEDF|E2 BA FGAB|defe dBAF|
+E2 BA FGAF|E2 BA FEDF|E2 BA FGAB|defe dBAd ||
+Beec defd|Beec dB A2|Beec defe|dBAF FE E2|
+Beec defd|Beec d3e|f2 fe dfec|dBAF FE E2 ||
+
+
+
+X:1
+T:The Crooked Stovepipe
+Z: John Chambers <jc@trillian.mit.edu>
+R:reel
+M:2/4
+L:1/16
+K:G
+D2 |  "G"G2B2 BcdB | G2B2 BcdB | G2B2 e3B  | "Am"d2c2 cBAG |
+   | "D7"F2A2 ABcA | F2A2 ABcd | e2d2 e2f2 |1 "G"g2fe dcBA :|2 "G"g6 ||
+a2 |: "G"[b6d] [a2c] | [g6B] [f2A] | "C"[e2G][e2G] [f2A][g2B] | "Am"[a6c] [b2d] \
+   | "D7"[c'6f] [a2e] | [f6d] [e2c] | [d2B]d2 [e2_d][f2c] |1 "G"[g2B][^g2B] [a2c][^a2^c] :|2 "G"[g6B] |]
+
+
+
+X:80
+T:Tantramar Marsh
+R:reel
+C:Paul S. Cranford
+O:Cape Breton Island
+S:http://www.cranfordpub.com
+D:currently unrecorded
+B:currently unpublished in book form
+Z:psc, (re-formatted,updated 9/17/04)
+N:
+H:                                                        copyrights Cranford Publications, SOCAN
+Q:333
+L:1/8
+M:C|
+K:F
+FG|A2 AG FGAc|f(c (3e/c/B/c) BAGB|A(F ~F2) CFAc|BAGF EFGB|
+A2 AG FGAc|f(c (3e/c/B/c) BAGB|A(F ~F2) CFAF|GFEG F2:|
+|:ce|f2 fg a(f ~f2)|dcAG A(F ~F2)|f2 fg a(f ~f2)|bagf d2 dc|
+[1fefg a(f ~f2)|dcAG A(F ~F2)|C(F ~F2) CFAF|GFEG F2:|
+[2f2 fg a(f ~f2)|bagf afde|fdcB A(F ~F2)|GFEG F2|]
+
+
+
+X:5113
+T:Pigtown
+O:england
+M:4/4
+L:1/8
+C:Trad
+R:Reel
+K:G
+|: G2 ge ~d2 ed | ~B2 ge dBAB | G2 ge ~d2 ed | BGAG EFGA | G2ge ~d2 ed |
+~B2 ge dBAB | G2 ge ~d2 ed | BGAF G2 :|
+|: ~B2 ~e2 efge | fedf edBA | ~B2 ~e2 efge | fgaf g2 ed | ~B2 ~e2 efge |
+fedf edBA | ~B2 ~e2 efge | fgaf ~g2 dB:|
+
+
+
+X:159
+T:Ale is Dear, The
+R:reel
+Z:transcribed by Dave Marshall
+M:C|
+K:Bdor
+|: f2ef Bfef | faea cAAf | f2ef Bfef | faec B4 :|
+|: BABc d2cB | A4 ABcA |1 BABc d2cB | efec B4 :|2 d2fd c2ec | efec B4 |
+
+
+
+X: 44
+T:Gan Ainm
+M:4/4
+L:1/8
+S:Ciaran Kelly, Moneymore, Derry (Accordian)
+R:Reel
+D:Session tape - Derrygonelly, Fermanagh 1993
+Z:Bernie Stocks
+K:D
+d2Ad cdAd | cdef g2fe | d2Ad cdAF | GEEF GABc | d2Ad cdAd | cdef g2fg |\
+afge fdec | d2AF GABc || d2fd Adfd | d2fa gece | d2fd Adfd |\
+ceAc eAce| d2fd Adfd | cdef g2fg | agfe fdec | d2AF GABc||
+
+
+

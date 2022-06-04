@@ -1,0 +1,646 @@
+X:14
+T:Kid on the mountain, The
+R:Slip jig
+O:Ireland
+M:9/8
+K:Em
+E3 FEF G2F|E2B BcA BGD|E2E FEF G2A|BAG FAG FED::
+BGB AFA G2D|GAB dge dBA|\
+BGB ABA G2A|BAG FAG FED::
+gfg eBe e2f|gfg efg afd|\
+gfg eBe g2a|bag fag fed::
+eBB e2f g2f|eBB efg afd|\
+eBB e2f g2a bag fag fed::
+edB dBA G2D|GAB dge dBA|\
+edB dBA G2A|BAG FAG FED:|
+
+
+
+X:1
+T:Comb Your Hair and Curl It
+M:9/8
+L:1/8
+R:slip jig
+K:D
+|: B2E E2F G2A | Bcd edc d2c |
+ B2E E2F G2A | ~B2d AGF GFE :|
+| g2e e2d efg | f2d d2c def | 
+| g2e e2B d2B | dBA AGF GFE  |
+| g2e e2d efg | f2d d2c def | 
+| g2e edc d2B | ABA AGF GFE |
+
+
+
+X: 1116
+T: Rocky Road to Dublin
+R:slip jig
+N:"Collected by McFadden"
+B:O'Neill's 1116
+Z:Transcribed by Michael Hogan
+M:9/8
+L:1/8
+K:A
+|: efe d2B A2A | E2A A2A Bcd | efe d2B A2c | B2A G2A Bcd :|
+e2a {b}a2f g2b | e2a {b}a2A Bcd | e2a {b}a2f g2e | d2B G2A Bcd |
+e2a {b}a2f g2d | e2a {b}a2A Bcd | efg fga gfe | d2B G2A Bcd ||
+ecA ecA A2a | ecA ecA Bcd | ecA ecA a2c | d2B G2A Bcd |
+ecA ecA A2a | ecA ecA Bcd | efg fga gfe | d2B G2A Bcd ||
+
+
+
+X:1161
+T: Baltiorum
+R:slip jig
+B:O'Neill's 1128
+Z:Transcribed by Michael Hogan
+M:9/8
+L:1/8
+K:G
+g2g ege dBG | g2g ege f2d | g2g ege dBG | A2g ege f2d :|
+|:BAG cBA dBG | BAG cBA d2G | BAG cBA dBG | A2g ege f2d :|
+
+
+
+X:70
+T: Emigrant's (The)
+T: Emigrant's Farewell (< Ted Furey)
+S: "Collection of the Dance Music of Ireland" (P. McNulty)
+Z: B.Black
+L: 1/8
+M: 9/8
+R: slip jig
+K: Edor
+edB B2 A G2 A|Bdd d2 B def|edB B2 A G2 E|E2 e e2 d efg|
+edB B2 A G2 A|Bdd d2 B def|e2 f gfe fed|Bee e2 d e3 :|
+e2 f gfe fed|BAB d2 B def|e2 f gfe fed|Bee e2 d efg|
+agf gfe fed|BAB d2 B def|edB B2 A G2 E|E2 e e2 d efg :|
+
+
+
+X:25
+T: Tea in the Morning
+R: slip jig
+B: O'Neill's 1120
+Z: Transcribed by Michael Hogan
+M: 9/8
+L: 1/8
+K: G
+d2G G(FG/A/) B3 | Gzd dzG ABc | d2G GFG/A/ B3 | dcB AGF ABc :|
+ded czd B3 | Gzd dzG ABc | ded czd B2c | dcB AGF ABc |
+ded czd B3 | Gzd dzG ABc | dzg fdc B2c | dcB AGF ABc ||
+
+
+
+X:2361
+T:Butterfly, The
+R:Slip jig
+O:Ireland
+M:9/8
+K:Em
+B2E G2E F3|B2E G2E FED|B2E G2E F3|B2^c d2B AFD::
+B2c e2f g3|B2c g2e dBA|B2c e2f g2a|b2a g2e dBA::
+B3 B2A G2A|B3  BAB dBA|B3 B2A G2A|B2d g2e dBA:|
+
+
+
+X: 1
+T: Cahiramee
+M: 9/8
+L: 1/8
+R: slip jig
+K: Gmaj
+D|D2 G3 A B3 | A2 A3 B c3 | BcB B2A G3 | ABA A2G F2 D |
+D2 G3 A B3 | A2 A3 B c3 | ded d2c B2G | ABA A2F G2z ||
+B2 d3 d d3 | e2 e3 f g3 | d2 d3 c B2G | ABA A2G F2D |
+B2 d3 d d3 | e2 e3 f g3 | ded d2c B2G | ABA A2F G2 ||
+
+
+
+X: 22
+T:Rattlin' Roarin' Willie
+M:9/8
+L:1/8
+R:Slip Jig
+K:A
+"A"e2A A2c e2f|"G"=gfg B2c d2f|"A"e2A A2c e2f|"A"aga c2d efg|!
+"A"aga ecA cea|"G"=gfg B2c d2f|"A"ece "D"f2e fae|"A"cAc "G"B=GB "A"A3:||
+
+
+
+X:705
+T:Cathal McConnell's
+R:slip jig
+Z:Transcribed by Dave Marshall
+M:9/8
+K:F#minor
+|: ~F3 FEF BcA | ~F3 FEF AFE | ~F3 FEF Bcd | ecA BAF AFE :|
+|:ecA ABc d2f | ecA ABc BAF | ecA ABc dcB | cBA BAF AFE :|
+
+
+
+X:1133
+T:Will You Come In
+R:slip jig
+N:"Collected by McFadden"
+B:O'Neill's 1133
+Z:Transcribed by Michael Hogan
+M:9/8
+L:1/8
+K:D
+A2F {G}F2E D2F| B2B B2A Bcd| A2F "~"F3 G2A|1 ABA A2F AdB :|2 ABA A2F ABc||
+d3 f2d c2A | BcB B2A Bcd | d2d f2d c2B | ABA A2F ABc |
+d2d a2d c2A | BcB B2A B2c | d2b a2f d2B | ABA A2F AdB ||
+
+
+
+X:24
+T:Snowy Path, The
+R:slip jig
+C:Mark Kelly
+D:Altan: Harvest Storm
+Z:id:hn-slipjig-24
+M:9/8
+K:D
+F2A B2F A2F|G2B d2e dBG|F2A B2F A2F|1 E2D E2F GFE:|2 E2D E2F GAB||
+|:c3 c2e d2c|B2G B2c d2e|1 f3 f2e d2B|A2G F2G A2B:|2 d2A B2F A2F|E2D E2F GFE||
+
+
+
+X:275
+T:Na Ceannabhain Bhana
+M:9/8
+L:1/8
+C:Trad.
+S:IrTrad; Chris & Caitlin, 4/97
+R:Slip Jig
+A:Connemara
+D:Paul McGrattan/Paul O'Shaughnessy: Within a Mile of Dublin
+Z:Chris Corrigan (cc_cmf@mindlink.net
+K:G
+B2 G AGE GED |E/F/GE DEG A2 c|BAG AGE GED|  E/F/GE DEF G2 A :||:
+Bdd edB BAG |Bdd edB A3|Bdd edB BAG |GED DEF G3 :|
+
+
+
+X: 58
+T:I will have a Wife of my Own. JBa.57
+T:I Have a Wife of my Own,aka, JBa.57
+M:9/8
+L:1/8
+Q:120
+S:Joseph Barnes MS,Carlisle,1762.
+R:slip jig
+O:England
+A:Carlisle
+H:See Paul's notes
+Z:vmp.C.Graebe.
+K:G major
+"no key/time sig"(EFGE) G2 A2("sh"cB) | (EFGE) G2 B AFD |\
+(EFGE) G2 A (c2B2) | AFD D2 B AFD :|!
+|:G2 cAc BdB | BGE G2 B AFD | G2 cAc BdB |\
+AFD D2E AFD :|!
+|: g2G2 B g2 | (gfe) G2 B AFD |\
+g2 G2 B (cB) | AFD D2 B2 AFD ||!
+zzzzzzzz|zzzzzzzzz||!
+
+
+
+X:45
+T: Humors of Ballymanus
+R: slip jig
+B: O'Neill's 1124
+Z: Transcribed by Michael Hogan
+M: 9/8
+L: 1/8
+K: D
+A2A AGF AGF | A2A AGF Bcd | A2A AGF AGF | B2B B2A Bcd :|
+|:dfg afd cBA | dfg afd fga | dfg afd cBA | B2B B2A Bcd :|
+|:FAF dAF dAG | FAF dAF Bcd | FAF dAF dAF | B2B B2A Bcd :|
+
+
+
+X: 1
+T: Come Under My Dimity
+M: 9/8
+L: 1/8
+R: slip jig
+K: Gmaj
+|: E | D2 G ABG FGA | B2 B cAB c2 A | 
+DGG AB/A/G FGA |[1 B^AB c=AF G2 :|[2 d2 d cAF G2 ||
+|: B | d2 d cAG F2 A | dB/c/d cAB c2 A | 
+d2 d cAG FGA |[1 dBd cAF G2 :|[2 B^AB c=AF G2 |]
+
+
+
+X:6535
+T:Up Goes Ely
+M:9/8
+O:England
+R:Slip Jig
+Z:Richard Robinson 
+%%TUNEURL: http://www.leeds.ac.uk/music/Info/RRTuneBk/gettune/00000739.html
+%%ID:00000739
+K:D
+d2d F2G A3|d2d def gfe|dcd F2G A2A|BGG G2F G2E::
+D2A A2F A2F|D2F A2B =c3|DFA A2F ABc|d2A F2E D3:|
+
+
+
+X:16537
+T:The Butterfly
+R:Slip Jig
+C:Tommy Potts
+D:Bothy Band: 1975.
+A:Ireland
+Z:id:hn-slipjig-3
+M:9/8
+K:Edor
+"Em"B2E G2E "D/F#"F3|"Em"B2E G2E "Bm7"FED|"Em"B2E G2E "D/F#"FGA|"Bm7"B2d d2B AFA:|
+|:"Em9"B2d e2f "Bm7"g3|"Em9"B2d g2e "Bm7/F#"dBA|"Em9"B2d e2f "Bm7"g2a|"Bm7/F#"b2a g2e dBA:|
+|:"G"B3 B2A "Am/G"G2A|"G"B3 BAB "D/F#"dBA|"G"B3 B2A "Am/G"G2A|"Bm7"B2d g2e dBA:|
+
+
+
+X: 1
+T: Lucky Thirteen
+M: 9/8
+L: 1/8
+R: slip jig
+K: Emin
+M:13/8
+EFG c2A BGAF GFE | EFG c2A BGAF GFD | 
+EFG c2e BdAG AGF | BGE AGF GFGF EFD :||:!
+M:13/8 Bge f2d BcAG ABc | Bge f2d gzfa gfd |
+Bge f2a begb agf | M:14/8 geed ~B2Ac BAG AGF :||: !
+M:14/8 fgfa g2e f2d e2Bz | M:13/8 fgf a2f b2ag fga |
+M:14/8 gee a2bz gee f2az | M:13/8 g2e f2d BcAG AGF :||
+
+
+
+X:480
+T: Hills of Tipperary
+S: "Roche Collection of Traditional Irish Music" [III/36/115]
+L: 1/8
+M: 9/8
+R: slip jig
+K: D
+(3A/B/c/ |: dcB AGF ABc | dcd efg fge |
+dcB AGF ABc |1 dcB ABG FED :|2 d2D DAG FED ||
+F2A AFA AFA | G2B BGB BGB |
+F2A AFA ABc |1 dcB ABG FED :|2 d2D DAG FED ||
+FGA ABc dcd | e2E E2F GFE |
+FED AGF ABc |1 dcB ABG FED :|2 d2D DAG FED ||
+
+
+
+X: 1
+T: Johnny Loves Molly
+M: 9/8
+L: 1/8
+R: slip jig
+K: Dmaj
+~f2f ged cAA|fef gec d2e|fef gec dfd|cAF ABc d2e:|
+|:cAA BGA GDd|cAF ABc  ded|cAA BGA GDd|cAF ABc d2e:|
+
+
+
+X: 60
+T:Butterfly, The
+S:Trad
+C:
+R:slip jig
+D:
+M:9/8
+L:1/8
+K:E modal
+|:B2E G2E F3|B2E G2E FED|B2E G2E FGA|B2d d2B AFA:|
+|:B2=c e2f g3|B2=c g2e dBA|B2=c e2f g2a|b2a g2e dBA:|
+|:B3 B2A G2A|B3 BAB dBA|B3 B2A G2A|B2d g2e dBA:|
+
+
+
+X: 1
+T: Ladies Step Up To Tea
+M: 9/8
+L: 1/8
+R: slip jig
+K: Ador
+|:A2E EDE c2A|A2B c2d ecA|A2E EDE c2A|B2G G2B dBG :|
+|:A2e e2d e2c|A2B c2d ecA|A2e e2d efg|B2G G2B dBG|
+A2e e2d e2c|A2B c2d efg|agf gfe dcB|def gfe dcB||
+
+
+
+X:55
+T:Blast of Wind, A
+R:slip jig
+Z:id:hn-slipjig-55
+M:9/8
+K:D
+d3 dAG FED|d2d dAF GFE|ABc dAG FGA|=cBc E2F GFE:|
+d2g fdf e^cA|d2g fdf gfe|d2g fdf eAB|=cBc E2F GFE|
+d2g fdf e^cA|d2g fdf efg|afa ge^c dAB|=cBc E2F GFE||
+
+
+
+X: 1
+T: Rocky Road To Dublin, The
+M: 9/8
+L: 1/8
+R: slip jig
+K: Ador
+efe d2B ~A3|E2A A2A Bcd|efe d2B A2c|B2G G2A Bcd:|
+e2a a2f ~g3|e2a a2f g2d|e2a a2f g2e|d2B G2A Bcd|
+e2a a2f ~g3|e2a a2A Bcd|efg fga g2e|d2B G2A Bcd||
+
+
+
+X: 161937
+T: Pat Murphy the Piper
+S: "Roche Collection of Traditional Irish Music" [II/59/337]
+L: 1/8
+M: 9/8
+R: slip jig
+K: D
+A | Add dcd efg | afd Bee cAA |
+Add dcd Bcd | efe dcB AFG |
+Add dcd efg | afd Bee cAA |
+Add dcd efg | afa gec d2 ||
+B | AFA Gec d2B | AFA GFE D2B | 
+AFA GEc d2e | fff fec d2B | 
+AFA Gec d2B | AFA GFE D2B | 
+AFA GEa a2g | fdf gec d2 |]
+
+
+
+X:165
+T:Andrew Carey
+A:North-West
+M:9/8
+O:England
+R:Slip Jig
+Z:Richard Robinson 
+%%TUNEURL: http://www.leeds.ac.uk/music/Info/RRTuneBk/gettune/000004de.html
+%%ID:000004de
+K:D
+d2B AFA AFA| d2A def gfe| d2B AFA ABc| d2D DEF E2D::
+F2A AFA AGF| G2B BGB BAG| F2A AFA ABc| d2D DEF E2D:|
+
+
+
+X: 1
+T:Devil and the Bailiff, The
+M:9/8
+L:1/8
+S:Session at Fleadh Ceol in Sligo, 1990.
+R:slip jig
+K:G
+DGG GAG FGA|BdB GAB c3|DGG GAG FGA|1 BdB cAF ~G3:|2 BdB cAF G2B||
+|:ded cAG FED|ded cAB c3|ded cAG FGA|1 BdB cAF G2B:|2 BdB cAF ~G3||
+
+
+
+X:5798
+T:Gan Ainm
+M:9/8
+L:1/8
+S:Ciaran Kelly, Moneymore, Derry (Accordian)
+R:Slip Jig
+D:Session tape - Belfast
+Z:Bernie Stocks
+K:D
+d2f afd dcd | Bee efd cBA | d2f afd dcd |1Bcd ecA d3 :|2Bcd ecA d2f |: \
+e2A A2B cBA | d2e f2g agf | e2A A2B cBA | Bcd ecA d2f :|
+
+
+
+X: 021939
+T: Bob and Joan
+S: "Roche Collection of Traditional Irish Music" [II/61/345]
+L: 1/8
+M: 9/8
+R: slip jig
+K: G
+B2G G2D G2A | B2G G2D FGA |
+B2G G2D G2F | E2A A2G FGA :|
+D2d d2c B2A | D2d d2c Bcd |
+e2f g2e d2B | c2B A2G FGA :|
+
+
+
+X:3622
+T:Cuddle me cuddy
+R:Slip jig
+O:England
+M:9/8
+N:12/8 in mss 1, 6/4 in mss 3
+A:Lancashire
+B:Winder
+K:G
+cde AcA AcA | cde AcA B2G | \
+cde AcA AcA | Bcd dgd B2G :|*
+cde ege ege | cde ege g2e | \
+cde ege ege | ded dgd B2G :|**
+
+
+
+X: 6
+T:Michael Gorman's
+R:slip jig
+D:Bothy Band: Old Hag, You've Killed Me.
+Z:id:hn-slipjig-18
+M:9/8
+L:1/8
+K:D
+|:F2F A2F A2F|~G3 B2G B2G|~F3 A2F A2F|Bcd A2G FED:||:dcd f2d c2A|
+B2e e2d cBA|[1 dcd f2d c2A|Bcd A2G FED:|[2 f2d e2c d2B|A2B A2G FED|]
+
+
+
+X:12679
+T:Paddy O'Snap
+R:slip jig
+Z:id:hn-slipjig-56
+M:9/8
+K:D
+f2d dcd fed|g2e efd cBA|f2d dcd fed|1 efg ABc d2e:|2 efg ABc dfg||
+|:a2A ABG FAd|B2e efd efg|a2A ABG FAd|1 efg ABc dfg:|2 efg ABc d2e||
+
+
+
+X: 1
+T:Disused Railway, The
+R:slip jig
+Z:id:hn-slipjig-5
+M:9/8
+K:Bm
+B2c dcB fBB|B2d cBA ecA|B2c dcB fBB|1 B2d cBA B2A:|2 B2d cBA B2c||
+d2e fed add|d2f ecA ecA|d2e fed aee|fbb b2a b3|
+a2g fed def|e2d cBA ecA|B2c dcB fBB|B2d cBA B2A||
+
+
+
+X: 1
+T: ille's Arabesque
+M: 9/8
+L: 1/8
+R: slip jig
+K: Gmaj
+d | &quot;Gmaj7&quot;BAG GF/E/D &quot;Cmaj7&quot;~E3 | D2B DE/F/G &quot;DaddG&quot;A2d | &quot;Gmaj7&quot;BAG GB/c/d &quot;Cmaj7&quot;edg | edB BAG &quot;DaddG&quot;A2d |!
+&quot;Gmaj7&quot;BAG GF/E/D &quot;C/G&quot;~E3 | D2B DE/F/G &quot;D&quot;A2d | &quot;Gmaj7&quot;BAG GB/c/d &quot;Cmaj7&quot;edg | M:6/8 edB Bcd ||!
+M: 9/8 &quot;C&quot;e2a age dBA | &quot;G&quot;~B3 G2A Bcd | &quot;Am7&quot;e2a age g2b | &quot;G/B&quot;age dBA Bcd |!
+&quot;C&quot;~e3 age dBA | &quot;G&quot;~B3 G2A Bcd | &quot;Am7&quot;e2a age g2b | M:6/8 &quot;G/B&quot; age dBA | &quot;C&quot;B2G &quot;D&quot;A2 ||
+
+
+
+X:4
+T:The Whinny Hills of Leitrim
+R:slip jig
+D:Snug in the Blanket,P.O'Brien,J.Gans,D.Sproule 
+S:Sonny Brogan, accordion, Co. Dublin
+Z:Paul Stewart Cranford (P.S.C.), <http://www.cranfordpub.com>
+L:1/8
+M:9/8
+Q:333
+K:Dmix
+G|ABA dcA d2 c|ABA dcA GFG|ABA dcA ~d3|eaa ege dB:|
+K:G
+|:A|GBB GBd gag|GBB GAG FED|GBB GBd g2 g|fgf ege dB:|
+
+
+
+X: 115
+T:Derby Hunt. HSJJ.116
+M:9/8
+L:1/8
+Q:120
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Slip Jig
+O:England
+A:Lancashire
+H:1823
+Z:vmp.Chris Partington.
+K:C
+c2c cdcB2G|ABc cdef2d|c2c cdcB2G|ABc GAFE2C:|!
+|:F2A ABc ABc|EFG GEC GEC|F2A ABc ABc|Bdg gafe2c:|]
+
+
+
+X:455
+T:Deirdre's Fancy
+R:slip jig
+Z:id:hn-slipjig-30
+M:9/8
+K:Edor
+E2F G2A BGE|D2E F2G AFD|E2F G2A BGE|1 B=cB AGF E2D:|2 B=cB AGF E2z||
+|:eBe e2f gfe|dAd d2e fed|eBe e2f gfe|1 d=cB AGF E2z:|2 d=cB AGF E2D||
+
+
+
+X: 3
+T: Come Fy, Lets a to the Bridal
+S: Kerr's Third Collection of Merry Melodies for the Violin, 1870s; page 26, tune #232
+L: 1/8
+M: 9/8
+R: slip jig
+K: A Major
+|: A2 A A2 f ecA | B2 B Bce f2 a | A2 A A2 f ecA | B2 B cBc F3 :|
+|: a2 a aba gfe | c2 e efc efg | a2 a aba gfe | c2 f fg^e f3 :|
+
+
+
+X: 1
+T:Barney Bralligan
+M:9/8
+L:1/8
+R:Slip Jig
+K:D
+F2A ABA ABA|F2A ABA d2f|F2A ABA ABA|BAB e2d cBA:|!
+f2a f2a f2d|f2a f2a gfe|f2a f2a f2d|g2f e2d cBA:|!
+f3 a3 d3|g2f e2d cBA|f2d e2c d2B|A2B A2G FED:|!
+
+
+
+X: 112210
+T: Kick the World Before You
+S: Fitzmaurice Collection
+L: 1/8
+M: 9/8
+R: slip jig
+Q: 1/4=180
+K: D
+=c3 BdB c2A|A2d ded =cBA|=c3 BdB c2A|BAG =cBA GE=C :|
+F2d dFD AFD|F2d dFD GE=C|F2d dFD AFD|E=CE =cBA GE=C :|
+f2d dfa g2e|f2d dfa ge=c|f2d d2B =c2A|B2G =cBA GE=C :|
+dFF AFF AFF|dFF AFF GE=C|dFF AFF AFF|EFE =cBA GE=C :|
+E/F/GE F2D F2D|E/F/GE F2D GE=C|E/F/GE F2D AGF|\
+EFE =cBA GE=C :|
+
+
+
+X: 1
+T:Drops of Brandy, The
+R:slip jig
+H:Also played in A or in D.
+D:Stockton's Wing.
+Z:id:hn-slipjig-4
+M:9/8
+K:G
+d2c BGB BGB|d2c BGB cBA|d2c BGB BGB|cBc A2B cBA:|
+|:GBd gdB gdB|GBd gdB cBA|1 GBd gdB gdB|cBc A2B cBA:|2 GBd gba gdB|cBc A2B cBA||
+
+
+
+X:9
+T:Slippery Jig
+R:Slip Jig
+O:New Zealand
+M:9/8
+I:speed 420
+C:Mark Fitzsimons
+A:Auckland
+K: A min
+|:EFG AcA GFG|EFG A2G A3|EFG AcA GFE|dcB cBA BAG|
+EFG AcA GFE|DCB, C2_B, A,3|A,_B,C DEF GA=B|c2A G2A A3:|
+|:e2A cAB cAB|d2A _BGA BGA|cAB _BGA ^GEF|E^CD E2F E3|
+e2A cAB cAB|d2A _BGA BGA|1cAB _BGA ^GEF|EFD CDB, A,3:|
+|2 c2A B2A G2A|C2A, B,2A, G,3:|
+W:
+W:
+W:Copyright Mark Fitzsimons February 1998
+W:mark@greenmanhumming.com
+
+
+
+X:6351
+T:Swaggering Jig, The
+O:england
+M:9/8
+L:1/8
+R:slip jig
+D:Matt Molloy & Sean Keane: Contentment is Wealth
+K:G
+GBd gdc BAG|BdB cAG ~A3|GBd gdc BAG|1 BcA BGF G2D:|2 BcA BGF G2d||
+~g3 efg fed|~g3 efg a2f|~g3 bag fed|efg agf g2d|
+~g3 efg fed|~g3 efg ~a3|bag agf ged|efg agf gdB||
+
+
+
+X: 93
+T:Drops Of Brandy. JMT.089
+M:9/8
+L:1/8
+S:J.Moore,Tyneside,1841.(64b)
+R:Slip Jig
+O:England
+A:Northumbria
+N:MS had a time signature of 2/4. However, the tune was actually entered
+N:with all the "correct" notes in the standard fashion for a slip jig
+N:except for the bar lines being entered as if it were a 6/8 tune
+Z:vmp.Chris Partington
+K:G
+GAB BAB BAB|GAB BAB d2g|GAB BAB BAB|A2A ABG FED:|!
+|:GBd gdB gdB|GBd gdBd2g|GBd gdB gdB|A2A ABG FED:|]
+
+
+

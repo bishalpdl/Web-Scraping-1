@@ -1,0 +1,842 @@
+X: 1
+P: Earl of Angus and Arran
+R: strathspey
+B: RSCDS 26-9
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: F
+C \
+| "F"F<F c2 "Dm"A>G F>A | "Gm"B<D G>F "C7"E>C D>E \
+| "F"F<F c2 "Dm"A>G F>A | "Gm"B<D "C7"G>E "F"F3 :|
+c \
+| "F"A<c F>c A>c F>e | f>F A>F "C7"E<G G>B \
+| "F"A<c F>c A>c f>a | "G7"g>f e>d "C"c3 |]
+A \
+| "Gm"B<d G>B "F"A<c F>A | "Gm"G>A B>A "C7"G>F E>C \
+| "F"F<A "C7"G>B "F"A<c "Bb"B>[db] | "F"c<f "C7"e>g "F"f3 |]
+
+
+
+X:277
+%%topmargin 3cm
+U:~=!turn!
+T:The Duke of Gordon's Birthday
+C:Marshall
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:G
+B | {/F}G>D{/F}G>B {/F}G>D{/F}GB{/f}g>B A/A/A {cB}(A>B) | {/F}G>D{/F}G>B {/F}G>D{/F}G>B | [1 {^c}d>cTB>A G/G/G G :|
+[2 D>CB,>A, G,/G,/G, G, |: [Bd] | ~(g>a)b>g d/d/d Td2 | {/f}~(g>a)b>g e/e/e (Te>f) | {/f}gGA>B G/G/G TG H:|
+
+
+
+X: 1
+P: Whistle O'er the Lave O't
+R: strathspey
+C: Hardie, from B. McOwen 1995
+C: arr. T. Traub 3-26-2006
+C: used for "Seann Truibhas" dance
+C: also A modal, Irish
+M: 4/4
+L: 1/8
+K: G
+R: strathspey
+D|"G"G>DE<G B>A B2|d>eB<g "C"AG E2|"G"G>DE<G B>AB<g|G<GB>G "D"A2 "G"G2|"G"G>DE<G B>A B2|de/f/ g>B "C"AG E2|
+"G"G>DE<G B>AB<g|G<GB>G "D"A2 "G"G ||"G"de/f/ g>f ed B2|d>eB<g "C"AG E2|de/f/ g>f e>dB<g|
+"G"G<GB>G "D"A2 "G"G2| "G"de/f/ g>f ed B2|de/f/ g>b "C"a>ge>f |"G"gG "D"A2 "G"G |]
+
+
+
+X: 1
+T: Miss Jessy Cumming
+R: strathspey
+B: Athole
+Z: 2006 John Chambers <jc:trillian.mit.edu>
+S: handwritten MS by Barbara McOwen
+M: C
+L: 1/16
+K: D
+B \
+| "D"A3F d4 A3F "G"dB3 | "D"A3F "G"GFED "A7"E2e2 e2fg \
+| "D"af3 "A7"ge3 "Bm"fd3 "A"ec3 | "Em"d3B "A"AF3 "D"Ad3 d3 :|
+g \
+| "D"fa3 da3 "A7"ca3 Aa3 | "D"fa3 df3 "G"g2e2 "A7"e2fg \
+| "D"fa3 da3 "A7"ca3 Ag3 | "D"f3d "A7"fedc "D"dD3 D3 ||
+g \
+| "D"fa3 da3 "A7"ca3 Aa3 | "Bm"fa3 df3 "Em"g2e2 "A7"e2fg \
+| "D"fd3 "A"ec3 "Bm"d3B AF3 | "G"G3B "A7"AF3 "D"Dd3 d3 |]
+
+
+
+X:8303
+T:Abercairney House
+C:Niel Gow
+O:Scotland
+A:Inver (Perth)
+B:(n1) Gow Collection of Scottish Dance Music - Oak Publications
+R:Strathspey
+Z:transcription (livre) : anamnese@caramail.com
+F:http://abc.musicaviva.com/tunes/gow-niel/gow-abercairney-house.abc
+%Posted April 18th 2002 at abcusers by Eric Forgeot in reply to a
+%request for a good Bb major strathspey.
+M:C
+L:1/8
+Q:1/4=120 %tempo exact non connu
+K:Bb
+B/c/ | d<GB>G dGB<g | c<FA>F cFAf | \
+d<GB>G dGB<g | f>d {d}cB/A/{A}G2 G :| d |
+g>dgb g<af<g | fadf c>F {d}cB/A/ | \
+g>dgb g<af<g | d>c {d}cB/A/{A}G2 Gd |
+g>dgb g<af<g | fadf c>F {d}cB/A/ | \
+d<GB>G dGB<g | d>c {d}cB/A/{A}G2 G |]
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:2791
+T:The Warlocks
+C:Lowe
+O:Scotland
+R:Strathspey
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:C
+L:1/8
+K:Em
+EG>F E2  EF/G/   |A<dA>F D2  D<d     |   B<EG>F E>Be>f      |g>e
+g/f/e/^d/ e2e:|\
+B|e>gB>g e<B e/f/g/e/|
+                      f>ad>a f<d f/g/a/f/|[1 e>gB>g eB e/f/g/e/ |d>BA<F E2E:|\
+                                         |[2 e<gf<e d>BA<F      |G<BA<F E2E|]
+W:Written by Joseph Lowe's son as an accompanying strathspey for
+W:Joseph Lowe's "The witches". Play this first, then "The witches"
+W:immediately after.
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
+
+X:4
+T:the Duke of Gordon's Birthday
+M:4/4
+L:1/8
+R:Strathspey
+Z:Toby A. Rider <darkrider1@earthlink.NET>
+K:G
+| D<G GB G>B | dB A/A/A A>B | G>A G>F E>D E<C | D>B, A,B, G,/G,/ G,G, :|
+e \
+| (g>a) (g>e) d/d/d d>B | (g>b) (a>g) e/e/e e>f | g<d e<g d<g B<G | A>G B<A G/G/G G>B |
+| (g>a) (g>e) d/d/d d>B | g>b a>g e/e/e e>f | g>d eg d>g B>b | a>g a>b (g>e) (d<B) :|
+
+
+
+X: 1
+T: Miss Lyall
+T: Panmure House
+%T: the Cat that Kittled in Jamie's Wig
+C: Trad
+L: 1/8
+M: 4/4
+R: strathspey
+S: Paddledoo
+S: Pinewoods Collection
+K: ADorian
+c/B/ \
+| "Am"A<A, A,>B, C>D E>F | "G"G<G B>A G2 c>B \
+| "Am"A<A, A,>B, C>D E>A | "E"c>A B>^G "Am"A3 ||
+c/B/ \
+| "Am"A<A, A,>B, C>D E>F | "G"G<G B>A G3 c/d/ \
+| "C"e>c "(G)"d>B "F"c>A "(G)"B>G | "E"E>A c/B/A/^G/ "Am"A3 |]
+c/B/ \
+| "Am"A<a a>b "G"g>a b/a/g/f/ | "Am"[Ae]<a a>f "G"g2 f>g \
+| "Am"[Ae]<a a>b "G"g>a b/a/g/f/ | "E"e>c d>B "Am"A3 ||
+c/B/ \
+| "Am"A<a a>b "G"g>a b/a/g/f/ | "Am"[Ae]<a a>f "G"g2 f>g \
+| "Am"(3agf (3gab "Dm"(3edc (3Bcd | "E"e>c d<B "Am"A3z |]
+
+
+
+X:538
+%%topmargin 3cm
+U:~=!turn!
+T:Mr. John Shaw Stewarts
+C:Neil Gows collection
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:Gm
+G | DG-G>c (B/c/d) Tc>B | A>Fc>F d>Fc>F | DG-G>c d>=efd | c<Af>A {/A}G2 G :| A | Gg-g>a {ga}b2 ag | f>ca>c f>ca>f |
+dgg>a {ga}b2 ag | {/g}f>d{/d}c>A {/A}G2 G>A | Gg-g>a b2 ag | fcf>g {fg}a>g fa | g>af>g d>fc>f | A>Fc>B {/A}G2 G |]
+
+
+
+X: 4
+T:Honorable Miss Drummond of Perth, The
+M:C
+L:1/8
+R:Strathspey
+B:Stewart-Robertson - The Athole Collection (1884)
+Z:AK/Fiddler's Companion
+K:D
+F|D>AF>A D<d d>B|A<D F>D EE|D>AF>A D<g f>e|d>BA>F D/D/D D:|
+|:f|d/e/f/g/ a<d f<d a>d|A/B/c/d/ e>A c>Ae>A|1 d/e/f/g/ a>d f>da>d|
+A<g f>e ffe>g f>d e<f|d>BA>F D/D/D D||
+
+
+
+X:34
+T:Allowa Kirk
+R:Strathspey
+O:Scotland
+M:4/4
+C:Joseph Lowe.-Ashley MacIsaac
+K:G
+D|G>ed>B A/GE>A|G>ed>B d/Bg>a|b/2a/2g/2f/2 g>B A>GE/A|G>EF/D {D}G2 G:|:
+f|g>d g/2a/2b a/ee>f|g>d g/2a/2b e/gd>g|c>aB>g a>A AB/2A/2|
+G>EF>D {D}G2 Gf|g>d g/2a/2b a/ee>f|(3gab (3agf (3efg (3dcB|
+(3cac (3BgB a>A AB/2A/2|G>EF>D {D}G2 G:||
+
+
+
+X: 3
+P: The Gordons Strathspey
+R: strathspey
+Z: 1998 by John Chambers <jc:trillian.mit.edu>
+B: Skye
+B: Paddledoo
+M: C
+L: 1/8
+K: ADor
+| "Am"A2 B<d "Em"e2 d<B | "Am"BA ~A2 "D7"B<A A<c \
+| "G"B<d d>B "C"cB AG | "C"E2 G>A "G"GD DE |
+| "G"D>E GA "Em"B2 g>f | "C"e>d g>f "G"e>d B<d \
+| "C"e>f g>f "G/B"e<d cd "Am"B<A A2 |]
+[| "Am"A<a af | "C"e>d e<g "D"a>e ef \
+| "G"g>a b>a "C"g/a/g/f/ g<e | "D"d>e d>c "G"B<G G>B |
+| "Am"A<a af | "C"e>d B>d e>f g>a \
+| "G"b<g "Am"a<e "C"g<e "G"d>B | "Am"A<a "Em"e>d "Am"B<A A2 |]
+
+
+
+X: 883
+T:Dutches of Athole's Strathspey
+R:Strathspey
+M:C
+K:D
+d|:\
+A>df>d e>d "tr"B2| A>dfd a>d "tr"f2|\
+g>b fd"tr"B2| A>df>d "tr"e2d2::
+a>fd'>f g/f/e/d/ "tr"B2| a>fd'>f a/f/a/b/d'2|\
+"tr"b>ad'f g/f/e/d/ "tr"B2| [AD]>d f<d "tr"e2d2::
+.D.d.f.d .B.e.c.A| Ddfd adfd| \
+gb/g/ f.d'/f/ .B.e.c.A | D>dfd "tr"e2d2::
+(d/e/f/g/ a)<d d'<e c<A| d/e/f/g/ a<f d'<f a>f|\
+gb/g/ fd'/f/ BecA| D>d f>d e2d2:|
+
+
+
+X: 1
+T: Miss Admiral Gordon's Strathspey
+T: Of a' the airts the wind can blaw
+C: William Marshall (c.1775)
+R: strathspey
+Z: 2008 John Chambers <jc:trillian.mit.edu>
+B: Marshall's Scottish Melodies
+B: Marshall's Strathspey Reels (1781)
+M: C
+L: 1/16
+K: A
+V: 1
+E2 \
+| "A"AAA2 .A.A3 A3E Af3 | "A"(ec3) (TB3A) "D"{G}F4 (F3E) \
+| "A"AAA2 .A2.A2 A3E Af3 | "A"e3f ac3 "E7"e4 (e3f) |
+| "A"e3f ac3 (ec3) (TB3A) | "E7"TB3c (dc)(BA) "D"{G}F4 (F2E2) \
+| "A"AAA2 (.[A2C2].A2) [A3C3]E Af3 | "E7"ec3 TB3c [A4C4] [A2C2]E2 |]
+[|"A"(C3E) (A3E) "D"(TF3E) "A"(A3E) | "A"(~c3e) (dc)(BA) "D"{G}F4 (F2E2) \
+| "A"(C3E) (A3E) "D"(TF3E) "A"(A3E) | "A"~c3d (ef)(ga) "E7"{f}e4 (e3g) |
+| "A"(a3g) (Tf3e) (Tf3e) (d3c) | "E7"TB3c (dc)(BA) "D"{G}F4 F2E2 \
+| "A"AAA2 (.[A2C2].A2) [A3C3]E Af3 | "E7"ec3 TB3c [A4C4] [A2C2] |]
+V: 2 clef=bass middle=d
+z2 \
+| A4 a4 A4 c2d2 | A4 B2c2 d4 D4 | A4 a4 A4 a4 | A4 a4 A2a2 c'2d'2 |
+| c'2d'2 c'4 a4 d'2c'2 | g2a2 b2c'2 d'4 d4 | A4 a4 A4 c2d2 | e4 E4 A4 a2z2 |]
+[| [A4A16-] c4 d4 c4 | A4 B2c2 d4 D4 | [A4A16-] c4 d4 c4 | A4 a4 g4 e2e'2 |
+| f'2e'2 d'2c'2 d'2c'2 b2a2 | g2a2 b2c'2 d'4 d4 | A4 a4 A4 c2d2 | e4 E4 A4 a2 |]
+
+
+
+X: 1761
+T:Molly's Graduation
+M:C|
+L:1/8
+C:Dougie MacDonald
+R:Strathspey
+D:James Kelly-The Ring Sessions
+K:EDor
+c/2c/2c|B2 B>A GB|E>F G>A B>A B/2c/2d|e e>e e>g f>e|
+d>c d>A B>A F>A|B2 B>A GB|E>F G>A B>A B/2c/2d|
+e>g f>e d>B A>=c|B>A F>D E:||:B/2B/2B|b2 f2 e4|b>a g>f e>f e>c|
+d2 d>B A A>G|F>E D>F A>D F/2G/2A|B2 B>A GB|E>F G>A B>A B/2c/2d|
+e>g f>e d>B A>=c|B>A F>D E:||
+
+
+
+X:174
+T:Dalry House
+R:Strathspey
+B:The Athole Collection
+M:C|
+L:1/8
+K:D
+D>F A2 F>GA2|B/c/d A>F G<E E>F|D>FA2 F>GA2|B/c/d c>B A<FF:|
+A|d<fe<c d>BA2|B/c/d A>F G>E E>c|d<fe<c d>BA2|B/c/d c>B A<F F>A|
+(3dfd (3cec (3BdB (3AdA|(3GBG (3FdF G<E E>F|D/E/F/G/ A2 F>GA2|
+B/c/d c>B A<F F>A||
+
+
+
+X:189
+%%topmargin 3cm
+U:~=!turn!
+T:Mr. Alexander Cunningham's Strathspey
+C:
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C|
+L:1/8
+K:D
+"Slow"D>E G/F/E/D/ B,<ETE>F | D>E (G/F/)E/D/ F<A A2 | (d3/2e/3f/3) AF BB,TB,>A, | D/D/D D/D/D TF>EF<A ::
+Td>f (g/f/)e/d/ Tceef | Td>efb adf(b | a)dAF BB,TB,>A, | D/D/D D/D/D TF>EF<A |
+Td>f {/g}fe/d/ Tceef | Td>efb afge | "express."fdAF BB,EC | D/D/D TF>A {/c}d>DF<A |]
+
+
+
+X:621
+T:Miss Drummond of Perth
+R:Strathspey
+B:The Athole Collection
+M:C|
+L:1/8
+K:A Minor
+a|AAe>d ~B>d e2|d<gB<g d<gB<G|Aae>d ~B<d e>a|g>eg>B A2 A>a|
+Aae>d ~B>d e2|d<g B>g d<g B>G|Aae>d ~B>de>a|g>eg>B A2A||
+^g|a2 e>a c<a e>^f|~g2 d>g B>g d>g|a2 e>a c>ae>a|g>eg>B A2 A>^g|
+a2 e>a c>ae>^f|~g2 d>g B>gd>g|aae>a bbe>g|a>eg>B A/B/c/d/ e>a||
+
+
+
+X:169
+%%topmargin 3cm
+U:~=!turn!
+T:Mrs. MacInroy of Lude
+C:Joseph Lowe
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:B Aeolian
+c2 | B>bb>^a b<ff>^g | {/g}a>fe>a c<A f/e/d/c/ | B^a b<fff{/f}e>c B/B/B ~B :|
+f | dB b>Bf>B | c<Ae>c a>A f/e/d/c/ | dB b>Bff{/f}e<c B/B/B B>f |
+dB b>Bf>B | c<Ae>c a>Ae>c | (3Bcd (3cde (3def (3efg | (3fed (3edc d<BB |]
+
+
+
+X: 1
+T: Lady Storment's Strathspey
+C: Duncan MacKercher
+R: strathspey
+B: RSCDS 27-3
+M: C
+L: 1/8
+K: A
+E \
+| "A"A2 A>B "F#m"c>B A>c \
+| "Bm"f>e d>c "E7"d/c/B/A/ G>B \
+| "A"A>A A>B "F#m"c>d e>c \
+| "Bm"FB "E7"A/G/F/E/ "A"A3 ||
+E \
+| "A"A2 A>B "F#m"c>B A>c \
+| "Bm"f>e d>c "E7"d/c/B/A/ G>B \
+| "A"A,>C E>A "D"(3dfd "A"cec \
+| "E7"d/c/B/A/ G>B "A"A3 |]
+e \
+| "A"A<A a>e "F#m"c>B A>c \
+| "Bm"f>e d>c "E7"d/c/B/A/ G>B \
+| "A"A<A a>e c>d e>c \
+| "Bm"F>B "E7"A/G/F/E/ "A"A3 ||
+G \
+| "A"A<A a>e "F#m"c>B A>c \
+| "Bm"f>e d>c "E7"d/c/B/A/ G>B \
+| "A"((3Ace) ((3aec) "Bm"((3fdB) "A"((3ecA) \
+| "E7"d/c/B/A/ G>B "A"A3 |]
+
+
+
+X:6
+T:Turriff Hunt
+C:Robert Petrie
+S:Petrie's Collection of Strathspey Reels and Country Dances &c., 1790
+Z:Steve Wyrick , 3/5/04
+N:Petrie's First Collection, page 4
+L:1/8
+M:C
+R:Strathspey
+K:Gm
+G<Gd>c A<cd>g |f=e/f/ d<f c<fA>F|G<GTd>c A>cd<g|f<df>A BGG2  :|
+GgTg>f d>f Tg2|d>fc>f     B>fA<F|GgTg>f  d>fg>a|f<df>A B<GG>A |
+GgTg>f df  Tg2|d>fc>f     B>fA<F|G<GTd>c A>cd<g|f<df>A B<G G2|]
+
+
+
+X:30
+%%topmargin 3cm
+T:The Banks of Clyde
+C: Pipe tune
+N:The book shows the key signature as D (f# c#), but also shows c natural accidentals in the B part.
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:A
+a | c>AA>c A>AA>d | c>AA>e a>fe>d | c>AA>c A>AA>d | B>GG>B g>Bd>B | c>AA>c A>AA>d |
+c>AA>e (a/2g/2f/2e/2) a>e | c>AA>c c>ece | B>GG>B g>Bd>B || =c<eg>e a>eg>e | =c<eg>e daa>e |
+[1=c<eg>e a>eg>f | e>Ag>d B>Gd>B :| [2 =c<eg>a g>ef>d | e>Ag>d BG d |]
+W:From Ross's Collection
+
+
+
+X:119
+%%topmargin 3cm
+U:~=!turn!
+T:Mr. Robertson of Lude
+C:Neil Gow
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:D
+B | A<D (B/2A/2G/2F/2) A<D{/c}d>B | A<D (B/2A/2G/2F/2) TE2 E>B | A<D (B/2A/2G/2F/2) A<D Tf>e |
+{/c}dF {FE}D2 D :: g | f<ad<f e<cd<B | A<Fd<F E2 E<g |
+f<ad<f e>c{/d}d>B | AFdF D2 D :: F | A,>D (G/2F/2E/2D/2) A>D (G/2F/2E/2D/2) | A>d (B/2A/2G/2F/2) E2 E>F |
+A,>D (G/2F/2E/2D/2) A>D (G/2F/2E/2D/2) | A<F {/c}d<F {FE}D2 D ::\ g | (f<d)A>d e>cA>F | {/F}G<BA<F E2 E<g |
+[1 f<dA>d e<cA<F | Gde>c {/c}d<BA<F | A<F{/c}d<F {FE}D2 D |]
+
+
+
+X:1
+T:The Bridge of Anas
+R:strathspey
+C:traditional
+O:18th century Scottish
+B:Bremner's Collections,1757
+N:melodic codes 1327b 427bL2 (1327 4272)
+Z:Paul Stewart Cranford (P.S.C.), <http://www.cranfordpub.com>
+Q:266
+L:1/8
+M:C|
+K:Ddor
+A|D/D/D F>D E2 c2|GFED CDEC|D/D/D F>D E2 d2|c>Ac>E D/D/D D:|
+A|d>edA d/d/d f2|Te>dce cdec|d>edA d/d/d f2|Te>dce d/d/d d2|
+d>edA d/d/d f2|Te>dce cdec|d>ec>d A>cG>A|F>GEd D/D/D D|]
+
+
+
+X:191
+T:Stirling Castle
+O:scotland
+R:Strathspey
+M:4/4
+K:D
+D2F>A D>A F>A|A,2 C>E A,>E C>E|\
+D2F>A D>A F>A |1\
+(3Bcd (3efg (3fed (3cBA :|2 \
+(3Bcd (3efg f<d d||
+A|\
+d2 f>d g>e f>d|B2 c>d (3efd (3cBA|\
+d2 f>d g>e f>d|(3Bcd (3efg f<d d>A|
+d<d f>d g>e f>d|B2 c>d (3efd (3cBA|\
+(3fga (3gfe (3dcB (3AGF|\
+(3GAB (3ABc (3dAG (3FGE|]
+
+
+
+X:069
+U:t=!tenuto!
+%%topmargin 3cm
+T:The Falls of Divach
+C:Jeanie Scott Skinner
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:D
+(utA>u.D) F>D (A<D) D2 | E>A,C>A, (E<A,) A,2 | (utA>u.D) F>D (A<D) D2 | (E<A,) A,>C D2-D :|
+!f!g | f<a d>a f<a d>d | c<eA>e c<eA>g | f<a d>a f<a d>d | e<A A>c {/c}d2-d>g |
+!ff!f<ad>a f<a d>d | c<eA>e c<eA>c | (3d!crescendo(!ef (3efg (3fga (3g!crescendo)!fe | (3dcB (3ABc {/c}d2 d |]
+
+
+
+X:121
+T:Mrs. MacInroy of Lude
+R:Strathspey
+C:Joseph Lowe
+S:MacDonald - Skye Collection
+N:pg.61
+M:C
+L:1/8
+K:B Minor
+c2|B>bb>^a b<f f>^g|a>fe>a c<A f/e/d/c/|B^f b<fffe>c B/B/B ~B:|
+f|dB b>bf>B|c<A e>c a>A f/e/d/c/|dB b>B ff e<c B/B/B B>f|
+dB b>Bf>B|c<A e>c a>Ae>c|(3Bcd (3cde (3def (3efg|(3fed (3edc d<BB||
+
+
+
+X:9881
+T:Lord Moira's Welcome To Scotland. HSJJ.185
+M:4/4
+L:1/8
+Q:120
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Strathspey
+O:England
+A:Lancashire
+H:1823
+Z:vmp.Chris Partington
+K:G
+G<GG<G BG FD|G<GG<G Bgf>ag4:|!
+|b>ga>gf2d2|e<eg>e d>cBG|g<gb>g a>gfd|eg f/g/a/f/g2ga/b/|!
+c'>ab>g a>geg|d>Bg>B c/B/A/G/ A>B|G<GG<G c<ee2|dg f/g/a/f/g2 |]
+
+
+
+X:1
+T:Duke Of Gordon
+M:4/4
+L:1/8
+R:strathspey
+F:http://www.thesession.org/tunes/display.php/2814 2008-05-06 22:37:13 UT
+K:D
+F>E | D<A, B,>A, D>B, A,>F | G<E   F>D B,2 F>E \
+    | D<A, B,>A, D>B, A,>B | A>F (3EFE D2     :|
+B>c | d<A  B>F   A>F  D>F  | G<E   F>D B,2 B>c \
+    | d<A  B>F   A>F  D>F  | G<E   B>c d2     ||
+B>c | d<A  B>F   A>F  D>F  | G<E   F>D B,2 F>E \
+    | D<A, B,>A, D>B, A,>B | A>F (3EFE D2     |]
+
+
+
+X:107
+T:Ca' the Stirks
+R:Strathspey
+B:The Athole Collection
+M:C|
+L:1/8
+K:A Minor
+a|A/A/A B>A B<d e2|d>gB>g a>G E2|D<G B>G A>GB>G|D/D/D E>G B>AA:|
+|:g|a>b a<g b>a a2|g>ab>a g>ed>e|g>age d>e g2|e>gd>g B>AA:|
+
+
+
+X:704
+T:Mrs. Gordon of Aberdour
+R:Strathspey
+B:The Athole Collection
+M:C
+L:1/8
+K:G
+B|G>Bd>B e<A A>B|G/G/G G>B d>gd>B|c>aB>g a<A A>B|
+G>gb>a ~g2g:|
+|:a|b/a/g/f/ g>d e<a a>g|b/a/g/f/ g>d e>gd>B|c>aB>g a<A A>B|
+G>gb>a ~g2g:|
+
+
+
+X: 1
+T:Earl Moira's WelcomeTo Scotland. JMT070
+M:4/4
+L:1/8
+Q:130
+S:J.Moore,Tyneside,1841.(49)
+R:Strathspey
+O:England
+A:Northumbria
+Z:C.G.P
+K:F
+C|:F<FF<F Ac~c2|B>GA>F E/F/G/F/ EC|F>FF>F Ac~c2|d>feg f/g/a/g/ fa:|!
+|:f>gaf gfec|d>e {de}fd c/d/c/B/ AF|f>gaf gfec|d>f e/f/g/e/ f2-(3fga|!
+bgaf gfdf|d/c/B/A/ fA B/A/G/F/ GA|F<FF>A Bd~d2-|c>fe>g f/g/a/g/ fa:|!
+|:AFcF d/c/B/A/ Bf|AFcF GABd|AFcF d/c/B/A/ cf|d>fe>g f/g/a/g/ fa:|!
+|:fafa eg c2|d>efd c/d/c/B/ AF|f/g/a f/g/a e/f/g c2|d>fe>gf3f|!
+dbca BgAf|"*"A/B/c/B/ AF E/F/G/F/ ED|(3FGA (3GAB (3ABc (3Bcd|c>fe>g f/g/
+a/g/ fa:|]
+
+
+
+X:12
+T:The Free Trade
+C:James Hill
+Z:robin.beech@mcgill.ca
+B:The Fiddle Music of James Hill
+N:Originally in A
+R:strathspey
+M:4/4
+L:1/8
+K:G
+(3DEF | GFAG FDEF | GABc dGBd | eAce dGBd | (3Aed (3cBA (3GFE (3DEF | 
+GFAG FDEF | GABc dGBd | eAce dgBd | AD F/G/A/F/ G2 ::
+G2 | Bcde e/d/c/B/ dg | GAFG EcDB | CAAB cBed | (3Acd (3cBA (3GFE (3DEC |
+(3B,DG (3CEG (3DFA (3GBd | (3Ace (3GBd (3FAc (3DFA | GgdB (3Aed (3cBA | G/F/E/D/ EF G2 :|
+
+
+
+X: 2
+P: The Top o' the Grampians
+C: Colin MacPherson
+R: strathspey
+B: RSCDS __-6 (Harp & Claymore)
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+B \
+| "G"d>e d>B "Em"A<G G>B | "Am"A<e e>d "D7"e>g e<d \
+| "G"d>e d>B "Em"A<G G>E | "D7"D>B, D>E "G"G2 G ||
+B \
+| "G"d>e d>B "Em"A<G G>B | "Am"A<e e>d "D7"e>g e<d \
+| "Em"B>e e>d "Bm"B>d d>B | "Am"A>G "D7"A<B "G"G2 G |]
+d \
+| "G"g>b ag "C"e<g "G"d2 | "Am"ea ag "D7"e<a a>b \
+| "G"g>b ag "C"e<g "G"d2 | "D7"g<g b>a "G"g2 g ||
+d \
+| "G"g>b ag "C"e<g "G"d2 | "Am"e<a ag "D7"e<a a>b \
+| "G"b>g "D"a>f "Em"(3gfe "Bm"d>B | "Am"c>A "D7"d>B "G"G2 G |]
+
+
+
+X:180
+%%topmargin 3cm
+U:~=!turn!
+T:Lady Gwyder
+C:John Bowie
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:D
+F | D>AF>A DdTd>B | ADTF>D EB,B,E | D>AF>A DgTf>e | d>BA>F D/D/D D:|
+f | (d/e/f/g/) ad fdad | (A/B/c/d/) eA cAeA | (d/e/f/g/) ad fdad | Agf>e fddf |
+(d/e/f/g/) ad fdad | (A/B/c/d/) eA cAec | d>fe>g f>de<f | d>BA>F D/D/D D |]
+
+
+
+X: 1
+P: Miss L. Montgomery of Skelmorlie's Str.
+O:Aird's 4th Coll.
+R:strathspey
+B:RSCDS Jubilee
+Z:1997 by John Chambers <jc:trillian.mit.edu>
+M:C
+L:1/8
+K:D
+F \
+| "D"D2 D>d "Bm"dc BA | "G"BA Bd "A7"eE EF \
+| "D"D2 D>d "Bm"dc BA | "G"B/c/d "A7"e/f/g "D"fd d :|
+f/g/ \
+| "D"a>A a>f a>d "G"b>a | "D"a>d a>f "A7"fe ef/g/ \
+| "D"a>d a>f a<d "G"b>a | "D"A>d "A7"ed/e/ "D"fd d|]
+f/g/ \
+| "D"a>A a>f a>d "G"b>a | "D"a>d a>f "A7"fe ef \
+| "D"D2 Dd "Bm"dc BA | "G"B/c/d "A7"e/f/g "D"fd d |]
+% strathspey/Craigendoran.abc
+
+
+
+X:2925
+T:the Kirrie Kebbuck
+C:J. Scott Skinner
+M:4/4
+O:Scotland
+R:Strathspey
+Z:Richard Robinson 
+%%TUNEURL: http://www.leeds.ac.uk/music/Info/RRTuneBk/gettune/0000099e.html
+%%ID:0000099e
+K:D
+B|\
+A<F F>A B<G G>B|c<A e>c (3dfe (3dcB|\
+A<F F>A B<G G>B|(3Agf (3edc (d2 d)::
+g|\
+f>g a>f (3dag (3fed|g>a b>g (3eba (3gfe\
+|1 f>g a>f (3dag (3fed|
+c/B/A g/f/e (d2 d3/2)\
+:|2(3fed (3edc d>B A>G|(3FED E>C D3|]
+
+
+
+X: 1
+P: Kincorth Brig
+C: Adam Allardyce
+R: strathspey
+B: MMM2 #__
+Z: 2005 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: A
+d \
+| "A"c>B A>G "D"F>A "A"A,>C | "Bm"D>F B>A "E7"G<E E>d \
+| "A"c>B A>G "D"F>A "A"A,>c | "Bm"(3def "E7"Bcd "A"c<A A>d |
+| "A"c>B A>G "D"F>A "A"A,>C | "Bm"D>F B>A "E7"G<E E>c \
+| "D"(3def "E7"(3Bcd "A"(3cde (3ABc | "E7"(3efe (3dcB "A"c<A A |]
+f \
+| "A"e>A c>A e>A c>d | "A"e>A B>c "Bm"Bf \
+| "A"e>A c>A "D"d>f "A"e>c | "Bm"(3def "E7"Bcd "A"c<A A>f |
+| "A"e>A c>A e>A c>d | "A"e>A B>c "Bm"Bc \
+| "Bm"(3def "E7"(3Bcd "A"(3cde "F#m"(3ABc | "E7"(3efe (3dcB "A"c<A A |]
+
+
+
+X: 1099
+T:Birks of Invermay, The
+S:Toby A. Rider, Fiddle-L, 8/97
+R:Strathspey
+S:Rogart
+O:Scotland
+M:4/4
+K:G
+B>c|\
+d3e d>B A>G | A>G A>B E3G |\
+D>E D>B, D2G>D | B,2D>E D2 G>B |\
+d2ef/g/ dG | c>B AG E2B>A |\
+G>E D>B, D2 G>A | B2A>G G2||\
+D>C |\
+B,3D E>D EG Ad>ed>B c>B Ad c>B A2 d>c |\
+B>d e>f g3e | d>B A>G E2 B>A |\
+G>E D>B, D2 G>A | B2A>G G2 ||**
+
+
+
+X:859
+T:Sportsman's Haunt, The
+R:Strathspey
+B:The Athole Collection
+M:C|
+L:1/8
+K:B Minor
+F|:Dd B<F F>B|A<E E>D C<A,A,<F|Dd B<F F>B|
+A>FE>C B,/B,/B, Fz:|
+|:e/d/c/B/ f>B d>f b<f|a>f e<a c<A a>c|1 e/d/c/B/ f>B d>fb>f|a>fe>c B/B/B f2:|2
+e/d/c/B/ f<d e<cdC B,/B,/B, F2||
+
+
+
+X: 1
+T: 'S ann an Ile
+T: It is an Island
+T: Marquis of Huntly's Strathspey
+R: strathspey
+N: handwritten MS by Barbara McOwen dated Nov 1995
+Z: 2006 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+A \
+| "D"d<d f>d "A7"g>e "D"f<d | "G"B<e e>d "A7"c<A A<c \
+| "D"d<d f>d "A7"g>e "D"f<d | "G"B>e "A7"c<A "D"d2 d :|
+|: z \
+| "A"A>A A>A A/A/A A>A | "A7"a>f e>f "G"d<B B2 \
+| "A"A>A A>A A/A/A A>A | "A7"a>f e>f "D"d2 d :|
+
+
+
+X:12
+T:Devil in the Kitchen
+C:trad., as played by Buddy MacMaster
+M:C
+R:Strathspey
+A:Cape Breton
+N:Transcribed by Kate Dunlay (dungreen@total.net)
+L:1/16
+Q:1/4=160
+K:A mixolydian
+a2|:e3A AAAA e3Ag3d|e3A AAAA g4 f-a3|e3A AAAA e3Ag3d|B3G (dcB2) g4 [1fa3:|
+[2f3g||a3A AAAA e3A AAAA|a3A AAAA g4 f-g3|a3A AAAA AAAA c3A|B3G (dcB2) g4 f3g|
+a3A AAAA e3A AAAA|a3A AAAA g4 f-g3|(agf2) g3-e f3dg3d|B3G (dcB2) g4 fa3||
+E3A, A,A,A,A, E3DG3D|E3A, A,A,A,A, G4 F3-A|E3A, A,A,A,A, E3DG3D|B,3G, (DCB,2) G4 FA3|
+E3A, A,A,A,A, E3DG3D|E3A, A,A,A,A, G4 F3-A|E3A, A,A,A,A, A,A,A,A, C3A,|B,3G, (DCB,2) G4 F3A||
+a3A AAAA e3Ac3A|a3A AAAA g4 f-g3|a3A AAAA AAAA c3A|B3G (dcB2) g4 f3g|
+a3A AAAA e3A AAAA|a3A AAAA g4 f-g3|(agf2) g3-e f3dg3d|B3G (dcB2) g4 fa3|]
+% April 1999 set of the month
+
+
+
+X:3
+T:Bog an Lochain
+R:strathspey
+Z:id:hn-strathspey-3
+M:C|
+K:Edor
+E2E2 E>FB>F|E2E2 F<D (3BAF|E2E2 E>FB>A|1 B<dA>d F<D (3BAF:|2 B<dA>d FA||
+|:B2B>A B<EE>A|B2B>A FA|B2B>A d>ef>e|1 (3dBA d>A FA:|2 (3dBA d>A Ff||
+e2e2 e>fb>f|e2e2 d>fa>f|e2e2 e>fb>f|g<eb>e (3def a>f|
+g<eb>e g<eb>e|g<eb>e (3def a>f|g<ee>f d>ef>e|(3dBA d>A FA||
+|:B2B>A B<EE>A|B2B>A FA|B2B>A d>ef>e|1 (3dBA d>A FA:|2 (3dBA d>A FF||
+
+
+
+X:184
+%%topmargin 3cm
+U:~=!turn!
+T:Lord Lyndoch
+C:P. Agnew
+O:Scotland
+B:Keith Norman MacDonald : "The Skye collection of the best reels & strathspeys extant" : 1887
+Z:Ralph Palmer
+R:Strathspey
+M:C
+L:1/8
+K:D
+A | d>edFD<F | FA Fc | d>edFD>F | E>DE<F D/D/D D:|
+g | (f/e/d) (a>d) f>da>d | (c/B/A) (e>A) c>de>g | (f/e/d) (a>d) f>da>d | gg fddg |
+(f/e/d) (a>d) f>da>d | (e/B/A) (eA) c>de<A | B<dc<e d<fe<g| fg fdd |]
+
+
+
+X:513
+T:Ma\`iri Bh\`oidheach
+R:Strathspey
+C:James Stewart-Robertson
+B:The Athole Collection
+M:C
+L:1/8
+K:F
+B|A/B/c c>A B<G G>B|A>F A/B/c ~f2 f>g|a/g/f/e/ f>F A<G G>A|
+F<C D>E ~F2F:|
+e|~f>cf>g a/g/f/e/ d>e|~f>cf>a g2 g>a|~f>cf>g a/g/f/e/ d>e|
+~f>d c<A F2 F>e|~f>cf>g a/g/f/e/ d>e|f>cf>a g2 f>g|a/g/f/e/ f>F A<G G>A|
+F>CD>E F2F||
+
+
+

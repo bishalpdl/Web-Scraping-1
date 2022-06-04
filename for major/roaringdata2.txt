@@ -1,0 +1,421 @@
+
+X: 1
+T:8 - Poma Doro
+C:trad
+O:Belgium
+S:Manuscrit dit du Cinquantenaire
+S:Receuil de Contredances Angloises - page 6
+Z:ABC transcription Olivier VIENNE troubadourwallon@gmail.com
+M:6/8
+L:1/8
+K:Gmaj
+zBc|d>ed g2d|"+"e2d g2G|A>Bc B>cA|"+"B2A D>Bc|
+d>ed g2d|e2d g2G|A>Bc B2A|G3:|
+|:ga|b>ag g>fe|a2A A2a|gaf e2d|"+"d2^c A2g|
+f>ga A2g|f>ga A2g|f>ga A2"+"^c|d2D zd=c|
+BAG d2=F|"+"FE2 C>ed|c>BA d2G|"+"G2F D2c|
+B>cd D2c|B>cd D2c|B>cd D2F|G3:|]
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: segah--sarki--murekkepnimsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepnimsofyan = 12/16
+M: 12/16
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/SeymourShlien/makams/makamu6.abc	 2022-05-03 151014 UT
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+G6 B4 c2  | d4 B2 d2 c2 A2  | G12  | G8-G2 z2  | \
+w:  ARANAÄME  |   |   |   |
+g6 g2 e2 g2  | f2 d2 f2 e2 c2 e2  |
+w:   |   |
+d12  | d8-d2 z2  | g6 g2 ^3/4f2 e2  | ^1/4f2 e2 d2 c2 B2 d2  | c12  | \
+w:   |   |   |   |   |
+c8-c2 B2  | d8-d2 B2  |
+w:   |   |
+c4 B2 B2 ^A2 {d}c B  | B12  | B8-B2 z2  | \
+w:   |   |   |
+G6 B4 c2  | d4 c2 d2 c2 {d}c B  | B12  | \
+w:  DÃ¼Å tÃ¼   |  en *  gin *  *  le  |  re   |
+B8-B2 z2  |
+w:   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d6 d2 B2 d2  | \
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+c2 A2 c2 B2 A2 G2  | G6 B4 c2  |
+w:   |  DÃ¼Å tÃ¼   |
+d4 c2 d2 c2 {d}c B  | B12  | B8-B2 z2  | \
+w:  en *  gin *  *  le  |  re   |   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d12  |
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n    |
+d2 .G2 .B2 .d6  | B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  SAZ  |  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c4 B2  |
+w:   |  sev  |  da *  lÄ±  yÃ¼  |
+d12  | d2 .G2 .B2 .d6  | B4 d2 d4 c2  | \
+w:  zÃ¼n    |  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  |
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c B c2 d B  | B12  | B8-B2 z2  | G6 B4 c2  | \
+w:  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |   |  Ner de   |
+d6 e4 f2  | g12  | g6 z4 g2  |
+w:  meh tÃ¢  |  bÄ±   |  *  ha  |
+g8-g2 f2  | f4 e2 e4 f2  | g6 g2 f2 e2  | \
+w:  zin   |  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+d2 e2 d2 c2 B2 A2  | G6 B4 c2  | d6 e4 f2  |
+w:   |  Ner de   |  meh tÃ¢  |
+g12  | g6 z4 a2  | a8-a2 g2  | f4 e2 {f}e d e2 f {c}d  | d12  | \
+w:  bÄ±   |  *  ha  |  zin   |  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |  zÃ¼n    |
+d2 G2 B2 d6  | B4 d2 d4 c2  |
+w:  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  | \
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c4 B2  | d12  | d2 .G2 .B2 .d6  |
+w:  da *  lÄ±  yÃ¼  |  zÃ¼n    |  SAZ  |
+B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c B c2 d B  |
+w:   |  sev  |  da *  lÄ±  *  *  yÃ¼  |
+B12  | B8-B2 z2  | |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: segah--sarki--murekkepnimsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepnimsofyan = 12/16
+M: 12/16
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/ifdo.ca/~seymour/runabc/makams/makamu6.abc	 2022-05-03 151015 UT
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+G6 B4 c2  | d4 B2 d2 c2 A2  | G12  | G8-G2 z2  | \
+w:  ARANAÄME  |   |   |   |
+g6 g2 e2 g2  | f2 d2 f2 e2 c2 e2  |
+w:   |   |
+d12  | d8-d2 z2  | g6 g2 ^3/4f2 e2  | ^1/4f2 e2 d2 c2 B2 d2  | c12  | \
+w:   |   |   |   |   |
+c8-c2 B2  | d8-d2 B2  |
+w:   |   |
+c4 B2 B2 ^A2 {d}c B  | B12  | B8-B2 z2  | \
+w:   |   |   |
+G6 B4 c2  | d4 c2 d2 c2 {d}c B  | B12  | \
+w:  DÃ¼Å tÃ¼   |  en *  gin *  *  le  |  re   |
+B8-B2 z2  |
+w:   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d6 d2 B2 d2  | \
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+c2 A2 c2 B2 A2 G2  | G6 B4 c2  |
+w:   |  DÃ¼Å tÃ¼   |
+d4 c2 d2 c2 {d}c B  | B12  | B8-B2 z2  | \
+w:  en *  gin *  *  le  |  re   |   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d12  |
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n    |
+d2 .G2 .B2 .d6  | B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  SAZ  |  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c4 B2  |
+w:   |  sev  |  da *  lÄ±  yÃ¼  |
+d12  | d2 .G2 .B2 .d6  | B4 d2 d4 c2  | \
+w:  zÃ¼n    |  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  |
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c B c2 d B  | B12  | B8-B2 z2  | G6 B4 c2  | \
+w:  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |   |  Ner de   |
+d6 e4 f2  | g12  | g6 z4 g2  |
+w:  meh tÃ¢  |  bÄ±   |  *  ha  |
+g8-g2 f2  | f4 e2 e4 f2  | g6 g2 f2 e2  | \
+w:  zin   |  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+d2 e2 d2 c2 B2 A2  | G6 B4 c2  | d6 e4 f2  |
+w:   |  Ner de   |  meh tÃ¢  |
+g12  | g6 z4 a2  | a8-a2 g2  | f4 e2 {f}e d e2 f {c}d  | d12  | \
+w:  bÄ±   |  *  ha  |  zin   |  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |  zÃ¼n    |
+d2 G2 B2 d6  | B4 d2 d4 c2  |
+w:  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  | \
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c4 B2  | d12  | d2 .G2 .B2 .d6  |
+w:  da *  lÄ±  yÃ¼  |  zÃ¼n    |  SAZ  |
+B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c B c2 d B  |
+w:   |  sev  |  da *  lÄ±  *  *  yÃ¼  |
+B12  | B8-B2 z2  | |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: segah--sarki--murekkepnimsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepnimsofyan = 12/16
+M: 12/16
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/ifdo.pugmarks.com/~seymour/makams/makamu6.abc	 2022-05-03 151021 UT
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+G6 B4 c2  | d4 B2 d2 c2 A2  | G12  | G8-G2 z2  | \
+w:  ARANAÄME  |   |   |   |
+g6 g2 e2 g2  | f2 d2 f2 e2 c2 e2  |
+w:   |   |
+d12  | d8-d2 z2  | g6 g2 ^3/4f2 e2  | ^1/4f2 e2 d2 c2 B2 d2  | c12  | \
+w:   |   |   |   |   |
+c8-c2 B2  | d8-d2 B2  |
+w:   |   |
+c4 B2 B2 ^A2 {d}c B  | B12  | B8-B2 z2  | \
+w:   |   |   |
+G6 B4 c2  | d4 c2 d2 c2 {d}c B  | B12  | \
+w:  DÃ¼Å tÃ¼   |  en *  gin *  *  le  |  re   |
+B8-B2 z2  |
+w:   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d6 d2 B2 d2  | \
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+c2 A2 c2 B2 A2 G2  | G6 B4 c2  |
+w:   |  DÃ¼Å tÃ¼   |
+d4 c2 d2 c2 {d}c B  | B12  | B8-B2 z2  | \
+w:  en *  gin *  *  le  |  re   |   |
+g8-g2 f2  | f4 e2 e d e2 f {c}d  | d12  |
+w:  bir   |  in *  ce  *  *  hÃ¼  |  zÃ¼n    |
+d2 .G2 .B2 .d6  | B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  SAZ  |  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c4 B2  |
+w:   |  sev  |  da *  lÄ±  yÃ¼  |
+d12  | d2 .G2 .B2 .d6  | B4 d2 d4 c2  | \
+w:  zÃ¼n    |  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  |
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c B c2 d B  | B12  | B8-B2 z2  | G6 B4 c2  | \
+w:  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |   |  Ner de   |
+d6 e4 f2  | g12  | g6 z4 g2  |
+w:  meh tÃ¢  |  bÄ±   |  *  ha  |
+g8-g2 f2  | f4 e2 e4 f2  | g6 g2 f2 e2  | \
+w:  zin   |  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+d2 e2 d2 c2 B2 A2  | G6 B4 c2  | d6 e4 f2  |
+w:   |  Ner de   |  meh tÃ¢  |
+g12  | g6 z4 a2  | a8-a2 g2  | f4 e2 {f}e d e2 f {c}d  | d12  | \
+w:  bÄ±   |  *  ha  |  zin   |  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |  zÃ¼n    |
+d2 G2 B2 d6  | B4 d2 d4 c2  |
+w:  SAZ  |  Sol *  du   |
+c4 B2 B2 ^A2 B2  | c12  | c8-c2 B2  | e8-e2 d2  | \
+w:  gÃ¼l *  ler  *  gi  |  bi   |   |  sev  |
+d4 c2 c4 B2  | d12  | d2 .G2 .B2 .d6  |
+w:  da *  lÄ±  yÃ¼  |  zÃ¼n    |  SAZ  |
+B4 d2 d4 c2  | c4 B2 B2 ^A2 B2  | c12  | \
+w:  Sol *  du   |  gÃ¼l *  ler  *  gi  |  bi   |
+c8-c2 B2  | e8-e2 d2  | d4 c2 c B c2 d B  |
+w:   |  sev  |  da *  lÄ±  *  *  yÃ¼  |
+B12  | B8-B2 z2  | |
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼ Enginlere Bir Ä°nce HÃ¼zÃ¼n
+C: Refik Fersan
+O: Turkey
+F: https://github.com/MTG/SymbTr/releases/tag/v2.2
+N: Also see http://ifdo.ca/~seymour/runabc/makams/index.html
+N: segah--sarki--murekkepsofyan--dustu_enginlere--refik_fersan
+N: makam= segah
+N: form= sarki
+N: usul= murekkepsofyan	MÃ¼rekkep Sofyan	12	8
+M: 12/8
+L: 1/16
+K: C _1/4B _1/4e ^f
+Q: 1/4=180
+%%MIDI tuningsystem comma53
+ [M: 12/8] [L: 1/16]G6B4c2 d4 B2d2 c2A2  | \
+w:  ARANAÄME  |
+G22z2  | g6g2 e2g2 f2d2 f2e2 c2e2  | \
+w:   |   |
+d22z2  |
+w:   |
+g6g2 ^3/4f2e2 ^1/4f2e2 d2c2 B2d2  | \
+w:   |
+c22B2  | d8-d2B2 c4 B2B2 ^A2{d}cB  |
+w:   |   |
+B22z2  | G6B4c2 d4 c2d2 c2{d}cB  | B22z2  | \
+w:   |  DÃ¼Å tÃ¼  *  en *  gin *  *  le  |  re   |
+g8-g2f2 f4 e2ed e2f{c}d  |
+w:  bir  *  in *  ce  *  *  hÃ¼  |
+d6d2 B2d2 c2A2 c2B2 A2G2  | G6B4c2 d4 c2d2 c2{d}cB  | \
+w:  zÃ¼n   SAZ  |  DÃ¼Å tÃ¼  *  en *  gin *  *  le  |
+B22z2  |
+w:  re   |
+g8-g2f2 f4 e2ed e2f{c}d  | d12 d2.G2 .B2.d6  | \
+w:  bir  *  in *  ce  *  *  hÃ¼  |  zÃ¼n   SAZ  |
+B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2c4B2  | d12 d2.G2 .B2.d6  | \
+w:  bi   |  sev *  da *  lÄ±  yÃ¼  |  zÃ¼n   SAZ  |
+B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2cB c2dB  | B22z2  | \
+w:  bi   |  sev *  da *  lÄ±  *  *  yÃ¼  |  zÃ¼n    |
+G6B4c2 d6e4f2  | g18z4g2  |
+w:  Ner de  *  meh tÃ¢  |  bÄ±  ha  |
+g8-g2f2 f4 e2e4f2  | g6g2 f2e2 d2e2 d2c2 B2A2  | \
+w:  zin  *  gÃ¶n *  lÃ¼ mÃ¼  |  zÃ¼n   SAZ  |
+G6B4c2 d6e4f2  |
+w:  Ner de  *  meh tÃ¢  |
+g18z4a2  | a8-a2g2 f4 e2{f}ed e2f{c}d  | \
+w:  bÄ±  ha  |  zin  *  gÃ¶n *  *  lÃ¼ *  *  mÃ¼  |
+d12 d2G2 B2d6  | B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  zÃ¼n   SAZ  |  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2c4B2  | d12 d2.G2 .B2.d6  | \
+w:  bi   |  sev *  da *  lÄ±  yÃ¼  |  zÃ¼n   SAZ  |
+B4 d2d4c2 c4 B2B2 ^A2B2  |
+w:  Sol *  du  *  gÃ¼l *  ler  *  gi  |
+c22B2  | e8-e2d2 d4 c2cB c2dB  | B22z2  | |
+
+
+
+
+
+X: 1
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Campbell &amp; Campbell - The Kilberry Book of Ceol Meadhonach (1908, No. 13, p. 7)
+F:http://tunearch.org/wiki/Land_of_the_Trees_(The)	 2022-05-03 151028 UT
+K:D
+e2|A2A2d2|B2A2 Bd|e2e2f2|e2e2 ef|
+A2A2 GA|B2d2 de|f2 ed B2|A4:|
+|:Bd|e2 f&gt;A Bd|B2A2 Bd|e2 fa f2 e/f/|e2d2 f&gt;A|
+A2 GA BA|B2d2 de|f2 ed B2|A4:|]
+T:Land of the Trees, The
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Parlane &amp; Paisley - Choisir-chiuil/The Gaelic Choir
+K:Ab
+"Verse"
+AB|c2e2f2|c2B2 cB|A2E2F2|C2E2 AG|
+F2D2C2|E2F2 AB|cB A2 B2|c4||
+"Chorus"
+AG|F2E2c2|c2B2 ce|f2e2c2|B2c2AG|
+F2D2C2|E2A2B2|cB A2G|F4||
+
+
+
+
+
+X: 1
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Campbell &amp; Campbell - The Kilberry Book of Ceol Meadhonach (1908, No. 13, p. 7)
+F:http://tunearch.org/wiki/Land_of_the_Trees_(The)	 2022-05-03 151030 UT
+K:D
+e2|A2A2d2|B2A2 Bd|e2e2f2|e2e2 ef|
+A2A2 GA|B2d2 de|f2 ed B2|A4:|
+|:Bd|e2 f&gt;A Bd|B2A2 Bd|e2 fa f2 e/f/|e2d2 f&gt;A|
+A2 GA BA|B2d2 de|f2 ed B2|A4:|]
+T:Land of the Trees, The
+T:DÃ¹thaich nan craobh
+M:3/4
+L:1/8
+B:Parlane &amp; Paisley - Choisir-chiuil/The Gaelic Choir
+K:Ab
+"Verse"
+AB|c2e2f2|c2B2 cB|A2E2F2|C2E2 AG|
+F2D2C2|E2F2 AB|cB A2 B2|c4||
+"Chorus"
+AG|F2E2c2|c2B2 ce|f2e2c2|B2c2AG|
+F2D2C2|E2A2B2|cB A2G|F4||
+
+
+
+
+
+X: 1
+T: DÃ¼ÅtÃ¼m Bir Yol SevdasÄ±na
+C: Ali RÄ±zÃ¢ Avni TÄ±naz
+O: Turkey
+F: http://compmusic.upf.edu/node/140
+N: acemasiran--sarki--aksak--dustum_bir--ali_riza_avni_tinaz
+N: makam= acemasiran
+N: form= sarki
+N: usul= aksak = 9/8
+M: 9/8
+L: 1/16
+F:http://roaringjelly.org/~jc/music/abc/mirror/SeymourShlien/makams/makamu6.abc	 2022-05-03 151035 UT
+K: C _B
+Q: 1/4=200
+%%MIDI tuningsystem comma53
+f6e2 d2c2 d2e2 f2 | g2 e2f6 c2d2 e2f4z2 f3e d2c2 B2A2 G2 |
+w:   |   |
+A2 F2F3GA2 B2c2 d2e2  | f2ga b4 b2a2 g4 ^f2 | \
+w:   |   |
+g2 a2g6 c2d2 e2f4z2 efe2 ded2 cdc2 B2 |
+w:   |
+A2 G2c3BA2 G2F2 E2F6 f6e2 d2c2 d2 | \
+w:   |
+e2 f2g2 e2f6 c2d2  |
+w:   |
+e2f4z2 f3e d2c2 B2 | A2 G2A2 F2F3GA2 B2c2  | \
+w:   |   |
+d2e2 f2ga b4 b2a2 g4 ^f2g2 a2g6 c2d2  |
+w:   |
+e2f4z2 efe2 ded2 cd | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F6 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 f4 e4 f6g3ba2 g2f2  |
+w:   |   |
+e2f4z2 e4 f4 d4 a6g3ba2 g2f2  | e2f4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 c4 d4 c2 |
+w:   |
+_e2 d2c2 B2d4c2 B2A2  | ^G2A4z2 d4 c2B2 d2 | \
+w:   |   |
+c2 B2A2 G2c3BA2 G2F2  |
+w:   |
+E2F4z2 ^g4 a4 a2 | ^g2 a6g3ba2 g2f2  | \
+w:   |   |
+^g2a4z2 =g4 g4 g4 _7/8a2g2 f2c'3_1/4ba2 g2f2  |
+w:   |
+e2f4z2 c4 d4 c2 | _e2 d2c2 B2d4c2 B2A2  | \
+w:   |   |
+^G2A4z2 d4 c2B2 d2 |
+w:   |
+c2 B2A2 G2c3BA2 G2F2  | E2F4z2 c4 d4 c2 | \
+w:   |   |
+_e2 d2c2 B2d4c2 B2A2  |
+w:   |
+^G2A4z2 d4 c2B2 d2 | c2 B2A2 G2c3BA2 G2F2  | \
+w:   |   |
+E2F4z2 |
+w:   |
+
+
+
+

@@ -1,0 +1,893 @@
+X: 595
+T: Good Health to my Brown Maid.
+T: slainte do,m .cailin donn.
+R:air
+N:"Very slow."
+B:O'Neill's 595
+Z:Transcribed by John Walsh (walsh@math.ubc.ca)
+M:C
+L:1/8
+%Q:50
+K:F
+D2|F2 (G>B) d2 (c>B)|A2 DME {DE}G2 z A|MG>F GA f2 ec|(d>{ed}c)Ac d2 z D|
+F2 (G>B) f2 e>c|d>{ed}cAc d2 z A|c>dc>B d2 cB|A>(D ME)(D/E/) F2 z||
+(A/B/)|c>dcB d2 cB|A>D E2 "~"HF2 ((3cde)|(f>{gf}e)fg (fe)(dc)|(MAG)A"~#"c d2 z (A/B/)|
+cA (cd/e/) f3a|g>fed Hc2 (d/^c/d/e/)|f>edc {A}Hd2 cB|A>(D ME)(D/E/) F3||
+
+
+
+X: 1
+T:Gracelands
+R:Air
+C:Phil Cunningham
+M:C
+L:1/8
+K:G
+BA|G3 A B B,3 | D6 E2| G4 A3 B/2c/2| B G3 g2 f2|
+e3 d c3 B| d G3 c3 B| A G3 E3 G| A4 B3 A|
+G3 A B B,3 | D4 D3 E| G4 A3 B/2c/2| B G3 g2 f2|
+e3 d c3 B| A G3 B3 A|1 (G8|G6) :|2 (G8|G4)||
+| d'3 c'|b3 a g3 f|d3 c B d3| c4 B3 c| d4 d'3 c'|
+b3 a g3 f| d3 c B d3|(c8|c6) B2 A2| G3 A B B,3|
+D4 D3 E| G4 A3 B/2c/2| B G3 g2 f2| e3 d c3 B|
+A G3 B3 A|1 (G8|G4) :|2 (G8|G6) ||
+
+
+
+X:45
+T:Lullaby for Irish Pipes
+M:3/4
+L:1/8
+S:James Whiteside manuscript
+R:Air
+K:F
+"Andantino"(3dcA|G2 G2 (3AGF|G2 G2 F/2E/2F/2G/2|A2 d2 e2|f3 e (3dcA|!
+G2 G2 (3AGF|G2 G2 F/2E/2F/2G/2|A3 G A2|D4 (3dcA|!
+G2 G2 (3AGF|G2 G2 F/2E/2F/2G/2|A2 d2 e2|f3 e fg|!
+a3 g fa|g3 f de|f3 d (3dcA|G4||!
+G/2F/2G/2A/2|B4 AG|A3 G A2|D4 E2|F4 GA|!
+B4 AG|A4 (3dcA|G2 G2 (3AGF|G4 G/2F/2G/2A/2|!
+B4 AG|A4 (3dcA|G2 G2 (3AGF|G4 fg|!
+a3 g fa|g3 f de|f3 d (3dcA|c4 fg|!
+a3 g fa|g3 f de|f3 d d/2c/2A/2G/2|F4 GA|!
+B4 AG|A4 (dcA|G2 G2 (3AGF|G4||
+
+
+
+X:1
+T:Real Irish Topper, The
+M:C
+L:1/8
+R:Air
+N:Spirited
+S:Joyce ? Old Irish Folk Music
+Z:AK/Fiddler?s Companion
+K:G
+D|G>ABc d3e|=f3 e>e d3c|BABc
+d<dcA|GAGF D2 dc|
+B<BAG A2 GF|DGG>A
+BABc|def<d dc A>F|G4G3||
+
+
+
+X: 202
+T:Ladies God bless them,The. CJF.202
+M:6/8
+L:1/8
+Q:90
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+Z:vmp.P J Headford 2000
+K:F
+"Vivace"(c/A/)|F>GA f>gf|(e>dc)f2c|(df).d (cA).d|\
+G3-G2(A/G/)|!
+(F>GA) (f>g)a|fddd2(e/f/)|gec Ged|c3-c2:||!
+c|(f>ef) (g>fe)|f>edc2B|(A>Bc) fcA|AG2z2G|A>GF cAc|\
+faghf2g|!
+afd cde|gf2z2f|f2ff2f|ha3{(a/g/)}(b/a/g/f/e/d/)|(c>dc) cde|gf2z2|]
+
+
+
+X:1
+T:Roslin Castle
+C:Traditional
+R:Air
+L:1/4
+M:2/2
+Q:1/2=60
+Z:Transcribed From A.Fraser by C. McGrew
+K:C minor
+E D| C2 G A| G2 F G| AG FE| D2 E D |   C2 cd| e2 dc | =Bc d=B| G2 FG|
+AG FE| D2 E F | G E D C| =B2 cd|       e d/c/ d c/=B/| cGA G/F/| E2D2| C3 ||
+G| c2 cd| e2 dc| gf ef| d2 c=B|        cG cd| fe dc| gf ef| d2 FG| 
+AG FE| D2 EF | GE DC| =B2 cd|          ed/c/ dc/=B/| cGA G/F/| E2D2| C2 |]
+
+
+
+X:19
+T:Duo de la Viergi Mario
+O:France
+A:Provence
+C:Anonyme
+R:Air
+S:Carnet du tambourinaire Ginas (1924)
+Z:Transcrit et/ou corrig par Michel BELLON - 2005-07-23
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:Bb
+V:1
+%%MIDI program 74
+f | f2d>e | f2 g>f | f4 | e2c>d | e2c>d | egfe | e4 | d2f>f | f4 | ff=ef | ^f4 | g2b>g | f3f |
+=efge | f4 | z2f2 | e3d | ce g>f | f3e | d2 d>e | f3d | f>d f>d | c4 | z2d>c | B3c | dfb>a | a2 g2- | gz e>g | f3f |
+agfe | (e2d2) | z2d>c | B3c | dfba | a2g2- | g2e>g | f3f | agec |1 d3 :|2 B>B B2 |]
+V:2
+%%MIDI program 74
+d | d2B>c | d2e>d | d4 | c2 A>B | c2 A>B | cedc | c4 | B2z2 | zFBc | dd^cd | d2c2 | B2B2 | A3A |
+GABc | A4 | z4 | zGAB | cc e>d | d3c | B2B>c | d3B | d>B d>B | F4 | z2 A>F | d3f | Bdd>f | f2e2- | e2c>e | d3d |
+fedc | (c2B2) | z2 B>F | d3f | Bddf | f2e2- | e2c>e | d3d | fecA | B3 :| B>BB2 |]
+%%footer $D   Galouvielle-MBe 2008 \nAir (France)
+
+
+
+X: 22
+T:McDermot Roe (#72)
+M:6/8
+L:1/8
+S:Carolan - Hibernian Muse 1787
+R:Air
+K:F
+c|AFF Acc|f2 F fed|e/2f/2gc dcB|Acc f2 g|
+ab/2a/2g ab/2a/2g|fdd d2 e/2f/2|gcg ga/2g/2f|ec/2d/2e f2 c|
+AFF cA/2B/2c/2A/2|FA/2B/2c/2A/2 F2 f|ecc dB/2c/2d/2B/2|
+c/2B/2A/2B/2c/2A/2 G>AG|FAf fFf|gcg afa|agf ece|fFF F3||
+GCC GCC|AF/2G/2A/2F/2 BGG|A/2B/2cc d/2e/2ff|e/2f/2gg ece|
+fc'b a/2b/2c'/2b/2a/2g/2|fcf fcf|bg/2a/2b/2g/2 fd/2e/2f/2d/2|
+Bc/2d/2g ece|f2 F fed|c2 A BAG|A/2B/2cc fg/2f/2e|f3-f2||
+%
+% Among Carolan's many distinguished friends and patrons, no one
+% was more generous and loyal than Mrs. McDermot Roe, of
+% Alderford House, County Roscommon. At the outset of his
+% professional career in 1693, it was she who equipped him
+% with a horse and an attendant harper; and it was to her
+% hospitable home he directed his feeble footsteps in his
+% declining days. Exceptionally honored in death, Carolan's
+% remains were interred near the family vault of his
+% benefactress.
+
+
+
+X: 176
+T:All Around The Maypole See How They Trott. JC.175
+M:C|
+L:1/8
+Q:160
+S:John Clare,Poet,Helpstone (1793-1864)
+R:Air
+O:England
+A:Northamptonshire
+N:
+Z:vmp.P. Headford
+K:G
+GABcd2d2|g2g2e4|d2z2B2z2|AGABG4:|!
+|:gggge2d2|ggggA2G2|gggg ffff|egfed4|!
+GABcd2d2|g2g2e4|d2z2B2z2|AGABG4:|]
+W:Song text exists,(or not). See Deacon.|
+
+
+
+X: 41
+T:Betty Brown. JC.040
+M:C|
+L:1/8
+Q:120
+S:John Clare,Poet,Helpston. (1793-1864)
+R:Air
+O:England
+A:Northamptonshire
+N:Most of the quavers are separated in the MS , but i have beamed them
+N:for clarity. It makes no difference to the tune.CGP.
+Z:vmp.P. Headford
+K:G
+DD|G2Bdc2AF|(DF) AFG3A|B2GBA2Bg|(fe) dcd3d|!
+g2d=fe2ce|(dB) AGA3d|B2cde3g|B2cAG4|!
+g2fed4|e2dc{c}B3c|(dB) AGe2fg|B2BAG2|]
+W:Song text exists. See Deacon.|
+
+
+
+X:6388
+T:God Save the King. BC.02
+M:3/4
+L:1/4
+S:Benjamin Cooke MS.circa 1770, F.Kidson Coll.
+R:Air
+O:England
+A:x
+Z:John Bagnall
+K:G
+G G A | F>G A | B B c | B>A G | A G F | G3 |!| d d d | d>c B |c c c| c>B
+A | B (c/2B/2) (A/G/)|
+B>c d | e/c/ B A | G3 |]
+
+
+
+X: 125
+T:Silent The Lonely Glen
+R:Air
+C:Ed Reavy
+M:2/4
+L:1/8
+Z:Joe Reavy
+S:Philippe Varlet  irtrad-l 2000-10-27
+N:The tune laments the passing of the old ways and
+N:the tradition as Ed remembers it: the old Ireland
+N:he once knew.
+K:G
+g/f/ \
+| ed/B/ AG/A/ | B/d^c/    dg/f/ | ed/B/ AG/A/ | B/>A/G/F/ Eg/f/ |
+| ed/B/ ba/g/ | g/f/e/^d/ eg/f/ | ed/B/ AG/A/ | BG/E/     Ee/f/ |
+| ge/g/ ba/g/ | fd/f/     ag/f/ | ge/g/ ba/g/ | f/e^d/    ee/f/ |
+| ge/g/ fd/f/ | ed/B/     Bg/f/ | ed/B/ AG/A/ | BG/E/ E ||
+% Original, probably damaged, version:
+g/2f/2 \
+| ed/B/ AG/A/ | B/d^c/ dg/f/ | ed/B/ AG/A/ | B/>A/G//F/ eg/f/ |
+| ed/B/ ba/g/ | g/f/e/^d/ eg/B/ AF/A/ | BG/E/ Ee/f/ | ge/g/ ba/g/ |
+| fd/f/ ag/f/ | ge/g/ ba/g/ | fd/f/ ag/f/ | ge/g/ ba/g/f/ed/ |
+| ee/f/ ge/g/ | fd/f/ ed/B/ Bgf | ed/B/ AG/A/ | bG/E/E |]
+
+
+
+X: 34
+T:Farewell To Newcastle... JaW.034
+M:6/8
+L:1/8
+Q:1/4=70
+C:"..Our Time Is But Short, etc."
+S:James Winder Ms, Lancashire, 1835-41
+R:Air
+O:England
+A:Wyresdale,Lancashire
+H:1/8
+Z:vmp.Chris Partington, Aug 2004
+K:G
+f|gdc BGB|Ggf "qu"g2f|gdc BGB|Ggf "qu"g2|!
+|f|gag agf|efg f2e|def gdc|BGB d2B|!
+A3 B(AB)|c3 BGB|dBd e3|f2"qu's"(e/f/) gdc|BcAG2|]
+
+
+
+X: 1
+T:Farewell Tom Holder
+M:4/4
+L:1/4
+Q:100
+C:David de la Barre
+R:Air
+N:I wrote this tune while grieving the loss of my friend and fellow
+N:musician, Tom Holder. Tom, a fiddle player from Plainfield
+N:Massachusetts, was well known for his expertise at repairing fiddles as
+N:well as playing them. It was always a delight to see him show up to a
+N:session. He was a warm and kind as well as talented individual. Tom
+N:lost his life on May 31, 1999 in an
+N:accident involving his ultralight aircraft. His death was a loss keenly
+N:felt in many circles in the Pioneer Valley
+N: 1999 by David de la Barre
+N:All rights reserved
+K:G
+D/4E/4F/2| "G" G G/2A/2 "Bm" B g/2f/2| "C" e/2d/2 c/2e/2 "G" d G/2A/2| B G/2B/2 "Bm" e/2d/2 B/2d/2| "C" c/2B/2 A/2G/2 "D" F/2D/2 E/2F/2|
+"G" G G/2A/2 "Bm" B g/2f/2| "C" e/2d/2 c/2e/2 "G" d G/2A/2| B/2D/2 d/2B/2 "D" c/2D/2 F/2A/2| "G" A/2G/2-G2:|
+g/2a/2| "G" b b/2a/2 "Em" g g/2f/2| "C" e/2d/2 c/2e/2 "G" d d/2c/2| B/2A/2 G/2B/2 "Bm" e/2d/2 c/2B/2| "C" c/2B/2 A/2G/2 "D" F/2D/2 g/2a/2|
+"G" b b/2a/2 "Em" g g/2f/2| "C" e/2d/2 c/2e/2 "G" d G/2A/2| B/2D/2 d/2B/2 "D" c/2D/2 F/2A/2| "G" A/2G/2-G2:|
+%1999 David de la Barre
+
+
+
+X:624
+T:Morning Dream., The
+R:air
+T:aisling na maidne.
+Z:Tempo: Moderate.
+M:3/4
+L:1/8
+Q:85
+K:G
+(de>d)|(d2 B)(gfe)|(d2 G2) (G>A)|B2 (eBAG)|A2z (de>d)|
+(d2 B)(gfe)|(d2 G2) (G>A)|B2 (cB) ({B}A>G)|G2 z||
+(gfe)|(d2 B).G.A.B|(c>d e2) (ge)|d2 (ed)(BG)|A2 z (gfe)|
+(d>B G)(cBA)|B>G E2 G>A|(Bd) ({d}c>B) ({B}AG)|G2 z||
+
+
+
+X:14601
+T:Rowley. JC.072
+T:Frog He Would A-Wooing Go,aka. JC.072
+M:6/8
+L:1/8
+Q:100
+S:John Clare,Poet,Helpston. (1793-1864)
+R:Air
+O:England
+A:Northamptonshire
+N:
+Z:P Headford
+K:D
+A|d2dA2A|F2AD3|d3f2d|ce2z2A|B2Bd2B|A2GF3|!
+BAB dcB|ABG FGA|G2BF2A|EFG ABc|d2A ABG|FDz2{c}{c}|]
+W:Song text exists. See Deacon.
+
+
+
+X: 67
+T:Brandy Bottle. JBa.66
+M:4/4
+L:1/4
+Q:60
+S:Joseph Barnes MS,Carlisle,1762.
+R:Air
+O:England
+A:Carlisle
+Z:vmp.C.Graebe.
+K:G major
+"No key or time signature"G(c/4B/4) (A/4G/4) (B/d/c/B/) |\
+G (c/4B/4A/4G/4) F/A/ F/D/ | G (c/4B/4A/4G/4) B/d/ (c/B/) |\
+c/A/ B/d/ F/A/ F/D/ :|!
+|:"1st" E/c/ (c/4B/4)(A/4G/4) E/c/ B |  E/c/ (c/4B/4)(A/4G/4) F/A/ F/D/ 
+|\
+ E/c/ (c/4B/4)(A/4G/4) E/c/  tr(c/B/) | c/A/ B/d/ F/A/ F/D/ :|!
+|:"2nd"(g/4f/4)(e/4f/4) g/G/ (B/d/ "tr"c/B/) |\
+  (g/4f/4)(e/4f/4) g/G/ F/A/ F/D/ |\
+(g/4f/4)(e/4f/4) g/G/ B/d/ ("tr" c/B/) | c/A/B/d/ F/A/ F/D/ :|!
+|:"3rd"(E/4F/4G/4E/4) C/E/ G/E/ c/G/ |  E/4F/4G/4E/4 C/E/ D/A/ F/D/|\
+(E/4F/4G/4E/4) C/E/ G/E/ c/G/ | F/A/ B/d/ F/A/ F/D/ :|]
+
+
+
+X:1640
+T:Draw the Sword Scotland. CJF.176
+O:england
+M:C
+L:1/8
+Q:100
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+K:G
+B>AB>cd2g2|e2g2d2g2|B>AB>cd2g>f|e>dc>BA2g>a|
+b2a>ga2d2|g2e2d2B>g|b2a>g ad2g|e>gf>ag2zg|
+g2f>ef2^d2|e2c2B2A>A|B>AB>cd2g>a|b2a>ga2zg|
+bbaga2d2|g2e2d2B>B|BABc dhg2g|e>gf>ahg2z2|
+B>AB>cd2g2|e2g2d2g2|B>ABcd2g>f|e>dc>BhA2z2|
+b2a>ga2d>d|g2e>eB2G2|B>AB>c dhg2e|e>gf>ag2z2||
+
+
+
+X:4354
+T:Downfall of Paris,The,1st part. JNu.38
+M:2/4
+L:1/16
+Q:100
+S:James Nuttall MS,c1830,Rossendale,East Lancs.
+R:Air
+O:England
+A:East Lancashire
+Z:Chris Partington
+K:D Major
+"primo"d2de d2de|d2de gfed|e2ef e2ef|e2ef agfe|!
+f2fg f2fg|f2fg bagf|e2ef e2e2|edcB ABcA|!
+d2de d2de|d2de gfed|e2ef e2ef|e2ef agfe|!
+f2fg a2g2|f2fg a2g2|f2fd e2ec|d4d2z2:|!
+|:"p"a8|a2g2 b2a2|g2gf g2gf|g2gfg4|!
+g8|g2e2 a2g2|f2fe f2fe|f2fef4|!
+"f"d2de d2de|d2de gfed|e2ef e2ef|e2ef agfe|!
+f2fg a2g2|f2fg a2g2|f2fe e2ec|d2d2d2"p"z2:|!
+|:"p"abc'd' c'bag|fgab agfe|"f"d2dd e2ee|f2f2 e2z2|!
+"p"abc'd' c'bag|fgab agfe|"f"d2de f2e2|d2d2d2z2:|!
+|:c2d2e2f2|g2f2e2d2|c2d2e2f2|g2f2e2z2|!
+"p"abc'd' c'bag|fgab agfe|"f"d2ee f2e2|d2[d2d'2][d2d'2]|]
+
+
+
+X: 177
+T:Oh!Balmy breeze that fans the Seas. CJF.177
+T:Balmy breeze that fans the Seas,Oh!. CJF.177
+M:6/8
+L:1/8
+Q:100
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+Z:vmp.P J Headford 2000
+K:Bb
+"Andante"F|B2d (def)|ecA FGE|DFB BAB|d2cc3|!
+ecA fed|dBb gec|B2B {B/}AGA|B3-B2"$"|!
+|:"p"F|"Song"B2dd2f|e2cc2A|B2d e>fg|(d3c)zF|!
+e2d cde|fdb gec|B2B (c<fA)|B3-B2:|!
+|:(A/B/)|c2c f=ed|dccc2A|B2c (dc)B|(B3A2)(A/B/)|!
+c2c f=ed|c2bb2g|{f/}=edc cde|hf3z2F|!
+B2dd2f|e2cc2A|B2d e>fg|(d3c)zF|!
+e2d cde|(fd).b (ge)c|B2B (c<f)c|B3-B2:||!
+"Sym:"d|ecA fec|(dB).b (ge).c|B2B {B/}AGA|B3-B2|]
+
+
+
+X: 25
+T:Auld Lang Syne. BF12.25
+M:2/4
+L:1/8
+Q:150
+C:Browne "C" hand
+S:MS12,c1835,Browne Coll.,Lakes
+R:Air
+O:England
+A:Lakes
+Z:vmp.Cherri Graebe.
+K:C major
+G2|c>c c>e|d>c d>e|c>c e>g|a2 a/2b/2c'|!
+a>e e>c|d>c d>e|c>A A>G|c2:|!
+|:a|g>e e>c|d>c d>e|g>e e>g|a2 "Qu's"a/b/c'|!
+g>e e>c|d>c d>e|c>A A>G|c2:|]
+
+
+
+X:3596
+T:Lea Rig, The
+O:england
+M:4/4
+L:1/8
+R:Air
+K:A
+cB|"A"c2 E2 "E"E3 F|"F#m"A3B "A"A2 c2|"E"B3c "A"dcBA|"D"c2 F2 "E"F2cB|"A
+"c2 E2 "E"E3 F|"F#m"A3B "A"A2 ag|"D"f3e "E"f>ga>e|"A"c2 A2 A2||e2|"D"fe"
+E"fg "A"a3c|"D"dc"A"de "Bm"f2 A2|"Bm"B3c dcBA|"D"c2 F2 F2cB|"A"c2 E2 "E"
+E3 F|"F#m"A3B "A"A2 ag|"D"f3e "E"f>ga>e|"A"c2 A2 A2||
+
+
+
+X: 5
+T:
+C: Armand Aromin
+H: 8/18/04
+M: 4/4
+L: 1/8
+R: Air
+K: Dmaj
+de f2 (3fga e2 | de fg/2f/2 ed B2 | dB A2 FA B2-| Bc B6 |
+de f2 (3fga e2 | de fg/2f/2 ed B2 | dB A2 FA E2 | D2 D6-:|
+D2 z2 fg a2 | fg a2 b2 b2 | a2 z2 ef g2 | ef g2 a2 a2 |
+g2 z2 de f2 | de f2 g2 g2 |1 f2 e2 a2 a2 | ^g2 a6 :|2 f2 e2 d2 c2-| cd d6 |]
+
+
+
+X:486
+T:Beggar Girl,The. CJF.009
+O:england
+M:6/8
+L:1/8
+Q:80
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+K:C
+"Andante"g>fe g>fe|dcd e>fg|g>fe g>fe|dc{e}dc2g|
+g>fe g>fe|dcd e(c/d/e/f/)|
+g>fe g>fe|dc{e}dc2z|Gce Gdf|Gfe (dc)d|(Gc)_B Afe|\
+(ed)cg2hz|g>fe g>fe|dcd efg|
+gfe abc'h|e>fdc2e/f/|g/e'/d'/c'/b/a/ (g/c'/b/a/g/f/)|e>fdc2||
+
+
+
+X: 205
+T:O'The Days When I Was Young. JC.209
+M:C
+L:1/8
+Q:120
+S:John Clare,Poet,Helpstone (1793-1864)
+R:Air
+O:England179
+A:Northamptonshire
+N:
+N:No TS given: 2/4 adde
+Z:vmp.P. Headford
+K:D
+d"Sy"B|AFDFE2dB|AFDFA2dB|AFDFB2"Qu's"e/f/g/e/|fdAcd2"Soy"dB|!
+AFDFE2dB|AFDFA2dB|AFDFB2 eG|Fdecd2"Sy"f/f/g/e/|!
+fdAcd2"So"dd|ccBBA2Ac|edcBA2dd|ccBBA2AB/c/|!
+dFEDA4|A6dB|AFDFE2dB|AFDFA2dB|!
+AFDFB2eG|Fdecd2e/f/g/e/|fdAcd2|]
+W:Song text exists. See Deacon. |
+
+
+
+X: 171
+T:Not a Drum was heard. CJF.171
+M:2/4
+L:1/16
+Q:100
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+N:The pair of semiquavers marked with * are quavers in the MS. The last
+N:rest should be deleted for correct scansion. - PJH.
+Z:vmp.P J Headford 2000
+K:D
+D>D|G2G2G2 GG|A2F2G2 GA|B2BB B2BB|B2A2z2DD|!
+G2GG G2G2|E2F2 G2GG|GcBA A2GA|A2G2z2A2|!
+A3A A ^G (=GA)|F2A2 hc2zc|G2GG G2GG|\
+hE2 FF G2GG|!
+GcBA (AG)(GF)|A2G2z2A2|A2A2 ^GA=GA|F3A c2d>c|!
+c2cc c2B2|B2A2z2"*"DD|\
+G2GG G2G2|AGFE D2DD|E3E F3F|!
+A2G2z2DD|G2GG G2G2|AGFG hD2 DD|E3E F3F|A2G4z2|]
+
+
+
+X:6113
+T:Slow broke the light. CJF.159
+O:england
+M:2/4
+L:1/8
+Q:180
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+N:"C J Fox" is on the stave after the tune. - PJH.
+K:C
+c|c2c>d|e2ze|e2{g/}fe|e2(ce)|g2g>g|a2bc'|(egfd)|c2z:||:d|d2e^f|
+gbzd|d2cB|B2zd|(e^fga)|bgze|(d>g)(^fa)|g2zg|(ac')(ba)|g2ec|
+ac'ba|g2ce|g2gg|a2bc'|(g/^f/a/g/) (=f/e/f/d/)c2z||
+
+
+
+X:5052
+T:Gerry Crossey's Tune
+M:6/8
+R:Air
+L:1/8
+C:Aidan Crossey
+K:C
+[D2B2] c dB2|[D6B6g6]|[D2B2]c dB2|[F6A6]|[F3d3] [E3c3]|de d4|B G5:||
+[D2B2] c dB2|[D6B6g6]|[DBg]a2 b2c'|ab ga ^fg|dcB AG2|[F4A4] [F2d2]|[E6c6]|de d4|B G5:||
+
+
+
+X: 606
+T: Faithful Brown Cow., The
+T: drium-fionn donn .dileas.
+R:air
+N:"Moderate." "2nd Setting"
+B:O'Neill's 606
+Z:Transcribed by John Walsh (walsh@math.ubc.ca)
+M:3/4
+L:1/8
+%Q:80
+K:G
+(Bc)|d2g2f2|g2a2b2|g2f2d2|d4 (de)|
+=f2e2d2|e2f2g2|d2c2 (BG)|A4 =fe|
+d2c2A2|G2G2 (AB)|(c2d2) BG|A4 (dc)|
+d2g2 (fg/a/)|g2 dc Bc|TA2G2G2|G4 (=fe)|
+d2c2A2|G2G2 (AB)|(c2d2) BG|A4 (dc)|
+d2g2 (fg/a/)|g2 dc Bc|TA2G2G2|G4||
+
+
+
+X:95
+T: It is Sickly I Am.
+T: is temneasa.c a taim.
+R: air
+N: "Slow." "Collected from F. O'Neill"
+B: O'Neill's 568
+Z: Transcribed by J.B. Walsh walsh@math.ubc.ca
+M: C
+L: 1/8
+%Q:45
+K: G
+(de)|(=f>e) fg fedc|B2 {B}A>G G2 (de)|=f>efg (fedB)|d2 eg g3 g|
+=f2 (fg){f}e2 dB|B2 (AG) G2 (GA/B/)|c2 =f2 e2 dB|A2 GG G2||
+(d>c)|.B2 .A2 .G2 (G>A)|B2 {B}AG G2 (GA)|B2 (=fe) d2 cB|c2 de =f2 dc|
+.B.B .A.A .G2 (GA)|B2 (de/f/) Hg2 (d>c)|B3 G TA3 G|G4 G2||
+
+
+
+X:7417
+T:Huntsman's Chorus,bass part. JNu.13
+M:2/4
+Q:40
+S:James Nuttall MS,c1830,Rossendale,East Lancs.
+R:Air
+O:England
+A:East Lancashire
+Z:Chris Partington
+K:G
+"thirdo,read as bass clef"z2|E2E2|e2E2|B2BB|eB Ez|Ee EE|B2B2|f2F2|B3::!
+z|E2EE|A2AA|F2FF|B2BB|E2EE|A2AA|A2AA|B2z2|!
+E2E2|A2E2|B2B2|e2E2|E2E2|E2E2|AA BB,|E2z2|!
+.B,2.B,2|.B,2.B,2|.E2.E2|.E2.E2|BFBF|BFBF|.E2.E2|.E2.E2|!
+.B2.B2|.B2.B2|e2B2|e2B2|BB/B/ BB|B4|
+.E2z2|.E2z2|!
+.B2.B2|.B2.B2|.E2z2|.E2z2|.B2.B2|
+.B2.B2|e2dB|e2dB|egbg|e3"X"e/e/|!
+ee/e/ ee/e/|ee/e/ ee/e/|e2BB|e3e/e/|eE/E/ EE/E/|ee/e/ ee/e/|!
+e2BB|ee3/4e/4 dd3/4d/4|ee3/4e/4 BB3/4B/4|EE3/4E/4 EB,|B,3|]
+
+
+
+X:110
+T:McDermot Roe (#72)
+M:6/8
+L:1/8
+S:Carolan - Hibernian Muse 1787
+R:Air
+K:F
+c|AFF Acc|f2 F fed|e/2f/2gc dcB|Acc f2 g|
+ab/2a/2g ab/2a/2g|fdd d2 e/2f/2|gcg ga/2g/2f|ec/2d/2e f2 c|
+AFF cA/2B/2c/2A/2|FA/2B/2c/2A/2 F2 f|ecc dB/2c/2d/2B/2|
+c/2B/2A/2B/2c/2A/2 G>AG|FAf fFf|gcg afa|agf ece|fFF F3||
+GCC GCC|AF/2G/2A/2F/2 BGG|A/2B/2cc d/2e/2ff|e/2f/2gg ece|
+fc'b a/2b/2c'/2b/2a/2g/2|fcf fcf|bg/2a/2b/2g/2 fd/2e/2f/2d/2|
+Bc/2d/2g ece|f2 F fed|c2 A BAG|A/2B/2cc fg/2f/2e|f3-f2||
+%
+% Among Carolan's many distinguished friends and patrons, no one
+% was more generous and loyal than Mrs. McDermot Roe, of
+% Alderford House, County Roscommon. At the outset of his
+% professional career in 1693, it was she who equipped him
+% with a horse and an attendant harper; and it was to her
+% hospitable home he directed his feeble footsteps in his
+% declining days. Exceptionally honored in death, Carolan's
+% remains were interred near the family vault of his
+% benefactress.
+
+
+
+X: 45
+T:Female Fox Hunter,The. WCl.45
+M:6/8
+L:1/8
+Q:100
+S:William Clarke MS,Lincoln,1770.
+R:Air
+O:Lincoln
+A:England
+Z:vmp.Barry Callaghan
+K:D
+A|d2d A2G|F>EF D2A|B2AG2F|(F3E2)E|!
+A2A B2B|c>Bc A2A|d2d e2e|f>ef d2A|!
+(B>cd) (e>fg)|(A>Bc) d2A|B2B A>GA|D3-D2::!
+F/2D/2|A2A A2A|A3-A2 B/2A/2|d2d (d>ef)|d3-d2 A/2A/2|!
+(B>cd) (e>fg)|(A>Bc) d2 A/2A/2|B2G A2A|D3 D2:||
+
+
+
+X: 46
+T:My True Love Has Gone From Me
+M:4/4
+L:1/8
+S:Capt. F. O'Neill
+R:Air
+K:G
+"Moderato con expressivo"Bd|e3 d g2 B2|c4 edBA|B2 AB G2 G2|G4-G2 ga|
+b2 bc' b2 ag|a3 c' b2 ab|g3 g f3 e|d4-d2||ga|b2 bc' b2 ag|a3 c' b2 ab|
+g3 g f3 e|d4-d2 Bd|e3 d g2 B2|c4 edBA|B2 AB G2 G2|G4-G2||
+%
+% This air like scores of others was unconsciously memorized in my
+% boyhood days at Tralibane some three miles southeast of Bantry,
+% West Cork. All that I can remember now of the ballad sung to it is the
+% distich:
+%     "My true love he has gone from me, and I can't tell how far
+%       Eighteen hundred thousand miles , on board of a man of war"
+% It is not likely that the poetaster in equalizing his meter realized
+% the absurdity of a voyage equal to seventy-two times the
+% circumference of the earth.
+
+
+
+X:6714
+T:Handel's Clarinet. Primo. TLY.016
+M:4/4
+L:1/8
+Q:120
+C:Handeljust guessing!
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:Air
+O:England.
+A:Lancashire.
+N:Sorry - can't decipher title - possibly should be Handel's .
+N:something.T.T.. Ed.Handes Clavriet in MS I Have taken to mean Handel's
+N:Clarinet. CGP.
+H:1860.
+Z:vmp.Taz Tarry.
+K:D
+a2f/2g/2a/2b/2 {f}~e2dA|(3ded) (3efe ~f3 g/2a/2|bbba/2g/2 aaag/2f/2|!
+gggf/2e/2 fffe|d/2e/2f/2g/2 ag/2f/2 b z g z|a z A z d4:|!
+|:a2|fAdf e/2d/2e/2f/2 ea|fAdf e3 a|~a8|a6 a2|!
+b-aa-g g-ffg|a-gg-f f-e e2|
+d/2e/2f/2g/2 ag/2f/2 b z g z| a z Az d2:|]!
+
+
+
+X:13
+T:Bonnie Nancy
+R:Air
+C:Phil Cunningham
+M:C
+L:1/4
+K:G
+g|f3/2 g/2 f e | d3 e| d3/2 D/2 d c | B3 g|
+ f3/2 g/2 f e | d D d/2 c B/4A/4| G3/2 D/2 E F | G3 :|
+|F/2E/2|D3/2 F/2 A c| B3 B| A3/2 B/2 c e | A3 G|
+F/2 D3/2 E F| G g f/2 e d/4c/4|B3/2 D/2 E F| G3 F/2E/2|
+D3/2 F/2 A c| B3 B/2_B/2| A3/2 B/2 c e | A3 g|
+f3/2 g/2 f e | d D d/2 c B/4A/4| G3/2 D/2 E F | G3 |
+
+
+
+X:570
+T: I Dreamt of My Love.
+T: aislingui.g me air mo gra.d.
+R:air
+N:"With feeling" "Collected from J. O'Neill."
+B:O'Neill 569
+Z:Transcribed by J.B. Walsh, walsh@math.ubc.ca
+M:C
+L:1/8
+%Q:50
+K:Em
+(GA)|{A}B2 E>F EFGA|B>cA>B G2 G>A|{A}B2 E>F E2 AG|FDEF D2 GF|
+E3 D D2 B,D|G>A ((3BAG) A2 AG|A>B cA B3 A|G2 F>E E2||
+B^d|e3 =d cBAG|A2 B>c B2 B^d|e3=d cBAG|F(G/A/ G/F/E/F/)D2 G>F|
+E3 D D2 B,D|G>A ((3BAG) A2 A>G|ABcA B3A|G2 F>E E2||
+
+
+
+X:4
+T:Inis Oirr
+M:3/4
+L:1/8
+R:air
+C:Thomas Walsh
+N:Learned from Frank Simpson, Solstice Festival 2000
+K:G
+E ED|:B3A Bd|{A}B3A Bd|{D}E3B AB|D3B AG|
+B3A Bd|{A}B3A Bd|{F}G3B A/G/F|1 {A}G3E ED:|2 {A}G3A Bd|
+e3f ed|{A}B3A Bd|ef ed B/c/d|e4 Bd|
+e3f ed|{A}B3A Bd|{F}G3B A/G/F|G3A Bd|
+e3f ed|{A}B3A Bd|gf ed B/c/d|e4 Bd|
+e3f ed|{A}B3A Bd|{F}G3B A/G/F|G6||
+
+
+
+X: 21
+T:Banks & Braes of Bonny Doon,The. WCa.21
+M:6/8
+Q:60
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:Air
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:D
+A|d2d ede|fgf ede|fed dBA|ABde2"sic"A2|!
+d2d ede|fgf ede|{de}fed dBA|ABcd2::!
+f|a2b afd|a2b afd|afd afd|"hold"a2(gf)"hold"{f}e2A|!
+d2d ede|{de}fgf ede|{de}fed dBA|ABcd2:||
+
+
+
+X: 46
+T:DI TANTI PALPITA. CJF.046
+M:2/4
+L:1/16
+Q:60
+C:Rossini
+S:C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+N:The triplets are no marked as such in the MS - PJH.
+Z:vmp.P J Headford 2000
+K:G
+"mf"B4B2B2|(B>A)(B>c) d2z2|((3cdc) ((3BcB) A2d2|\
+((3BcB) ((3ABA) G2z2|!
+B4B2B2|(B>A)(Bc) d2z2|\
+((3cdc) ((3BcB) A2d2|G6z2||!
+A4(^GA)(cA)|(F4D2)z2|G4B2d2|A4({cB}A2)z2|!
+A4(^GA)(cA)|(F4D2)z2|G4B2d2|A6^A2|]
+
+
+
+X:630
+T:Cara's Song
+R:Air
+C:Ed Reavy
+M:2/4
+L:1/16
+Z:Joe Reavy
+N:An air Ed wrote for his granddaughter
+N:Cara.  Cara is autistic, but has a
+N:special fondness for music.
+N:Maybe someday his music will touch her, too.
+K:G
+D2EF G2FG|A2FD B2GE|c2AG F2A,B,|C2B,A, B,2B,C|
+D2B,D G2FG| A2FD B2GE|c2AG F2EF|G>G G2Bc||
+d2ed B>G|Ec cBAG (3F2D2F2|G2FG A2FD(3c2B2A2 B2Bc|
+d2^cded B2G2|EccBAG (3F2D2B,2|C2B,C F2EF|G2>G/2 G6 z||
+
+
+
+X: 1
+T: Kind Robin
+R: air
+B: RSCDS 21-5(II)
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+N: "from Surenne"
+M: C
+L: 1/8
+K: F
+| "F"F2F2 "Dm"F3A | "Gm"GAGF "Bb"D3 "C7"C | "F"F2F2 "Dm"F3A | "Gm"GFGA "C7"c3d | "F"F2F2 "Dm"f3c |
+| "Gm"BAGF "Bb"D2"C7"CD | "F"F2F2 "Bb"d2"F"cA | "C7"c4 "F"F2z2 || "F"c2dc "Dm"A2fA | "Gm"BAGF "Bb"D3 "C7"C |
+| "F"c2dc "Gm"BA"G7"GF | "C"G2"F"A>c "Bb"d3d | "F"c2de "Dm"f3A | "Gm"BAGF "Bb"D2"C7"CD | "F"F2F2 "Bb"d2"F"cA | "C7"c4 "F"F2z2 |]
+
+
+
+X:1
+T:Catherine Nowlan
+M:3/4
+L:1/8
+R:Air
+N:?Slow?
+S:O?Neill ? Music of Ireland (1903), No. 652
+Z:AK/Fiddler?s Companion
+K:D
+AB/c/|d2F zd>c|B2A zAB/c/|d4 c2|B4
+
+
+
+X:2
+T:Bruno
+C:Sarah Allen
+D:Flook:Flatfish
+M:4/4
+L:1/8
+R:air
+K:G
+DGA |: BA GA GF GF | EF D4 GA | BA Gc BA de | B4- B D GA |
+BA GA GF GF | EF D4- D D | EC AG FD BA |1 G4- G D GA :|2 G7 d ||
+e2 gf e4 | d2 ed BD GB| cA dc AD GA | B6 d2 |
+eG gf eG ce | dG ed BD GB | cA dc AD BA | G4 z  ||
+
+
+
+X:13131
+T:Pilot,The. CJF.193
+M:C
+L:1/8
+Q:120
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+N:The last two notes of the first bar are shown as beeamed quavers [DB]
+N:in the MS, but there are clear signs of an attempt to erase the beam,
+N:so they are given here as crotchets [D2B2]. The last note of the tune
+N:is G4 in the MS. - PJH.
+Z:P J Headford 2000
+K:G
+D2|D3D D2B2|B3AG2zG|EG3 (AG) (FE)|\
+D6zD|!D3D(G2B2)|B3AG2B2|A2(DE)(F2E) D|D6zD|!
+A3GF>E D>C|B,3CD2zG|(E2G2{d}c2(BA)|\
+(G4F2)D2|!D3DD2B2|B3AG2B2|D3DE2F2|G6||
+
+
+

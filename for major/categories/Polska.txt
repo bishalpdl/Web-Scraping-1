@@ -1,0 +1,865 @@
+X:13395
+T:Polska
+S:Carol Turner
+R:Polska
+O:Sweden
+M:3/4
+C:e. Kristian Oscarsson
+A:Uppland
+A:J\"amtland
+K:A
+ef/e/ de/d/ c>e|a/g/f ed c>c|\
+(3dBd (3cAc B>G|A>A (3cBA E2|\
+ef/e/ de/d/ c>e| a/g/f ed c>c|
+(3dBd (3cAc B>G|(3ABc A4::\
+A,>A, (3A,B,C (3A,B,C|D>D (3DEF (3DEF|
+E>E (3EFG (3EFG|A>A c<A E>C|\
+A,>A, (3A,B,C (3A,B,C| D>D (3DEF (3DEF|\
+E>E (3EFG (3EFG|A2A4:|
+
+
+
+X: 1
+T: Kan f\"orundra
+T: Orepolska
+R: polska
+C: Timas Hans Hansson
+Z: John Chambers <jc@trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: DDorian
+|: A- | A>^c d>e f>e | g>f df e2 | c>B G>A B>d | d^c A3 :|
+|: F- | F>A c>B G>B | dc AF D2 | fg/f/ ed ^cd |1,3 ed/^c/ df a :|2,4 ed/^c/ d3 :|
+
+
+
+X:2666
+T:Hovra-polskan (efter From-Olle)
+O:england
+R:Polska
+Q:1/4=110
+M:3/4
+L:1/8
+A:H\"alsingland
+K:D
+D>F Ad fa|G>G FD/F/ E2|D>F Ad fa|g>g fd/f/ e2|\
+e>f gf ed|c>B Ac ea|d2 cB/c/ dd|BA/^G/ A4::
+D>F Ad cd|B>A (G/F/)E/F/ G2|E>G Bd ce|d>B AG F2|\
+D>F Ad fa|(b/a/)g/f/ e2 d2|\
+(c/B/)A/G/ F2 E2|(F/E/)D/C/ D4::
+D>E FG AB/c/|d>e (f/e/)f/g/ a2|\
+ee/f/ gg/a/ gf| (e/f/)e/d/ (c/d/)c/B/ (A/B/)A/G/|
+D(D/F/) Ad fa|(b/a/)g/f/ e2 d2|\
+(c/B/)A/G/ F2 E2|(F/E/)D/C/ D4:|
+
+
+
+X:13439
+T:Polska fr Boda (Vod\"ospisn)
+S:Heard at Boda
+R:Polska
+O:Sweden
+M:3/4
+C:e. R\"oj\aa{}s Erik Andersson
+A:Dalarna
+K:ADor
+G|\
+A>c (e2 e)c|d>f e>c A>B|\
+(3cdc B>^G E>G|"tr"B2 AB|\
+A>c (e2 e)c|d>f e>c A>B|
+(3cdc B>^G E>G|"tr"B2 A3::\
+f|\
+a2 f4|(3fef g>f e>g|b2g4|(3gfg a>g f>g|
+a2f4|(3fef g>f e>d|(3c2e2g2 b>g|e<c d3:|
+
+
+
+X: 182
+T: Polska efter Karns-Hans Hansson
+S: efter Karns-Hans Hansson
+O: Dalarna, Orsa
+R: Polska
+Z: Hkan Lidn, 2008-09-28
+M: 9/8
+L: 1/4
+K: D
+b b g/b/ a3/2 | e a/-a b/ a g/ | g f/g/ f/e/ d c/ | B b g/b/ a3/2 | 
+e a/-a b/ a g/ | g/ f f3 :: f d/c/ d/e/ f f/ | f d g b3/2- | b a f a g/ | 
+e d c A3/2 | f d/c/ d/e/ f f/ | f d g b3/2- | b a f a g/ | e/c d3 :|]
+
+
+
+X:1
+T:Polska
+T:efter Alfred Petersson, Nttraby, Blekinge (SvL, Band 18, nr 318)
+N:Svenska Ltar, Band 18 nr 318
+O:Petersson, Nttraby
+C:Alfred Petersson
+S:Svenska Ltar
+R:Polska
+M:3/4
+L:1/16
+Q:1/4=80
+Z:Konverterad till abc-format av  Olle Paulsson 05-01-03
+K:F
+A4 (FG).A.B (AB).c.d|c2cd B2Bc A2c2|f4 (fe).f.g a2f2|
+(ga).g.f (ef).e.d (cd).c.B|A4 (FG).A.B (AB).c.d|c2cd B2Bc A2c2|
+f4 (fe).f.g a2f2|(gb)eg g4 f2 z2::c4 (cd).e.f (ge).c.e|
+(af).c.f (af).c.f (af).c.f|(bg).e.g (bg).e.g (bg).e.g|(af).c.f (af).c.f (af).c.f|
+A4 (FG).A.B (AB).c.d|c2cd B2Bc A2c2|f4 (fe).f.g a2f2|(gb)eg g4 f2 z2:|
+
+
+
+X:13394
+T:Polska
+R:Polska
+O:Sweden
+N:the triplets are all 3-crotchets-in-the-space-of-2. ABC doesn't bracket them all quite right (yet).
+M:3/4
+C:e. P\aa{}l Karl Persson
+A:\"Alvdalen
+K:Am
+(3A2d2B2 c>c|(3d"tr"^f3ed e>c|\
+(3A2d2B2 c>c|(3d"tr"^f3ed e2|\
+e>g a2a>g|"tr"fe/d/ e4::
+(3A2a2g2 a>e|(3f"tr"f3ed e>c|\
+(3A2a2g2 a>e|(3f"tr"f3ed e2|\
+d>c A<c BA/G/|B<c A4:|
+
+
+
+X: 1
+T: Julpolska av Matts Wallman
+C: Matts Wallman
+R: polska
+Z: John Chambers <jc@trillian.mit.edu>
+N: Taught in Boston by his father, Ole Wallman
+M: 9/16
+L: 1/16
+K: G
+|: "G"D2G- G2A B2c \
+| d2d- dBd g3 \
+| "C"e2c- c2B A2G \
+| "D7"FGA- A2F D2C \
+| "G"B,DG- G2A B2c |
+| d2d- dBd g3 \
+| "C"e2c- c2B "D7"A2G \
+| FEF "G"G6 :| \
+|: "C"g2e- e2c A2g \
+| "D7"fga- a2f d2f |
+| "C"g2e- e2c A2G \
+| "D7"FGA- A2F D2C \
+| "G"B,DG- G2A B2c \
+| d2d- dBd g3 \
+| "C"e2c- c2B "D7"A2G \
+| FEF "G"G6 :|
+
+
+
+X: 173
+T: Polska efter Lars hs
+S: efter Lars hs
+O: Dalarna, lvdalen
+R: Polska
+N: Sckpipepolska
+Z: Hkan Lidn, 2008-09-28
+M: 9/8
+L: 1/4
+K: Ador
+E ^G/ A B/ c A/ | B/^G/B/ A3/2- A B/ | (4c//B//c//d// e3/2 c e/ | d3/2 B3 :: c d/ e3/2 e3/2 | 
+c e/ d/B/d/ c A/ | c d/ e3/2 e3/2 | c e/ d/B/d/ c A/ | A ^G/ E E/ G A/ | B/^G/B/ A3 :|
+
+
+
+X:15868
+T:Springleik fr Folldal
+R:Polska
+O:Norway
+M:3/4
+K:A
+(3efg a2-a>g | (3agf e2-ee| \
+(3f2d2e2 c>c | d<e fe e>c | \
+(3dBd (3cAc B>G |1 A2 B4 :|2 G<A A4 :|
+|:c>B Ac E>E | B<c df e>c | \
+(3dBd (3cAc B>G |1 A2 B4 :|2 G<A A4 :|
+
+
+
+X:41
+T:Polska
+T:efter Pelle Fors
+O:Vikbolandet, \~nstergtland
+S:efter Pelle Fors
+B:Ltar efter Pelle Fors
+R:Polska
+Z:Bjrn Ek 2009-01-02
+N:Nr 41 i Ltar efter Pelle Fors
+M:3/4
+L:1/16
+K:D
+%
+|:A2d2 d2A2 FDFA|A2d2 ((5:4dedcd) e3f|gagf efed cdcB|
+A2d2 d2A2 FDFA  |A2d2 ((5:4dedcd) e3f|gfga b2a2 agec|e2d2 d8:|
+%
+L:1/8
+%
+|:!trill!dc cc ec|!trill!cB BB dB|!trill!BA A4        |!trill!AG GG BG|
+!trill!GF FF AF  |!trill!FE E3 F |G/F/G/A/ BA A/G/E/C/|ED D4         :|
+%
+
+
+
+X:5
+T:Polska fr\aa{}n H\"ogv\aa{}len
+Z:Lennart Sohlman, \"Alta, Swede
+S:efter Olle Halvarsson
+R:Polska
+O:Sweden
+Q:160
+M:3/4
+L:1/8
+A:H\"arjedalen
+K:A
+(E[AA]) ([AA][ce]) [ce][ee] | ((3efg) (g<a) c>c| \
+{cd}((3cBc) (d>E) GB | (BG) u((3ABc) v(E2-| \
+E[AA]) ([AA][ce]) [ce][ee] | ((3efg) (g<a) c>c |
+{cd}((3cBc) (d>E) GB| \
+L:1/16
+([GB][A3A3]) [A8A8] :: \
+L:1/8
+(A>d) (d[df]) [df][df] | ((3fgf) ([e3e3]z/u.e/)|
+(e>f) [d2f2] [df] z/[d/f/] | ((3ded) u[c2e2] v(A2|\
+A>d) (d[df]) [df][df] | ((3fgf) [e3e3] v(a |\
+gf) (ed) (3B(GB)|\
+L:1/16
+([GB][A3A3]) [A8A8] :|
+
+
+
+X:45
+T:Stenselepolskan
+Q:1/4=110
+O:Sweden
+M:3/4
+R:Polska
+L:1/16
+A:V\"asterbotten
+K:Gm
+"Gm"D2B2 B2AB (cB)AG|"F"F2A2 A2GA (BA)GF|\
+"Cm"E2EF G2GA B2AG|"D7"(^FG)AF "Gm"G2D2  B,CB,A,|
+"Gm"G,2B2 B2AB (cB)AG|"F"F2A2 A2GA (BA)GF|\
+"Cm"E2EF G2GA B2AG|"D7"(^FG)AF "Gm"G8::
+"Gm"D2d2 d2^cd (e2d2)|"D7"D2c2 c2Bc (dc)BA|\
+"Gm"(G^F)GA (BA)Bc d2d2|"A"^c2Ac "D7"d8|
+"Gm"D2d2 d2^cd (e2d2)|"D7"D2c2 c2Bc (dc)BA|\
+"Gm"(G^F)GA (BA)Bc (d^c)de|d2^F2 G8:|
+
+
+
+X: 36
+T: Trollet i skkten
+O: Hlsingland, Bollns
+S: efter Anders Wallin
+H: Kompositr: Johan Svart / Johan von Schwartz, Delsbo, se http://sv.wikipedia.org/wiki/Johan_von_Schwartz
+Z: Transcribed to abcby Jon Magnusson 080430
+R: Polska
+M: 3/4
+L: 1/8
+K: D
+A,D DD FE/2D/2|EA, A,A, GF/2E/2|D/2E/2F/2G/2 A/2B/2c/2d/2 ef|ge/2c/2 c/2d/2A/2G/2 G/2F/2E/2D/2|
+A,D DD FE/2D/2|EA, A,A, GF/2E/2|D/2E/2F/2G/2 A/2B/2c/2d/2 ef|ge/2c/2 d4:|:
+a3/2g/2 f/2g/2f/2e/2 d/2e/2d/2B/2|AA GE/2G/2 F2|a3/2g/2 f/2g/2f/2e/2 d/2e/2d/2B/2|AA GE/2G/2 F2|
+D/2E/2F/2G/2 [AF][AF] [AE][AE]|D/2E/2F/2G/2 [AF][AF] [AE][AE]|D/2E/2F/2G/2 [AF][AF] [AE][AE]|D/2E/2F/2G/2 A/2B/2c/2d/2 ef|ge/2c/2 d4:|
+
+
+
+X: 1
+T:Polska fr J\"amtland
+R:Polska
+O:Sweden
+M:3/4
+A:J\"amtland
+K:D
+(3A2A2B2 A>G | F>G (3ABA (3FDF |\
+(3F2F2E2 C>E | D>F (3EFE C>E |\
+(3D2A2B2 A>G | F>G (3ABA (3FDF |
+(3F2F2E2 C>E | (3DEF D4 :: \
+K:A
+(3A2A2B2 A>G | (3ABc d2 c>B | \
+(3A2A2c2 B>G | A>c (3BcB G>B |
+(3A2A2B2 A>G | (3ABc d2 c>B |\
+(3:2:2A2c4 B>G | (3ABc A4:|
+
+
+
+X:65
+T:Polska
+R:Polska
+O:Sweden
+M:3/4
+C:e. Kristian Oscarsson
+A:J\"amtland
+K:D
+{f}e>f d2 f2|{ef}e>d c2 d2| \
+a>^g a>b a>=g | ef/e/ de/d/ cd | \
+(3edc d2 (e2 |{f}e)>f d2 f2 |
+{ef}e>d c2 d2|a>^g a>b c'>b | a2 a2 z2 :: \
+{c}e>c A2 ce|eg gf {f}d2 | f>e e>c ef|
+ga/g/ (3fed e>c | A>c e2 {cdc}A2 |\
+eg gf fd | e>e e>c ef|\
+(3gag (3fed (3cBc | d2 d4 :|
+
+
+
+X:1
+T:Polska efter Thorsj
+R:Polska
+Z:Jonas Brunskog, 14/7 2008
+O:Markaryd, Smland
+S:efter Nils Bernhard Ljunggren
+S:efter Hjalmar Thorsj
+B:Svenska Ltar
+N:Sv. L. Sm. 216
+N:Ljunggren hade lten efter Hjalmar Thorsj.
+M:3/4
+L:1/16
+K:Bb
+|:B2d2 F2B2 d2f2|ecAc ecAc ecAc|B2d2 F2B2 d2f2|ecAc c2B2 B4:|
+|:B2bb b2BB B2B2|B2gg g2EE E2E2|B2d2 F2B2 d2f2|ecAc c2B2 B4:|
+
+
+
+X:100
+T:Polska fr Siljan\"as (Leksand)
+R:Polska
+O:Sweden
+M:3/4
+L:1/16
+C:e. Ellika Frisell
+A:Dalarna
+K:ADor
+([e2A2]|\
+[e3A3])e a2{ga}g2 e2gf|Adfd e4 ([e4B4]|\
+[e3A3])e a2{ga}g2 e2gf|Adfd e6 B2|
+cBcd deec A2AB|cBcd deec A2B2|\
+cBcd deec A2cA|E^GBG A6 ::
+([A2D2]|\
+[A2D2])a2 abaf a2a2|b4 {f}gagf gfg2|\
+a4 {e}fgfd efed|cdcB ABAG FEDC|
+D2[A2D2] abaf a2a2|b4 {f}gagf gfg2|\
+a4 {e}fgfd efed|cdec d6:|
+
+
+
+X: 1
+T:Stackars de alla Kolgossar
+M:3/4
+R:Polska
+N:Yorkshire Dales Scandy weekend, June '99; workshop tunes
+O:Sweden
+Z:photocopies from Suzanne Lind \& Louise Schultz
+K:Dm
+V:1
+(3:2:3D2A,2A,2 D>(E| (3:2:3F2)D2D2 E2| \
+(3:2:3F2D2D2 F>G| (3:2:3A2A2^G2 A2 |\
+(3:2:3F2(A2G2) E>(uG| (3:2:4F2)D2ED ^C2 |\
+(3:2:4DEF2A2 ^C>D| (3:2:3E2D2^C2 D2:|
+V:2
+(3:2:3D2A,2A,2 A,>(^C |(3:2:3D2)=B,2B,2 ^C2 |\
+(3:2:3  D2(A,2^C2) D>E |(3:2:3F2F2E2 F2 |\
+(3:2:3D2(F2E2) ^C>(E |(3:2:4D2)B,2A,B, A,2|\
+(3:2:4A,^CD2F2 A,>A, |(3:2:3A,2A,2A,2 D2 :|
+W: Stackars de alla kolgossar sm\aa{},
+W: Som m\aa{s}te ut i kammaren g\aa{}
+
+
+
+X:40
+T:Lustrum-polska
+R:Polska
+Q:1/4=150
+O:Sweden
+N:Made 1977 for the 5-year anniversary of Bygdedansens V\"anner,
+N:Stockholm
+M:3/4
+L:1/8
+C:Lennart Sohlman
+K:Dm
+FA (A<B) (AG)|(3A(Bc) d3 d|fd (d<A) ((3FED)|A2 G3 (G|\
+F)A (A<B) (AG)|(3G(FE) D3 E|Fd AG EF|((3GFE) D4:|
+K:Bb
+|:FA (A<B) (Bf)|(3A(Bc) B3 d|fd (3B(dB) (3A(Bc)|(3c(BA) (3B(cd) F2-|
+FA (AB) (Bf)|(3A(Bc) Bb (3g(bg)|fe (3d(cB) (3A(Bc)|((3cBA) B4:|
+
+
+
+X:9651
+T:Linus p\aa{} Linjen
+S:Emma Tibell
+R:Polska
+O:Sweden
+N:Transcribed by Geoff Bowen.
+N:This collection is being typed up on a Linux system. Just thought I'd mention that ...
+M:3/4
+A:Uppland
+K:G
+((vD|\
+D/)G/B) (uB<d) vB>G| (D/G/B) (B<d) B>G|\
+(D/F/A) (A<c) A>F| (D/F/A) (A<c) A>F|
+(vD/G/B) (B<d) B>G| (D/G/B) (B<d) B>G|\
+(D/F/A) (A<c) A>F| (F<G) uG3:|
+|:(vB|\
+(3:2:4d2)d2B/d3/ vc>e| (ve<d) (uB<d) ug>e|\
+(3:2:4d2B3A/B/ c>A| (vA<G) (uB<G) vD>B|
+(3:2:4d2d2B/d3/ vc>e| (ve<d) (uB<d) vg>e|\
+(3:2:4d2B3A/B/ c>A\
+|1 (A<G) {F}uG3 :|2 (A/G/F) ~G3 |]
+
+
+
+X:9266
+T:Lapp-Nils Polska
+R:Polska
+O:Sweden
+M:3/4
+C:e. P. Karlsson Viksten
+A:J\"amtland
+K:GDor
+D>^F G<A B>d | (3cAc (3BAG A>^F \
+|1 G2 A3 D :|2 ^F<G G4 :|
+K:G
+|: B>d c<e d>c | B>G A<c B>d | (3cAc (3BAG A>F\
+|1 (3GAB (3cAc B>G :|2 F<G G4:|
+
+
+
+X: 61
+T: Brudpolska efter Tulpans Anders Olsson
+R: Polska
+Z: Hkan Lidn, 2008-09-26
+N: Sv L Hlsingland 507
+N: Se ven Musik/61|
+O: Alfta, Hlsingland
+S: efter Tulpans Anders Olsson
+Q: 1/4=86
+M: 3/4
+L: 1/8
+K: Am
+A/B/ | cB/A/ e2 e2 | a>g fe dc | B/A/B/c/ d2 d2 | f>e ed cB | E2 BA/B/ cc/A/ |
+BA/^G/ A3 :: =G | c/d/c/B/ cd eg | f/e/f/g/ a2 g2 | G>c ed cB | A/^G/A/c/ e2 E2- |
+Ea a/^g/b/g/ a2 | =g>f e/f/e/d/ e2 | E^F/^G/ AA/B/ cc/A/ | BA/^G/ A3 :|]
+
+
+
+X:5189
+T:Polska efter J P Bergstrm, Glte
+O:england
+R:polska
+S:SvL JH 753
+A:Funsdalen, Hrjedalen
+B:Sv. Ltar Jmtland-Hrjedalen
+M:3/4
+L:1/8
+Q:144
+K:D
+({AB}AG) (FG) Ad|(3B(AB) [G2B2] [E2B2]|[e2e2] (cd) ef|(gf) (dc) (A2|{AB}
+A)(G FG) Ad|(3B(AB) [G2B2] [E2B2]|[e2e2] (cd) ef|((3gec) [D4d4]::({g}(3
+fef) (gf) ed|(3c(Bc) (dB) (BA)|G(F EG) FA|(G<B) [A4A4]|({g}(3fef) (gf) e
+d|(
+3c(Bc) (dB) (BA)|G(F EG) FA|(3ABc [D4d4]:|
+
+
+
+X:41
+T:Lapp-nils' Klarinett-polska
+R:Polska
+O:Sweden
+A:J\"amtland
+D:Legstulaget
+M:3/4
+K:GDor
+g2 (3^fgf d2 | B2 (3BAG A2- | Ad (3cec (3cec| c>e (3dfd (3dfd|\
+d>c B2- B>G| (3cdc (3BAG ^F>A| G2 G4::
+d>g g2 (3{ga}g^fg| a>^f d2 (3{de}dcd| g2 (5gag^fg a>f| d>e (3c=Bc d>c|
+B2 (3BAG A2- | Ad (3cec (3cec| c>e (3dfd (3dfd|\
+d>c B2- B>G| (3cdc (3BAG ^F>A| G2 G4 :|
+
+
+
+X: 47
+T: Polska efter Carl-Johan Bjrklund
+O: Hagfors, Vrmland
+Z:Transcribed to abcby Jon Magnusson 080502
+D: Harv - Must
+R: Polska
+M: 3/4
+L: 1/8
+K: Dm
+(3:2:2 A2a4 (3 gag|a2 (3 fgf (3 efe|(3:2:4 d2^cde2 f>d|(3:2:4 e2ae^c2 A2|
+(3:2:2 A2a4 (3 gag|a2 (3 fgf (3 efe|(3:2:4 d2^cde2 f>d|(3 ^c=Bc d4:|
+|:(3:2:3 d2{e}=B2G2 G>B|(3:2:4 d2A2=BA ^F>A|A>c (3=BAB G>B|
+(3:2:4 d2A2=BA ^F>A|(3 A=B^C d>e f>g|(3e^ce d4:|
+
+
+
+X:1
+T:Livans polska
+M:3/4
+C:Robert Bostrm
+R:Polska
+L:1/8
+K:Fmaj
+|:"Fmaj7"(3A2e2a2 (3f-fe|"Bbmaj7"(3ed-d d4|"Gm7"(3c-cd (3cB-B (3A-AG|
+"C7"(3A-AB (3AG-G (3E-EG|"Fmaj7"(3A2e2a2 (3f-fe|"Bbmaj7"(3ed-d d4|
+"Gm7"(3c-cd (3cB-B (3A-AG|"C7"(3A-AB (3AG-G (3E-EG|"F"F2 F4:|
+|:"F"(3zzC (3FG-G (3A-AB|"Am7"(3A-AG (3FE-E (3D-DE|"Bb"(3FD-D D2- (3D-DD|
+"C7"(3C-CD C/2D/2C/2B,/2 (3A,-A,G,|"F"(3zzC (3FG-G (3A-AB|"Am7"(3c-cB (3AG-G (3F-FE|
+"Bbmaj7"(3ED-D D2- (3D-DD|1"C7"(3C-CD C/2D/2C/2B,/2 (3A,-A,G,:|2"C7"(3C-CD (3EF-F (3G-GB ||
+
+
+
+X:1
+T:Tegelslagarns Polska
+O:Vstervik, Smland
+R:Polska
+S:Efter Gustaf Eriksson
+B:50 Smlndska ltar
+N:Nr. 4
+Z:Jonas Brunskog 2008-11-26
+M:3/4
+L:1/8
+K:C
+|:((3G^FG) (c>G) E>G|G>A B>c d2|((3d^cd) (f>e) d>c|((3cBc) (d>c) B>A|
+((3G^FG) (c>G) E>G|G>A B>c d2|(d>e) f>g a>f|f>d d2 [cE]2:|
+|:((3ceg) c'2 c'>c'|c'>b b2 (b>b)|b>a a2 (a>a)|a>g g>c' e>g|
+((3gfg) (a>f) d>f|((3fef) (g>e) c>e|((3ede) (f>d) B>d|dz [cEG,]4:|
+
+
+
+X:1
+T:Berg-Kirstis polska
+R:Polska
+D:''Jazz p svenska'' med Jan Johansson och Georg Riedel: http://www.youtube.com/watchv=aO0-Z72JQK0 | Youtube
+M:3/4
+L:1/16
+K:Eb
+"Cm"e2fe d4 c4|"G7"=BcB=A G4 F2>G2|"Cm"E2>G2 B4 c2>d2|"Fm"efec "G"d6 ^F2|
+"Cm"G2>d2 e2d2 e2f2|"Eb"g2=ag "F"f2d2 "G"=B2^F2|"Cm"G2>=B2 c2B2 c2d2|e2ge "Gm"d2B2 G4||
+"Cm"e3f/2e/2 d4 c4|"G7"=BcB=A G4 F2>G2|"Cm"E2>G2 B4 c2>d2|"Fm"efec "G"d7 G|
+"Cm"e3f/2e/2 d4 c4|"G7"=BcB=A G4 F2>G2|"Cm"E2>G2 B4 c2>d2|"Fm"efec "G"d7 ^F|
+
+
+
+X:1
+T:Polska frn Vsterbotten
+O:Vsterbotten
+R:Polska
+Z:Jonas Brunskog
+M:3/4
+L:1/8
+K:Gm
+D|:dd cc BB|A/B/A/F/ G3 D|G>A Bc dg|dc d4|
+dd ff dd|cc ee d2|BB dd BB|A/B/A/F/ G3 D:|
+|:G>A Bc/B/ AG|F/G/A/F/ G3D|G>A Bc dg|dc d4|
+dd ff dd|cc ee d2|BB dd BB|[1 A/B/A/F/ G3 D:|[2 A/B/A/F/ G4|]
+
+
+
+X: 7683
+T:Polska fr V\"asterg\"otland
+R:Polska
+M:3/4
+N:Yorkshire Dales Scandy weekend, June '99; workshop tunes
+O:Sweden
+Z:photocopies from Suzanne Lind \& Louise Schultz
+K:Am
+V:1
+(ve|\
+"A"a2) (ef) de | c2 (AB) cd | (ea) (ef) de | c2 A2 z::
+uc|\
+"G"(cB) G2 Bd | "A"(dc) A2Ac | "G"(cB) G2 Bd | "A"c2A2 z:|
+V:2
+(vc|\
+e2) (cd) Bc | A2 (E^G) AB | (ce) (cd) Bc | A2 E2 z::\
+uA|\
+(AG) D2 GB | (BA) E2 EA | (AG) D2 GB | A2 E2z:|
+
+
+
+X:38
+T:Polska efter Myr\aa{}s-P\aa{}lle
+S:As notated by Nils Olsson 1960
+R:Polska
+Q:1/4=130
+O:Sweden
+N:"Myr\aa{}s-P\aa{}lle", Paulus Almgren, (1864-1961)
+M:3/4
+L:1/8
+A:Torp, Medelpad
+K:Dm
+A,|:\
+F>F EE D2|A>A GA/B/ A2|DF/A/ (d/^c/)d/e/ fa|(g/f/)e/d/ (^c/d/)c/=B/ A2|\
+F>F EE D2|A>A GA/B/ A2|DF/A/ (d/^c/)d/e/ ff|1 ed/^c/ d3 A,:|2 ed/^c/ d3 e|:\
+f>d dd dd|f>c cc cc|cB/c/ dB B>B|BA/G/ A3 e|f>d dd dd|\
+d>c cc cc|Ad/e/ ff gf|1 ed/^c/ d3 e:|2 ed/^c/ d4|]
+
+
+
+X: 143
+P: Julpolska av Matts Wallman
+C: Matts Wallman
+R: polska
+Z: John Chambers <jc@trillian.mit.edu>
+N: Taught in Boston by his father, Ole Wallman
+M: 9/16
+L: 1/16
+K: G
+|: "G"D2G- G2A B2c \
+| d2d- dBd g3 \
+| "C"e2c- c2B A2G \
+| "D7"FGA- A2F D2C \
+| "G"B,DG- G2A B2c |
+| d2d- dBd g3 \
+| "C"e2c- c2B "D7"A2G \
+| FEF "G"G6 :| \
+|: "C"g2e- e2c A2g \
+| "D7"fga- a2f d2f |
+| "C"g2e- e2c A2G \
+| "D7"FGA- A2F D2C \
+| "G"B,DG- G2A B2c \
+| d2d- dBd g3 \
+| "C"e2c- c2B "D7"A2G \
+| FEF "G"G6 :|
+
+
+
+X: 1
+T:Polska efter Per Jonas L\aa{}ng, Haver\"o
+S:E \"Overg\aa{}rd nr 571
+N:Kringpolska
+R:Polska
+M:3/4
+L:1/8
+A:Haver\"o, W.Medelpad
+K:G
+g>d (gb) b2 | {gag}f>d (fa) a2 |\
+f>d gg (3b(gb) | (3a(fa) gd BG |\
+g>d (gb) b2 | {gag}f>d (fa) a2 |
+f>d gg (3b(gb) | (3.a.f.a [B4g4] ::\
+G>g gd dB | G>B (ed) (cB) |
+(3G(AB) (3c(Ac) B>G | (3G(AB) (BA) A2-|\
+Ag gd dB | G>B (ed) (cB) |\
+(3G(AB) (3c(Ac) (3B(GB) | (3.A.F.A [G,4G4]:|
+
+
+
+X:1
+T:Koltoffs lidande
+R:Polska
+Z:C-G Magnusson, 2008-11-01
+O:Skillingmark, Vrmland
+S:Efter Nils "Buern" Bryntesson
+N:Upptecknad av Nils Andersson, Sknnerud
+B:Sumlen 1981, sid 89
+M:3/4
+L:1/8
+Q:120
+K:F
+((3FGA) ((3FGA) ((3FGA) | c2 f2 (Ac) | ((3BGB) ((3AFA) ((3GEG) | ((3FGA) C2 (FA) |
+((3FGA) ((3FGA) ((3FGA) | c2 f2 (Ac) | ((3BGB) ((3AFA) ((3GEG) | F4 z2 :|
+K:Dm
+|: f>e d^c de | f>e ((3d^cd) A2 | f>e d^c de | ((3fef) e2 fermataa2 |
+f>e d^c de | f>e ((3d^cd) A2 | (Ac) ((3BGB) ((3AFA) | ((3GEG) F2 z2 :|
+
+
+
+X:1
+T:Kyrk-polska
+C: Lars Nsbom
+R:Polska
+N:Arr: John Forslund
+M:3/4
+L:1/16
+K:F
+V:1
+|: C3d c4 A4 | {AB}A2GA B4 G4 | C3e e2d2 c2B2 | {Bc}B2AB d2c2 A2F2 | C3d c4 A4 | {AB}A2GA B4 G4 |
+C3e e2d2 c2B2 | C2EG F8 :: A3c f4 f4 | {ef}e3B d4 d4 | (CE)GB d2c2 B2G2 |
+(CF)Ac d2c2 A2F2 | A3c f4 f4 | {ef}e3B d4 d4 | (CE)GB d2c2 B2G2 | C2EG F8 :|
+V:2
+|: F3B A4 F4 | {FG}F2EF G4 E4 | E3B B2G2 E2C2 | {FG}F2EF A2F2 C2B,2 | F3B A4 F4 | {FG}F2EF G4 E4 |
+E3B B2G2 E2C2 | E2CB, A,8 :: F3A c4 c4 | d3B F2D2 B,4 |(B,C)EG B2G2 E2C2 |
+(A,C)FA B2A2 F2C2 | F3A c4 c4 | d3B F2D2 B,4 | (B,C)EG B2G2 E2C2 | E2CB, A,8 :|
+
+
+
+X: 1
+T:Polska efter Olof Johansson, N\"asteln
+R:Polska
+Q:148
+N:"Hins polska"
+M:3/4
+L:1/8
+A:N\"asteln, S.J\"amtland
+K:Am
+(c/|\
+A>)B {B}c2 (ce) | ((3dBd) ((3cAc) B>(^G | \
+A>)B {B}c2 (ce) | ((3dBd) ((3cAc) B>^G | \
+A2 (a>^g) e2 | ((3dBd) ((3cAc) B>(^G | \
+A>)B {B}c2 (ce) | ((3dBd) ((3cAc) B>(^G | \
+A>)B {B}c2 (ce) | ((3dBd) ((3cAc) B>^G | \
+A2 (a>^g) e2 | ((3dBd) ((3cAc) B>^G |\
+"Fine"A2 A4 || \
+K:G
+B>e (e>^d) (ef) | {f}g2 ((3gag) fa | \
+g>f eg ((3aga) | b2 B4-|B>e  (e>^d) (ef) | \
+{f}g2 ((3gag) fa | g>f ((3e^de) (fd) |\
+"Da C al Fine" e2 B3 :|
+
+
+
+X: 47
+T: Polska efter Jmt Olof Ersson
+S: efter Jmt Olof Ersson
+R: Polska
+O: Dalarna, Orsa
+D: Bjrn Stbi
+Z: Hkan Lidn, 2008-09-28
+M: 9/8
+L: 1/8
+K: C
+E2 G c3 d3 | (4:6:4c/B/c/d/ e3-e2 d | c e2 a3-a2 g | ^f2 e d2 c BAB | dc A2 B2 G2 F |
+E2 G c3 d3 | (4:6:4c/B/c/d/ e3-e2 d | c2 e a3 g3 |1 (2Bd c6 :|2 (2Bd c3-c2 e ||
+|: g2 e g c'2 e2 f | a2 ga ge c2 e | ge f2 a2 g2 B | Bd c2 A2 G3 |
+g2 e g c'2 e2 f | a2 ga ge c2 e | ge f2 a2 g2 B |1 (4:6:4B/A/B/d/ c3-c2 e :|2 (4:6:4B/A/B/d/ c6 |]
+
+
+
+X: 1
+T:Lapp-Nils Favorit
+R:Polska
+O:Sweden
+M:3/4
+C:Lapp-Nils
+A:J\"amtland
+K:F
+Ac (3BAG G<(F|F)A cc A2|\
+BA Bc de|(3gag fc (3AcA|\
+zF EG G<(F|F)A cc A2|
+BA Bc df|e<c f4::\
+fe fg ab|(3bag (3faf ef|
+(3ceg fd cB|AB {A}c4|\
+fe fg ab|(3gag (3fed cA|Bc dB (3AcA|G2F4:|
+
+
+
+X: 7622
+T:Polska
+R:Polska
+O:Sweden
+M:3/4
+C:e. Kristian Oscarsson
+A:Uppland
+A:J\"amtland
+K:A
+ef/e/ de c>e|a/g/f ed c>c|\
+(3dBd (3cAc B>G|A>A cA E2|\
+ef/e/ de c>e| a/g/f ed c>c|
+(3dBd (3cAc B>G|(3ABc A4::\
+A,>A, (3A,B,C (3A,B,C|D>D (3DEF (3DEF|
+E>E (3EFG (3EFG|A>A c<A E>C|\
+A,>A, (3A,B,C (3A,B,C| D>D (3DEF (3DEF|\
+E>E (3EFG (3EFG|A2A4:|
+
+
+
+X: 1
+T:Polska
+R:Polska
+O:Sweden
+M:3/4
+C:e. Kristian Oscarsson
+A:Uppland
+A:J\"amtland
+K:A
+ef/e/ de c>e|a/g/f ed c>c|\
+(3dBd (3cAc B>G|A>A cA E2|\
+ef/e/ de c>e| a/g/f ed c>c|
+(3dBd (3cAc B>G|(3ABc A4::\
+A,>A, (3A,B,C (3A,B,C|D>D (3DEF (3DEF|
+E>E (3EFG (3EFG|A>A c<A E>C|\
+A,>A, (3A,B,C (3A,B,C| D>D (3DEF (3DEF|\
+E>E (3EFG (3EFG|A2A4:|
+
+
+
+X:13453
+T:Polska fr J\"amtland
+R:Polska
+O:Sweden
+M:3/4
+K:GDor
+A|\
+B>d (3cAc (3BAG|G>g (3^faf d>A |\
+B>d (3cAc (3BAG|G<F D3A|B>A G2d2|(3^cAc d3A|
+B>d (3cAc (3BAG|G<^F G4 :: g|\
+(3^faf d>f d>g|(3^faf d>f d>f|
+ga b2ba|(3a^fa g3g|\
+(3^faf d>f d>d|(3^cAc d3A|\
+B>d (3cAc (3BAG|G<^F G3 :|
+
+
+
+X: 7678
+T:Polska fr Lima
+A:Lima, V\"asterdalarna
+R:Polska
+M:3/4
+N:Yorkshire Dales Scandy weekend, June '99; workshop tunes
+O:Sweden
+Z:photocopies from Suzanne Lind \& Louise Schultz
+K:Dm
+b>(a c'g | a2 ({a=b}a^g) e>f\
+|1 g2 (3{ga}gfg a>(e | (3:2:4f)(de2)^c2 A2 :|2 \
+g2 (3{ga}gfg a>f | (e<^c) d4 |:
+(3:2:3 A2(d2^c2) d>e | (3:2:3f2(f2d2) e>f \
+|1 g2 (3{ga}gfg a>(e |(3:2:4f)(de2)^c2 A2 :|2 \
+g2 (3{ga}gfg a>f | (e<^c) d4 :|
+
+
+
+X:1
+T:Polska efter Bruun
+T:(Bruunboken 44)
+R:Polska
+Z:Jonas Brunskog, 1/7 2008
+O:Srslv, Skne
+S:efter Johan Jacob Bruun
+B:Bruunboken
+N:Bruunboken 44, samt Omtyckta Sknska Allspelsltar
+M:3/4
+L:1/8
+K:Dm
+|:fe (3d^cd A2|^c>d (3efg a2|abageg|fe (3d^cd A2|
+fe (3d^cd A2|^c>d (3efg a2|abageg|gf d2 d2:|
+|: a2 fafa|agegeg|fedefg|a^cdefg|
+a2 fafa|agegeg|fedefg|a^c d2 d2:|
+
+
+
+X: 41
+T: Dickapolskan
+S: Gunnar Orre
+O: lvdalen, Dalarna
+D: Den Fule - Lugumleik
+Z:Transcribed to abcby Jon Magnusson 080430
+R: Polska
+M: 3/4
+L: 1/8
+K: Am
+(3:2:5 A2dedc A>c|(3:2:5 e2gbge f2|(3:2:5 f2eddc A>^c|(3:2:5 d2fdfd e2|
+(3:2:5 A2dedc A>c|(3:2:5 e2gbge f2|(3:2:5 f2eddc A>^c|e2 e4:|:
+(3:2:5 e2gage f>e|(3:2:5 d2efed ^c2|(3:2:5 e2gage f>e|(3:2:5 d2efed ^c|
+(3:2:4 ^c2BA2G A>c|e2 e4|(3:2:6 d2(3ccdcB A>G|BA A4:|
+
+
+

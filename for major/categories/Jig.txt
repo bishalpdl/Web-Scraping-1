@@ -1,0 +1,725 @@
+X: 1
+T: Airie Bennan
+T: 5 x 32J 5C (Hugh Foss)
+P: Cock o' the North (AKA Winston's March)
+C: Hunter Colln., from Barbara McOwen, arr. T. Traub 4-26-04
+R: jig
+M: 6/8
+L: 1/8
+K: A
+%%scale .7
+|: "E7"e2 d|"A"cdc cBA |"A"cde "D"f2 e|"A"cAc "F#m"cBA|"Bm"B3 "E"e2 d|"A"cdc cBA|"A"cde "D"f2 e|"A"cAc "G"B=GB |1 "A"A3 :|2 "A"Acd "E"efg||
+"A" a2 e "D"f2 e|"A" a2 e "D"f2 e|"A"cAc "F#m"cBA|"Bm"B2 e "E"efg|"A" a2 e "D"f2 e|"A"a2 e "D"fga|"A"cAc "G"B=GB|"A"Acd "E"efg||
+"A" a2 e "D"f2 e|"A" a2 e "D"f2 e|"A"cAc "F#m"cBA|"Bm"B3 "E"e2 d|"A"cdc cBA|"A"cde "D"f2 e|"A"cAc "G"B=GB|"A"A3 A2 |]
+
+
+
+X: 141991
+T: Not Far from Meath 
+N: 112
+C: BB
+L: 1/8
+Q: 1/8=320
+M: 6/8
+R: jig
+K: Ador
+A/B/| "Am"cBA "G"GED | "Em"EGB "Am"AGE | "C"cBc "G"dcd | "Am"eae "G"ged |
+"Am"cBA "G"GED | "C"ECE "G"GAB | "Am"cea "G"ged | "Am"cAG "Am"A2 :|
+e|"Am"aec aec | "G"Bdg BAG | "Am"cAE cAE | "G"GAB "Em"edB |
+"Am"aec aec | "G"Bdg BAG | "Am"EAc ecA |"Em"BGE "Am"A2 :|
+
+
+
+X: 61
+T:Old Grey Goose
+M:6/8
+L:1/8
+R:Jig
+K:G maj
+|:E/2F/2|GBG FAF|GEE E2F|DFA dAF|FDD DEF|GFG AGA|BAB gfg|edB BAF|GEEE2
+:| 
+|:F|G2G dBG|GAB/2c/2 dBG|A2A ecA|ABc/2d/2 ecA|GAG dBG|egf gfg|edB BAF|
+GEE E2:|
+|:d|efe edB|defg2e|fdd add|fag fed|gfg fef|def gfg|edB BEF|GEEE2:|
+|:c|BGG AFF|GEEE2c|BGG dAG|FDD D2c|BGG AGF|GEE gfg|edG GAF|GEEE2:|
+|:f|gbg faf|geee2f|gbg fag|fdd def|gbg faf|egf gfg|edB BAF|GEEE2:|
+|:f| gdc BcA|GEEE2f|gdB dAB|FDD DEF|G3AGA|BcB gfg|edB BAF|GEEE2:||
+
+
+
+X: 1
+T: Tom Billy's
+M: 6/8
+L: 1/8
+R: jig
+K: Ador
+eAA gfg|edB BAB|~G3 ~B3|def g2f|
+eAA gfg|edB BAB|GBd gfg|edB A3:|
+|:e2a age|aba age|~g3 gdB|GBd g2f|
+eaa eaa|dgg dgg|edB gfg|edB A3:|
+
+
+
+X: 3357
+T:Gan Ainm
+R:jig
+M:6/8
+L:1/8
+K:G
+edB G2A|Bed Bcd|edB G2A|BAF GFE|!
+DBD G2A|Bed Bcd|edB gdB|ABG ABd:|!
+|:e2f ~g3|eag fed|e2f ~g3|efg ~a3|!
+bag agf|gfe daf|gfe edB|ABG ABd:|!
+
+
+
+X: 1
+P:Cliffs of Moher
+M:6/8
+L:1/8
+R:Jig
+F:http://breizhpartitions.free.fr/jigs/cliffs_moher.abc 2003-06-27 21:02:52 UT
+C: arr. T. Traub 6-27-03
+K: G maj
+|:d |"Am" eaa bag|"Am" eaf ged|"Am"c2A "G" BAG|"Em"EFG ABd|"Am"eaa bag|"Am"eaf ged|"G"c2A BAG|"Em"EFG "Am"A2 :|
+d |"Am"e2e dBA|"Am"e2e dBA|"G"GAB dBA|"G"GAB dBd | "Am"e2e dBA|"Am" e2e dBA|"G"GAB dBG|"Em"EFG "Am"A2 ||
+d |"Am"e2e dBA|"Am"e2e dBA|"G"GAB dBA|"G"GAB dBd | "Am"e2e dee|"Am"cee Bee|"Em"EFG BAG|"Em"edB "Am" A3 |]
+
+
+
+X:13
+T:Morrison's
+T:Cry Of The Celtic
+T:Maurice Carmondy's Favorite
+T:Maurice Carmondy's Favourite
+T:Morrison's
+T:Stick Across The Hob
+T:Stick Across The Hob, The
+T:Tom Carmondy's Favorite
+R:jig
+M:6/8
+L:1/8
+K:Edor
+|:"Em"E3 "Em"B3|"Em"EBE "D"AFD|"Em"EDE "Em"B3|"Bm"dcB "D"AFD|
+"Em"E3 "Em"B3|"Em"EBE "D"AFD|"Em"G3 "D"FGA|"G"dAG "Bm"FED:|
+"Em"Bee "Em"fee|"A"aee "Em"fee|"Em"Bee "Em"fee|"A"a2g "Bm"fed|
+"Em"Bee "Em"fee|"A"aee "Em"fee|"Em"gfe "D"d2A|"Em"BAG "D"FGA|
+"Em"Bee "Em"fee|"A"aee "Em"fee|"Em"Bee "Em"fee|"D"faf "Bm"def|
+"Em"g3 "Em"gfe|"Bm"def "G"g2d|"A"edc "D"d2A|"Em"BAG "Bm"FED|
+
+
+
+X: 1
+T: Jealous Paranoia
+M: 6/8
+L: 1/8
+R: jig
+K: Dmaj
+f3 dAF | DFA def | g3 efg | gfg e3 |
+f3 dAF | DFA def | g3 eag | fdc d3 :|
+afd gec | dAF DFA | def gfg | eag e3 |
+afd gec | dAF DFA | def gec | edc d3 :|
+
+
+
+X: 1
+T: Caledonian, The
+M: 6/8
+L: 1/8
+R: jig
+K: Gmaj
+D | GAG BcB | AGA G2 G | BAB GBd | e3 d2 e/f/ |
+gfe dgB | AGA BGE | DED DGB | A2 G GBd ||
+GGG GBG | ddd dBG | EAA AcA | eee ecA |
+^GGG GGG | AAA ^AAA |BBB Bd^c | dBG dBG ||
+K:C
+ede cdc | ede c2 c | cBc dBG | AGE G2 G |
+cBc EFG | AGA d2 e/f/ | gBc gec | dcd c3 ||
+
+
+
+X:367
+T:The Moonlight Jig
+B:Joyce, P. W.; "Old Irish Folk Music and Songs"
+R:jig
+N:See #361 for further history
+A:Cork
+O:Irish
+L:1/8
+M:6/8
+K:D
+A2 B {B}AFD|Bcd d>cB|ABA AFD|G3 F2 E|
+F/G/AB AFD|efg fed|e>fe ecA|d3 d3:|
+|:fga afd|cde efg|fed cde|A3 A2 G|
+FDG FDA|BGB BGg|fed c/d/ec|d3 d3:|
+
+
+
+X:160
+T: Tom Cawley's
+S: Treoir 32/4
+Z: B.Black
+M: 6/8
+L: 1/8
+R: jig
+K: G
+D | GBB BAB | GBB BAG | FAA A2 D | FAA A2 D |
+GBB BAB | GBB BAG | def gdc | BGG G2 :|
+g | aba  afd | gag gfe | d^cd gdB | BAA A2 g |
+aba afd | gag gfe | d^cd gd=c | BGG G2 :|
+
+
+
+X: 1
+T: Tiny Clanger's
+M: 6/8
+L: 1/8
+R: jig
+K: Gmaj
+|: D | GBd gfe | ^d2 e ^c2 =d | DFA e2 d | DFA c2 B |
+GB/c/d gfe | ^d2 e ^c2 =d | DFA cBA | G3- G2 :| 
+|: A | FGA cdf | gab d2 g |[1 fga dcA | Bcd G2 D |
+FF/G/A cdf | gab d2 g | fga dcA | G3- G2 :|
+[2 fga dcB | AA/B/c dd/e/f | GB/c/d gfe | ^d2 e ^c2 =d | DFA cBA | G3- G2 |]
+
+
+
+X: 8
+T:Cliffs of Moher, The
+R:jig
+H:Also played in G, see #224
+H:Bar 8 also played |EDB, A,3|
+Z:id:hn-jig-79
+M:6/8
+K:Ador
+aga bag|eaf ged|c2A BAG|EFG ABd|eaa bag|eaf ged|c2A BAG|EFG A3:|
+|:efe dBA|efe dBA|GAB dBA|GAB dBd|1 efe dBA|efe dBA|GAB dBG|
+EFG A3:|2 ~e3 dee|cee Bee|EFG BAG|EDB, A,3||
+
+
+
+X:17251
+T:The Stool of Repentance
+C:Niel Gow
+A:Cape Breton
+S:Sandy MacIntyre
+R:Jig
+M:6/8
+L:1/8
+K:A
+e/f/4g/4 | a2e c2e | {g}agf edc | (af)f f2e | fag f2e | 
+{g}a2e c2e | {g}agf edc | d2e f2e | f<ac B2A :|
+cAA eAA | cAA edc | dBB fBB | dBB fed | 
+cAA eAA | cAA edc | d2e f2e | f<ac B2A :|
+%%newpage
+
+
+
+X: 1
+T:Humours of Drinagh, The
+R:jig
+H:Related to reel #697
+D:Stockton's Wing
+D:Noel Hill & Tony McMahon: \'I gCnoc na Gra\'i
+Z:id:hn-jig-100
+M:6/8
+K:D
+FDF ABc|dfd ecA|FDF ABc|dAF ~G3|
+FDF ABc|dfd ecA|~f3 gec|1 edc dAG:|2 edc d2e||
+|:~f3 ~g3|agf gfe|~f3 ~g3|agf g2e|
+agf gfe|fed ecA|~f3 gec|1 edc d2e:|2 edc dAG||
+
+
+
+X: 303
+P: One-Horned Sheep
+Z: Transcribed to abc by Mary Lou Knack
+B: "The Portland Collection" - revised by Debbie Knight.
+R: jig
+M: 6/8
+K: G
+"G"g2G GFG \
+| "C"EGG "G"DGG \
+| g2G GFG \
+| "Am"EAG "D"FED \
+| "G"g2G GFG \
+| "C"EGG "G"DGG \
+| "C"EGG "D"FGA \
+| "G"BGF G3 :|
+|: "G"GBd dBd \
+| GBd d3 \
+| GBd "(Em)"dcB \
+| "Am"cdc "D7"A2D \
+| "G"GBd dBd \
+| GBd "D7"def \
+| "C"gfe "G"dBG \
+|1 "D7"ABA G2D \
+:|2 "D7"ABc def \
+|] "G"Hg |]
+
+
+
+X:1925
+T:Paddy Keenan's
+O:ireland
+R:Jig
+S:Andy H
+D:Garva
+M:6/8
+L:1/8
+K:Em
+z3|E2E G2B|E2E G2B|ABA F2A|D2E FED|
+E2E G2B|E2E G2A|BAG AGF|GFE FED|
+E2E G2B|E2E G2B|ABA F2A|D2E FED|
+E2E F2F|G2G A2A|B2A G2F|E3:|
+|:g2f|e2B g2f|e2B f2e|d2A f2e|d2A g2f|
+e2B g2f|e2B B2A|BAG AGF|GFE g2f|
+e2B g2f|e2B f2e|d2B A2F|D2E FED|
+E2E F2F|G2G A2A|B2A G2F|E3:|
+
+
+
+X: 57
+T:Vento's Farewell. WCl.57
+M:6/8
+L:1/8
+Q:120
+S:William Clarke MS,Lincoln,1770.
+R:Jig
+O:Lincoln
+A:England
+Z:vmp.Barry Callaghan
+K:A
+e2ce2c|A2A ABc|d2Bd2B|GAB E3|!
+e2ca2e|f2da2f|efe dcB|A3-A3:|!
+|:GBd dBG|Ace ecA|GBd dBG|Ace ecA|!
+f2da2f|e2ca2f|efe dcB|A3A3:|]
+
+
+
+X:153
+T:Pate Baillie's jig
+O:scotland
+R:Jig
+C:Pate Baillie
+M:6/8
+L:1/8
+K:Em
+c|E2E E2d|B2A B2d|AFD DEF|AFD DEF|
+E2E E2d|B2A B2A|B^cd AFD|E3 E2:|
+|:F|G2B BcB|G2B BcB|F2A D2A|FAF DEF|
+G2B BcB|G2B BcB|dcB AGF|E3 E2:|
+|:^d|eee EEE|eee EEE|ddd DDD|ddd DDD|
+eee EEE|eee EEE|dcB AGF|E3 E2^d|
+eee EEE|eee EEE|ddd DDD|ddd DDD|
+GGG FFF|EEE eee|dcB AGF|E3 E2||
+
+
+
+X: 2016
+T: Fox on the Rock
+R: jig
+C: Rick Gagne
+N: 1987 on tenor banjo
+M: 6/8
+Q: 1/4=165
+K: Ador
+c | "Am"Ace age | Ace "G"dBG | "Am"A2A cBA | "C"cec "G"d2B | 
+"Am"Ace age | Ace "G"dBG | "Am"A2A cBA | "G"GEG "D"D2 :|
+K: D
+c | "D"dAA "G"BAG | "D"Ade fed | "A5"eag "C"ed=c | "D"AdA "C"=cA^c | 
+"D"dAA "G"BAG | "D"Ade fed | "A5"eag "C"ed=c | "D"dfe de :|
+
+
+
+X: 311
+T:Sailor Laddie,The. JaW.310
+M:6/8
+Q:120
+S:James Winder Ms, Lancashire, 1835-41
+R:Jig
+O:England
+A:Wyresdale,Lancashire
+H:1/8
+Z:vmp.Chris Partington, Aug 2004
+K:G
+D|G2g dBG|EAA A2B|G2g dBG|Bde g2a|!
+bag ede|aAA A2B|def gdc|BGG G2:|!
+|:(g/a/)|bag ede|aAA A2(g/a/)|bag efe|def gdB|!
+c2aB2g|aAA A2B|G2g ded|BGG G2:|]
+
+
+
+X:6157
+T:Gentleman Soldier
+M:6/8
+L:1/8
+R:jig
+N:This is a song from a Dubliner's album
+K:D
+|"D"f2f A2B|d2e f2d|"A7"efe d2c|"D"d3 d2e|
+f2f A2B|d2e f2d|"A7"efe d2c|"D"d3 d2e|
+f2f f2d|"A7"e2e f2e|"G"d2d dcB|"A7"A3 A2a|
+"D"a2A A2A|d2e f2d|"A7"efe d2c|"D"d3 d2e|
+"Chorus"f2f fed|"A7"efe efe|"G"d2d dcB|"A7"A3 A2a|
+"D"a2A A2A|d2e f2d|"A7"efe d2c|"D"d3 d2z|]
+
+
+
+X: 1
+T: Caves Of Kiltanon, The
+M: 6/8
+L: 1/8
+R: jig
+K: Gdor
+G2 F |: DGA B2 c | dgf  dcA | BDd  cBA | BDG FDC | 
+DGA B2 c | dgf dcA | BDd cBA |1 BDF G2 F :|2 BDF G2 D :|
+Gga bag | afd cBA | BDd cBA | BAG AFD |
+Gga bag | afd cBc | dba gfd | gdf ~g3 |
+dga bag | afd cBA | BDd cBA | BAG AFD |
+BdB ~c3 | dba gfd | BDd cBA | BDF G2 A |
+BGd BGd | AFc AFA | BGd BGB | daf ~g3 |
+bag agf | gfd cBA | BDd cBA | BDF G2 A |
+BGd BGd | AFc AFA | BGd BGB | daf ~g3 |
+bag agf | dgf dcA | BDd cBA | BDF G3 ||
+
+
+
+X:258
+T:Up On The Hill
+R:jig
+C:Bruce Osborne (April 2006)
+Z:abc by bosborne@kos.net
+M:6/8
+L:1/8
+K:Dmaj
+A|dAF AFD|dAF D2 F|A,CE GFE|DFB ABc|\
+dAF AFD|dAF D2 F|A,CE GFE|FDD D2:|
+|:A|def fed|afd dcd|eAA fAA|gAA e2 A|\
+def fed|afd dcd|eAe aec|ABc d2:|
+
+
+
+X: 1
+T:Behind the Haystack
+M:6/8
+L:1/8
+Q:1/4=190
+C:Trad
+R:jig
+K:D
+A|d2 e fdB|d2 e fdB|AFE EFE|AFE EFA|!
+|d2 e fdB|d2 e fdB|AFD DED|AFD D2:|!
+A|B3  BAF|ABc dcB|AFE EFE|AFE EFA|!
+B3  BAF|ABc dcB|AFD DED|AFD D2:|!
+f|g3 f3|ede fdB|AFE EFE|AFE EFA|!
+gbg faf|ede fdB|AFD DED|AFD D2:|!
+
+
+
+X: 2991
+T:Butlers of Glen Avenue, The
+M:6/8
+L:1/8
+R:jig
+K:G
+~G3 EGD|~G3 EGD|~G3 BGG|dGG (3Bcd A|
+!~G3 EGD|~G3 EGD|GAB deg|deg edB:|
+!:deg ~b3|bab deg|~b3 bag|edB deg|
+!~b3 bab|agg bgg|agg efg|deg edB:|
+
+
+
+X: 77
+T:Oyster Girl
+M:6/8
+L:1/8
+R:jig
+K:G
+"D7"Bc|"G"ded B2 G|"D7"A2 F DEF|"G"G2G BAB|"D7"d2 c ABc|
+"G"ded Bdg|"C"f2 e c2e|"G"d2 B "D7"cBA|"G"G3 G2 :|
+|:dc|"G"Bcd Bcd|"C"e2 c edc|"D7"ABc ABc|"G"d2 B dcB|
+"G"ded Bdg|"D7"f2 e c2 e|"G"d2 B "D7"cBA|"G"G3 G2:|
+
+
+
+X: 1
+T:the New-Rigged Ship
+M:6/8
+O:England
+A:North-West
+R:Jig
+K:D
+A|\
+d2d def| d2d def| ecA Acd| ecA A2A|\
+d2d def| d2d def| egf edc| d3 d2:|
+f/g/|\
+a2f a2f| d3 d3| b2g b2g| e3 e3| \
+a2f a2f| d3 f3| egf edc| d3 d2 f/g/||
+agf agf| ded dfa| bag bag| efe efg| \
+agf agf| def fed| egf edc| d3 d2|]
+
+
+
+X: 1
+T:Grasshopper Dance
+R:Jig
+P:AABBAA
+O:Wales
+M:6/8
+K:ADor
+P:A
+G| c2c c2d | cBA G2G | c2c e2e | GAB c2:|
+P:B
+K:DMix
+|:c | e2e e2e | g2g d2d | e2e e2e | gfe d2:|
+
+
+
+X:8354
+T:Just As I Was In The Morning. HSJJ.157
+T:She Wants A Fellow. HSJJ.157
+M:6/8
+L:1/8
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Jig
+O:England
+A:Lancashire
+H:1823
+Z:Chris Partington.
+K:D
+f/e/|d2D FED|EFE cBc|d2D F/G/AF|A3d2:|
+|:A|dfa afd|cea ecA|!ded fed|f3a2b|afa geg|fdf cAc|d2D FAF|A3d2:|]
+
+
+
+X:13
+T:the Register
+R:Jig
+M:6/8
+L:1/8
+K:G
+D | G2G GAB | c2c c2B | A2A ABc | d2d d2B | 
+g2g gfe | d2d def | gdc BcA | G3 G2 :|
+ |:d | g2g gfe | d2d def | g2g gfe | d2d d2B | 
+c2c edc | B2B dcB | ABc BcA | G3 G2 :|
+%%vskip 1.5cm
+
+
+
+X: 5
+T: Fair Jenny's Jig
+I: Fair Jenny's JigJ-18Djig
+%%musicspace 0.2cm
+C: Peter Barnes \2511977
+M: 6/8
+R: jig
+K: D
+A| "D"f3 fgf| "A"ecA ecA| "G"Bcd "A"ecA| "G"Bcd "A"e2A|
+   "D"f3 fed| "A"ecA ecA| "G"Bcd "A"e2A| ABc "D"d2 :|
+|:A| "G"B3 B=cB| GBB B=cB| "D"ADD dDD| ^cDD "D7"=cDD|
+   "G"B3 B=cB| GBB B=cB| "A"AEA "A7"AB^c| "D"dAF D2 :|
+%%text Roaring Jelly  J-18
+%%text 08/29/98
+
+
+
+X:5883
+T:Gan Ainm
+R:Jig
+S:Tom McGonigle, Belfast (concertina).
+Q:300
+M:6/8
+Z:Bernie Stocks
+K:D
+|:dAF AFE | DB,A, A,3 | FEF AFA |1 BAF EFA :|2 BAF D3 :|
+|: dcd fef | afd edB | FEF AFA |1 dAF E3 :|2 Bdc d3 :|
+
+
+
+X: 1
+P: Malana's Jig
+C: Howie Bursen (c) 1990
+C: from Jon Weinberg
+R: jig
+M: 6/8
+L: 1/8
+K: D
+|: "D"aAA "(A/C#)"gAA |"(Bm/B)"fAA "(A/A)"eAA|"G"B>cd "(A/F#)"cde|"(Bm/E)"fdf "A"e2 A|"D"aAA "(A/C#)"gAA |
+"(Bm/B)"fAA "(A/A)"eAA|"G"B>cd "A"cde|"D"fdd d2 A :||: \
+K: C
+"C"c2 d edc|"Bm"B2 c dcB|
+"C"c2 d e^fg|"D"^fed ded|"C"c2 d edc|"Bm"B2 c d2 A|"G"B>^cd "A"cde|"D"^fdd d2 A :|
+
+
+
+X:115
+T: McAuliffe's
+S: "First Collection of Traditional Irish Music" (M.Mulvihill)
+Z: B.Black
+L: 1/8
+M: 6/8
+R: jig
+K: G
+D|GFG BAB|dcd efg|GFG dBG|ABG AFD|
+GFG BAB|dcd efg|age dBA|BGF G2 :|
+d|gfg efg|aga bge|gfg e/f/ge|dBG AFD|
+gfg efg|aga bge|g2 e dBA|BGF G2 :|
+
+
+
+X:2033
+T:Brady's Set #2
+C:Lucy Farr
+R:jig
+Z:id:hn-jig-133
+M:6/8
+K:Ador
+ABA AGE|ABA AGE|GBA GBA|GED DEG|~A3 ABc|dBA G2D|GBd dcB|1 c3 B3:|2 c3 c2d||
+efe e2d|ceg g3|GBA GBA|GED DEG|~A3 ABc|dBA G2D|GBd dcB|1 c3 c2d:|2 c3 B3||
+
+
+
+X: 1
+T: TO CASHELL I'M GOING -- JIG
+B: Ryan's Mammoth Collection of Fiddle Tunes
+R: jig
+M: 6/8
+L: 1/8
+N: Bar 20 has wrong note lengths.
+Z: Contributed 20000421182851 by John Chambers jchambers:casc.com
+K: Dmix
+(ua/g/) \
+| fef d"4"ed | (cA)B Tc2d | cAG FGA | Add dag |
+| fef d"4"ed | (cA)B Tc2d | cAG FGA | A(.d.d) d2 :|
+|: ud \
+| dfg afd | (df)g a2a | fgf ged | cde eag |
+| fef d"4"ed | (cA)B Tc2d | cAG FGA | A(.d.d) d2 :|
+ vdfg afd | dfg a2a | bgg aff | (gf)g Tg2(ag) |
+| fef d"4"ed | (cA)B Tc2d | cAG FGA | A(.d.d) d2 |]
+
+
+
+X:3017
+T:Jig Runrig, The
+O:england
+C:Fergie MacDonald
+B:Fergie's Collection (1998)
+M:6/8
+R:Jig
+L:1/8
+K:D
+f/e/|d2 d BAA|FAA BAA|Bdd AAA|fee efe|
+d2 d BAA|FAA BAA|Bdd Aff|edd d2:|]
+g|faa eff|daa caa|Bdd AAA|fee e2 g|
+faa eff|daa caa|Bdd Aff|edd d2 g|
+faa eff|daa caa|Bdd AAA|fee efe|
+d2 d BAA|FAA BAA|Bdd Aff|edd d2|]
+
+
+
+X: 1
+T: Journeyman, The
+M: 6/8
+L: 1/8
+R: jig
+K: Dmin
+|: afg efd | ede dcA | afg efd | ecA def |
+afg efd | ede cde | dcA GAc |1 dcA GED :|2 dcA GEC ||
+Def efe | d3 cAG | ABA GFE | FDE DCA, |
+Def eaf | ded cAG | ABA GFE | FDA, D2E |
+F2f eaf | d3 cAG | ABA GFE | FDE DCA, |
+DED DCA, | B,CF GFG | ABA GFE | FDA, D2a |
+
+
+
+X: 1
+T: Peeler And The Goat, The
+M: 6/8
+L: 1/8
+R: jig
+K: Ador
+|:A/B/ | c2A BAG | A2B c2d | e=fe d2c | B2G GAB |
+c2A BAG | A2B c2d | efg fed | e2A A2 :|
+|: f |gfe e2d | e2f g2a | gfe d2g | B2G GAB |
+(PcBA) (PBAG) | A2B c2d | efg fed | e2A A2 :|
+
+
+
+X:21
+T:A Health to Betty
+R:Jig
+M:6/8
+L:1/8
+Q:110
+K:GDor
+G|G>AG ^F2D|B3 A2d|d>ed c2A|f (d2d2) e|fd2 B>cd|cA2 F2F|G>AG ^F2D|B3 A2||
+
+
+
+X:86
+T:Rosie's Jig
+M:6/8
+C:Jansen Wendell 
+R:jig
+K:D
+A|:"D"def edA|"G"BAd "D"AFD|"D"DFA "Em"EGB|"F#m"Adf "A"edA|
+"D"def edA|"G"BAd "D"AFD|"D"DEF "A"~E3|1"D"FDD D2A:|2"D"FDD D2A,||
+"G"B,DD"D"A,2A,|"G"B,DD"A"E3|"D"DEF DEF|"A"~E3 EFE|
+"D"DEF "A"EFG|"D"FAd fed|"G"BAF "A"EDE|"D"FDDD2A,|
+"G"B,DD"D"A,2A,|"G"B,DD"A"E3|"D"DFA def|"A"~e3 efg|
+"D"agf "G"gfe|"D"fed "Em"edA|"G"B1/2c1/2dB "A"AFE|"D"FDD D2|]
+
+
+
+X: 3
+P: Top of Cork Road (Father O'Flynn)
+R: jig
+B: Cole
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K:  D
+A \
+| "D"dAF DFA | "G"Bed "A7"cBA | "D"dcd "A7"efg | "D"fdf "A7"ecA \
+| "D"dAF DFA | "G"Bed "A7"cBA | "D"dcd "A7"efg | "D"fdd d2 :|
+|: e \
+| "D"fdf fga | "A7"ecd efg | "Bm"dBd fed | "F#m"cAA A2c \
+| "G"BGB Bcd | "D"AFA ABc | "G"dcd "A7"efg | "D"fdd d2 :|
+
+
+
+X:1
+T: the Orphan
+R:jig
+S: Naka Ishii <n_ishii:YAHOO.COM>, from Kevin Burke
+D: Kevin Burke on "Up Close"; Eileen Ivers on "Cherish the Ladies".
+N: Related to "Star of the County Down"
+N: There's a setting in Bulmer & Sharpley's "Music from Ireland" Volume 4, no. 56.
+N: "Miss Casey", in O'Neill's "Music of Ireland", no. 1094, is very similar, perhaps an ancestor
+M:6/8
+L:1/8
+K:EMin
+GF | E3 EDB, | GFG A3 | B3 ABA | GEF EDB, | A,3 EDB, | GFG A3 | B3 ABA |1 GED EGF :|2 GED E3 |
+| e3 dBA | GAB dBd | efe dBA | GEF EDB, | A,G,A, EDB, | GFG AGA | B3 ABA | GED E3 :|
+
+
+
+X:12652
+T:Paddy in London
+S:Trad, arr. Paddy O'Brien
+R:jig
+E:10
+I:speed 300
+M:6/8
+K:D
+A1/2G1/2|FDF ABc|ded def|AGF ~G2A|BGE EAG|\
+FDF ABc|ded def|AGF BAG|FDD D2:|\
+e|fdf afd|gfe dBG|AGF ~G2A|1 BGE ~E2g|\
+fdf afd|gfe dBG|AGF BAG|FDD D2:|2 BGE EAG|\
+FDF ABc|ded def|AGF BAG|FDD D2||\
+c1/2d1/2|ecA Agf|edc ~d2B|AGF ~G2A|BGE Efg|agf gfe|\
+ded def|AGF BAG|FDD D2:||**
+
+
+
